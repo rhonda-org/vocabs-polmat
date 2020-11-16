@@ -29,7 +29,7 @@
     dct:publisher       <http://lobid.org/gnd/2019144-3> ;
     dct:source          <https://raw.githubusercontent.com/rg-mpg-de/vocabs-polmat/main/polmat.ttl> ;
     vann:preferredNamespacePrefix "polmat" ;
-    vann:preferredNamespaceUri "https://w3id.org/class/polmat/" ;
+    vann:preferredNamespaceUri "https://w3id.org/rg-mpg-de/polmat/" ;
     skos:prefLabel      "MPIeR Police Legislation Concept Scheme"@en,
                         "MPIeR Policeyordnungen Vokabular"@de,
                         "MPIeR Politieordonnanties vocabulaire"@nl ;
