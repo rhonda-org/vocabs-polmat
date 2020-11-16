@@ -27,7 +27,7 @@
     dct:issued          "2020-11-10"^^xsd:date ;
     dct:modified        "2020-11-10"^^xsd:date ;
     dct:publisher       <http://lobid.org/gnd/2019144-3> ;
-    dct:source          <https://raw.githubusercontent.com/hbz/vocabs-edu/master/isced-2013.ttl> ;
+    dct:source          <https://raw.githubusercontent.com/rg-mpg-de/vocabs-polmat/main/polmat.ttl> ;
     vann:preferredNamespacePrefix "polmat" ;
     vann:preferredNamespaceUri "https://w3id.org/class/polmat/" ;
     skos:prefLabel      "MPIeR Police Legislation Concept Scheme"@en,
