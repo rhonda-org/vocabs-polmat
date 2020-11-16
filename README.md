@@ -8,3 +8,4 @@ The taxonomy has been SKOS-ified in November 2020 by Annemieke Romein and Andrea
 
 Translations by:
 - Annemieke Romein (Dutch)
+- Toomas Kotkas and Annemieke Romein (English)
