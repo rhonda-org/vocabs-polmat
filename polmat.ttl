@@ -66,7 +66,7 @@
     skos:prefLabel      "Gesellschafts- und Sozialordnung. Religion"@de,
                         "Social Order and Religion"@en,
                         "Sociale orde en religie"@nl ;
-    skos:scopeNote      "TODO: Generic programmes which cover a range of subjects, such as languages and literature, social and natural sciences, mathematics, arts and/or physical education, should be classified in 0011 \\u2018Basic programmes and qualifications\\u2019. This should be the case even if there is some concentration on a certain category of subject matter, such as humanities, social sciences, natural sciences, etc., which can occur."@en ;
+    skos:scopeNote      "TODO: Create a scope note here."@en ;
     skos:broader        :n0 ;
     skos:narrower       :n0.1so.1 ,
                         :n0.1so.2 ,
