@@ -8,11 +8,11 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 :scheme a skos:ConceptScheme ;
-    dct:title           "MPIeR Categorisation des matières d'ordonnances de police"@fr,
-                        "MPIeR Categories of Matters regulated by Police Ordinances"@en,
-                        "MPIeR Materien der Policeyordnungen"@de,
+    dct:title           "MPIeR Categorisation des matières d'ordonnances de police"@fr ,
+                        "MPIeR Categories of Matters regulated by Police Ordinances"@en ,
+                        "MPIeR Materien der Policeyordnungen"@de ,
                         "MPIeR Politie Ordinanties"@nl ;
-    dct:description     "Concept scheme of matters regulated by historical normative rules / police ordinances"@en;
+    dct:description     "Concept scheme of matters regulated by historical normative rules / police ordinances"@en ;
     dct:created         "2020-11-10"^^xsd:date ;
     dct:issued          "2020-11-10"^^xsd:date ;
     dct:modified        "2020-11-17"^^xsd:date ;
@@ -29,11 +29,11 @@
     rdfs:seeAlso        <https://www.rg.mpg.de/research-project/repertory-of-policeyordnungen> ;
     vann:preferredNamespacePrefix "polmat" ;
     vann:preferredNamespaceUri "https://w3id.org/rg-mpg-de/polmat/" ;
-    owl:versionInfo     "1.0.0"@en;
-    owl:versionIRI      <https://w3id.org/rg-mpg-de/polmat/1.0.0>
+    owl:versionInfo     "1.0.0"@en ;
+    owl:versionIRI      <https://w3id.org/rg-mpg-de/polmat/1.0.0> ;
     vs:term_status      "testing" ;
-    skos:prefLabel      "MPIeR Police Legislation Matters Concept Scheme"@en,
-                        "MPIeR Policeyordnungsmaterien Vokabular"@de,
+    skos:prefLabel      "MPIeR Police Legislation Matters Concept Scheme"@en ,
+                        "MPIeR Policeyordnungsmaterien Vokabular"@de ,
                         "MPIeR Politieordonnanties vocabulaire"@nl ;
     skos:hasTopConcept  :n0 ,
                         :n1 .
