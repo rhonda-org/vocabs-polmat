@@ -1,37 +1,39 @@
 @prefix : <https://w3id.org/class/polmat/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix vann: <http://purl.org/vocab/vann/> .
+@prefix vs: <https://www.w3.org/2003/06/sw-vocab-status/ns#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-# @prefix CatMPIeR: <http://data.sparna.fr/vocabularies/CatMPIeR#> .
-# @prefix dc: <http://purl.org/dc/elements/1.1/> .
-# @prefix dcat: <http://www.w3.org/ns/dcat#> .
-# @prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
-# @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-# @prefix org: <http://www.w3.org/ns/org#> .
-# @prefix owl: <http://www.w3.org/2002/07/owl#> .
-# @prefix prov: <http://www.w3.org/ns/prov#> .
-# @prefix qb: <http://purl.org/linked-data/cube#> .
-# @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-# @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-# @prefix schema: <http://schema.org/> .
-# @prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
-
 :scheme a skos:ConceptScheme ;
-    dct:description     "The categories of normative rules / Police ordinances"@en;
-    dct:title           "MPIeR Categorisation des ordonnances de police"@fr,
-                        "MPIeR Categories of Police Ordinances"@en,
+    dct:title           "MPIeR Categorisation des matières d'ordonnances de police"@fr,
+                        "MPIeR Categories of Matters regulated by Police Ordinances"@en,
                         "MPIeR Materien der Policeyordnungen"@de,
                         "MPIeR Politie Ordinanties"@nl ;
+    dct:description     "Concept scheme of matters regulated by historical normative rules / police ordinances"@en;
+    dct:created         "2020-11-10"^^xsd:date ;
     dct:issued          "2020-11-10"^^xsd:date ;
-    dct:modified        "2020-11-10"^^xsd:date ;
+    dct:modified        "2020-11-17"^^xsd:date ;
     dct:publisher       <http://lobid.org/gnd/2019144-3> ;
     dct:source          <https://raw.githubusercontent.com/rg-mpg-de/vocabs-polmat/main/polmat.ttl> ;
+    dct:creator         <https://orcid.org/0000-0003-1835-1653> ;
+    dct:contributor     "Härter, Karl" ,
+                        "Kotkas, Toomas" ,
+                        "Romein, Annemieke",
+                        "Stolleis, Michael",
+                        "Wagner, Andreas" ;
+    dct:license         "cczero" ;
+    dct:bibliographicCitation  "Härter, K. et al.: MPIeR Categories of Matters regulated by Police Ordinances. SKOS Concept Scheme. Version 1.0.0. URL: <https://w3id.org/rg-mpg-de/polmat/1.0.0>"@en ;
+    rdfs:seeAlso        <https://www.rg.mpg.de/research-project/repertory-of-policeyordnungen> ;
     vann:preferredNamespacePrefix "polmat" ;
     vann:preferredNamespaceUri "https://w3id.org/rg-mpg-de/polmat/" ;
-    skos:prefLabel      "MPIeR Police Legislation Concept Scheme"@en,
-                        "MPIeR Policeyordnungen Vokabular"@de,
+    owl:versionInfo     "1.0.0"@en;
+    owl:versionIRI      <https://w3id.org/rg-mpg-de/polmat/1.0.0>
+    vs:term_status      "testing" ;
+    skos:prefLabel      "MPIeR Police Legislation Matters Concept Scheme"@en,
+                        "MPIeR Policeyordnungsmaterien Vokabular"@de,
                         "MPIeR Politieordonnanties vocabulaire"@nl ;
     skos:hasTopConcept  :n0 ,
                         :n1 .
@@ -4223,7 +4225,7 @@
     skos:altLabel       "2PSO1D"@en;
     skos:prefLabel      "Idleness"@en, "Müßiggang/Verschwendung"@de, "luiheid"@nl ;
     skos:broader        :n0.2pso.1 ;
-    skos:narrower       :m0.2pso.1.d.01 .
+    skos:narrower       :n0.2pso.1.d.01 .
 
 :n0.2pso.1.d.01 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -8220,7 +8222,7 @@
     skos:notation       "0.3prh.3.g" ;
     skos:altLabel       "3PRH3G"@en;
     skos:prefLabel      "Calendars"@en, "Zeitrechnung"@de, "kalenders"@nl ;
-    skos:broader        :n0.3prh .
+    skos:broader        :n0.3prh.3 .
 
 
 
