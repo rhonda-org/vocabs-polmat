@@ -3480,7 +3480,7 @@
 
 :n0.1so.5.d a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0.1so.5" ;
+    skos:notation       "0.1so.5.d" ;
     skos:altLabel       "1SO5D"@en;
     skos:prefLabel      "Eheschließung"@de, "Huwelijk"@nl, "Marriage"@en ;
     skos:broader        :n0.1so.5 ;
@@ -8339,7 +8339,7 @@
 
 :n0.4esp.1.b.03 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0.4esp.1.b.04" ;
+    skos:notation       "0.4esp.1.b.03" ;
     skos:altLabel       "4ESP1B3"@en;
     skos:prefLabel      "Einschränkung"@de, "Reduction"@en, "Vermindering / beperking"@nl ;
     skos:broader        :n0.4esp.1.b .
@@ -8360,7 +8360,7 @@
 
 :n0.4esp.1.b.06 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0.4esp.1.b.07" ;
+    skos:notation       "0.4esp.1.b.06" ;
     skos:altLabel       "4ESP1B6"@en;
     skos:prefLabel      "Frucht"@de, "Fruit"@en, "Fruit"@nl ;
     skos:broader        :n0.4esp.1.b .
@@ -8762,7 +8762,7 @@
 
 :n0.4esp.1.i a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0.4esp.1.i.01" ;
+    skos:notation       "0.4esp.1.i" ;
     skos:altLabel       "4ESP1I"@en;
     skos:prefLabel      "Pest control"@en, "Schädlingsbekämpfung"@de, "ongediertebestrijding"@nl ;
     skos:broader        :n0.4esp.1 ;
@@ -12478,7 +12478,7 @@
 
 :n0.4esp.6.d.03 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0.4esp.6.d.01" ;
+    skos:notation       "0.4esp.6.d.03" ;
     skos:altLabel       "4ESP6D3"@en;
     skos:prefLabel      "Ausländer"@de, "Foreigners"@en, "buitenlanders"@nl ;
     skos:broader        :n0.4esp.6.d .
