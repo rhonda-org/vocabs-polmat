@@ -1,0 +1,196 @@
+{
+  "id": "https://w3id.org/class/polmat/n0.1so.1",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fclass%2Fpolmat%2Fn0.1so.1",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fclass%2Fpolmat%2Fn0.1so.1",
+  "prefLabel": {
+    "en": "Matters of Religion",
+    "de": "Religionsangelegenheiten",
+    "nl": "Religieuze aangelegenheden"
+  },
+  "altLabel": {
+    "en": [
+      "1SO1"
+    ]
+  },
+  "notation": [
+    "0.1so.1"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.a",
+      "prefLabel": {
+        "en": "Mendicants",
+        "de": "Bettelmönche",
+        "nl": "Bedelmonniken"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.b",
+      "prefLabel": {
+        "en": "Festivals / Holidays",
+        "de": "Feiertage / Religiöse Feste",
+        "nl": "Festivals / feestdagen"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.c",
+      "prefLabel": {
+        "en": "Clergy",
+        "de": "Geistlichkeit",
+        "nl": "geestelijkheid"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.d",
+      "prefLabel": {
+        "en": "Blasphemy",
+        "de": "Gotteslästerung",
+        "nl": "Godslastering"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.e",
+      "prefLabel": {
+        "en": "Church Administration",
+        "de": "Kirchenorganisation",
+        "nl": "Kerkelijk bestuur"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.f",
+      "prefLabel": {
+        "en": "Church Discipline",
+        "de": "Kirchenzucht",
+        "nl": "Kerkelijke discipline"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.g",
+      "prefLabel": {
+        "en": "Monastries",
+        "de": "Klosterwesen/Orden",
+        "nl": "kloosters"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.h",
+      "prefLabel": {
+        "en": "Confession",
+        "de": "Konfession",
+        "nl": "Geloof"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.i",
+      "prefLabel": {
+        "en": "Religious Education",
+        "de": "Religiöse Unterweisung",
+        "nl": "Religieuze opvoeding"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.j",
+      "prefLabel": {
+        "en": "Sects and Heresy",
+        "de": "Sekten und Ketzerei",
+        "nl": "Sekten en ketterij"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.1so.1.k",
+      "prefLabel": {
+        "en": "Keeping Sabbath",
+        "de": "Sonntagsheiligung",
+        "nl": "Sabbat houden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/class/polmat/n0.1so",
+    "prefLabel": {
+      "en": "Social Order and Religion",
+      "de": "Gesellschafts- und Sozialordnung. Religion",
+      "nl": "Sociale orde en religie"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/class/polmat/scheme",
+    "title": {
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

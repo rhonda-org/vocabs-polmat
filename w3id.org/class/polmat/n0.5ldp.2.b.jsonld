@@ -1,0 +1,268 @@
+{
+  "id": "https://w3id.org/class/polmat/n0.5ldp.2.b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fclass%2Fpolmat%2Fn0.5ldp.2.b",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fclass%2Fpolmat%2Fn0.5ldp.2.b",
+  "prefLabel": {
+    "en": "Streets and Squares",
+    "de": "Straßen und Plätze",
+    "nl": "straten en pleinen"
+  },
+  "altLabel": {
+    "en": [
+      "5LDP2B"
+    ]
+  },
+  "notation": [
+    "0.5ldp.2.b"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.01",
+      "prefLabel": {
+        "en": "Expansion",
+        "de": "Ausbau",
+        "nl": "Uitbreiding"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.02",
+      "prefLabel": {
+        "en": "Open Spaces",
+        "de": "Freihaltung",
+        "nl": "Open ruimtes"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.03",
+      "prefLabel": {
+        "en": "Safeguard",
+        "de": "Geleitsrecht",
+        "nl": "Vrijgeleide"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.04",
+      "prefLabel": {
+        "en": "Engineered Roads",
+        "de": "Kunststraßen",
+        "nl": "Wegenbouw"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.05",
+      "prefLabel": {
+        "en": "Highways",
+        "de": "Chausseen",
+        "nl": "snelwegen"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.06",
+      "prefLabel": {
+        "en": "Namegiving",
+        "de": "Namensgebung",
+        "nl": "naamgeving"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.07",
+      "prefLabel": {
+        "en": "Personel",
+        "de": "Personal",
+        "nl": "personeel"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.08",
+      "prefLabel": {
+        "en": "Streetmaster",
+        "de": "Gassenmeister",
+        "nl": "Straatmeester"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.09",
+      "prefLabel": {
+        "en": "Cleaning",
+        "de": "Reinigung",
+        "nl": "schoonmaak"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.10",
+      "prefLabel": {
+        "en": "Security",
+        "de": "Sicherheit",
+        "nl": "Veiligheid"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.11",
+      "prefLabel": {
+        "en": "Fences",
+        "de": "Zäune",
+        "nl": "omheining  / hekken"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.12",
+      "prefLabel": {
+        "en": "Street Construction Work",
+        "de": "Straßenbau",
+        "nl": "wegenbouw"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.13",
+      "prefLabel": {
+        "en": "Technical Requirements",
+        "de": "Technische Vorschiften",
+        "nl": "Technische voorschriften"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.14",
+      "prefLabel": {
+        "en": "Wide",
+        "de": "Breite",
+        "nl": "Breed"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.15",
+      "prefLabel": {
+        "en": "Length",
+        "de": "Länge",
+        "nl": "Lengte"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.16",
+      "prefLabel": {
+        "en": "Cover",
+        "de": "Decke",
+        "nl": "Hoes"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.17",
+      "prefLabel": {
+        "en": "Maintanance",
+        "de": "Unterhaltung",
+        "nl": "Onderhoud"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.18",
+      "prefLabel": {
+        "en": "Toll",
+        "de": "Wegegeld",
+        "nl": "Tol"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.19",
+      "prefLabel": {
+        "en": "Dedication",
+        "de": "Widmung",
+        "nl": "Toewijding"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.5ldp.2.b.20",
+      "prefLabel": {
+        "en": "Competence",
+        "de": "Zuständigkeit",
+        "nl": "Bevoegdheid"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/class/polmat/n0.5ldp.2",
+    "prefLabel": {
+      "en": "Roads, Transportation and Mail",
+      "de": "5.2 Straßen, Verkehr und Post",
+      "nl": "Wegen, verkeer en post"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/class/polmat/scheme",
+    "title": {
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "https://w3id.org/class/polmat/n0.4esp.2.c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fclass%2Fpolmat%2Fn0.4esp.2.c",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fclass%2Fpolmat%2Fn0.4esp.2.c",
+  "prefLabel": {
+    "en": "Fishing",
+    "de": "Fischfang",
+    "nl": "visvangst"
+  },
+  "altLabel": {
+    "en": [
+      "4ESP2C"
+    ]
+  },
+  "notation": [
+    "0.4esp.2.c"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.01",
+      "prefLabel": {
+        "en": "Supervision / at sight /oversight",
+        "de": "Aufsicht",
+        "nl": "Toezicht"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.02",
+      "prefLabel": {
+        "en": "stock Protection",
+        "de": "Bestandsschutz",
+        "nl": "voorraad bescherming"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.03",
+      "prefLabel": {
+        "en": "Fishing Period",
+        "de": "Fangzeiten",
+        "nl": "vistijd"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.04",
+      "prefLabel": {
+        "en": "fish outrage",
+        "de": "Fischfrevel",
+        "nl": "vis-schennis"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.05",
+      "prefLabel": {
+        "en": "Fish size",
+        "de": "Fischmaß",
+        "nl": "vis grootte"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.06",
+      "prefLabel": {
+        "en": "Fishpond",
+        "de": "Fischweiher",
+        "nl": "Visvijver"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.07",
+      "prefLabel": {
+        "en": "Fishing Equipement",
+        "de": "Fischzeug",
+        "nl": "visuitrusting"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.08",
+      "prefLabel": {
+        "en": "Lease",
+        "de": "Pacht",
+        "nl": "Huurcontract"
+      }
+    },
+    {
+      "id": "https://w3id.org/class/polmat/n0.4esp.2.c.09",
+      "prefLabel": {
+        "en": "Admission",
+        "de": "Zulassung",
+        "nl": "Toelating"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/class/polmat/n0.4esp.2",
+    "prefLabel": {
+      "en": "Forestry and Land Use",
+      "de": "4.2 Forst- und Bodennutzung",
+      "nl": "bos- en landgebruik"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/class/polmat/scheme",
+    "title": {
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
