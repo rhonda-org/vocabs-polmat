@@ -14,7 +14,7 @@
     ]
   },
   "notation": [
-    "0111207"
+    "0.1so.1.b.07"
   ],
   "broader": {
     "id": "https://w3id.org/rg-mpg-de/polmat/n0.1so.1.b",
@@ -27,9 +27,9 @@
   "inScheme": {
     "id": "https://w3id.org/rg-mpg-de/polmat/scheme",
     "title": {
-      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
       "en": "MPIeR Categories of Matters regulated by Police Ordinances",
       "de": "MPIeR Materien der Policeyordnungen",
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
       "nl": "MPIeR Politie Ordinanties"
     }
   },
