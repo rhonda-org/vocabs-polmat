@@ -47,7 +47,10 @@
                         "Policeyordnungen"@de,
                         "Politieordonnanties"@nl ;
     skos:narrower       :n0.1so ,
-                        :n0.2pso .
+                        :n0.2pso ,
+                        :n0.3prh ,
+                        :n0.4esp ,
+                        :n0.5ldp .
 
 :n1 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -74,7 +77,8 @@
                         :n0.1so.4 ,
                         :n0.1so.5 ,
                         :n0.1so.6 ,
-                        :n0.1so.7 .
+                        :n0.1so.7 
+    .
 
 
 :n0.1so.1 a skos:Concept ;
@@ -95,7 +99,8 @@
                         :n0.1so.1.h ,
                         :n0.1so.1.i ,
                         :n0.1so.1.j ,
-                        :n0.1so.1.k .
+                        :n0.1so.1.k 
+    .
 
 
 :n0.1so.1.a a skos:Concept ;
@@ -107,7 +112,8 @@
                         "Mendicants"@en ;
     skos:broader        :n0.1so.1 ;
     skos:narrower       :n0.1so.1.a.01 ,
-                        :n0.1so.1.a.02 .
+                        :n0.1so.1.a.02 
+    .
 
 :n0.1so.1.a.01 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -149,7 +155,8 @@
                         :n0.1so.1.b.11 ,
                         :n0.1so.1.b.12 ,
                         :n0.1so.1.b.13 ,
-                        :n0.1so.1.b.14 .
+                        :n0.1so.1.b.14 
+    .
 
 :n0.1so.1.b.01 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -2949,22 +2956,23 @@
     skos:altLabel       "1SO3C"@en;
     skos:prefLabel      "Gypsies"@en, "Zigeuner"@de, "Zigeuners"@nl ;
     skos:broader        :n0.1so.3 ;
-    skos:narrower       :n0.1so.3.01 ,
-                        :n0.1so.3.02 ,
-                        :n0.1so.3.03 ,
-                        :n0.1so.3.04 ,
-                        :n0.1so.3.05 ,
-                        :n0.1so.3.06 ,
-                        :n0.1so.3.07 ,
-                        :n0.1so.3.08 ,
-                        :n0.1so.3.09 ,
-                        :n0.1so.3.10 ,
-                        :n0.1so.3.11 ,
-                        :n0.1so.3.12 ,
-                        :n0.1so.3.13 ,
-                        :n0.1so.3.14 ,
-                        :n0.1so.3.15 ,
-                        :n0.1so.3.16 .
+    skos:narrower       :n0.1so.3.c.01 ,
+                        :n0.1so.3.c.02 ,
+                        :n0.1so.3.c.03 ,
+                        :n0.1so.3.c.04 ,
+                        :n0.1so.3.c.05 ,
+                        :n0.1so.3.c.06 ,
+                        :n0.1so.3.c.07 ,
+                        :n0.1so.3.c.08 ,
+                        :n0.1so.3.c.09 ,
+                        :n0.1so.3.c.10 ,
+                        :n0.1so.3.c.11 ,
+                        :n0.1so.3.c.12 ,
+                        :n0.1so.3.c.13 ,
+                        :n0.1so.3.c.14 ,
+                        :n0.1so.3.c.15 ,
+                        :n0.1so.3.c.16 
+    .
 
 :n0.1so.3.c.01 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -7742,7 +7750,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "0.3prh.3" ;
     skos:altLabel       "3PRH3"@en;
-    skos:prefLabel      "Education and Culture"@en, "Erziehungswesen ; Kultur"@de, "Opleiding en cultuur"@nl ;
+    skos:prefLabel      "Education and Culture"@en, "Erziehungswesen ; Kultur"@de, "Opleiding en cultuur"@nl ;
     skos:broader        :n0.3prh ;
     skos:narrower       :n0.3prh.3.a ,
                         :n0.3prh.3.b ,
@@ -11542,7 +11550,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "0.4esp.5.j.06" ;
     skos:altLabel       "4ESP5J6"@en;
-    skos:prefLabel      "Associations :Admission"@en, "Vereinigungen : Zulassung"@de, "verenigingen : toelating"@nl ;
+    skos:prefLabel      "Associations :Admission"@en, "Vereinigungen : Zulassung"@de, "verenigingen : toelating"@nl ;
     skos:broader        :n0.4esp.5.j .
 
 
@@ -14863,17 +14871,17 @@
     skos:prefLabel      "Bauwesen"@de, "Bouwsector"@nl, "Construction Industry"@en ;
     skos:broader        :n0.5ldp.4 ;
     skos:narrower       :n0.5ldp.4.b.01 ,
-                        :n0.5ldp.5.b.02 ,
-                        :n0.5ldp.5.b.03 ,
-                        :n0.5ldp.5.b.04 ,
-                        :n0.5ldp.5.b.05 ,
-                        :n0.5ldp.5.b.06 ,
-                        :n0.5ldp.5.b.07 ,
-                        :n0.5ldp.5.b.08 ,
-                        :n0.5ldp.5.b.09 ,
-                        :n0.5ldp.5.b.10 ,
-                        :n0.5ldp.5.b.11 ,
-                        :n0.5ldp.5.b.12 .
+                        :n0.5ldp.4.b.02 ,
+                        :n0.5ldp.4.b.03 ,
+                        :n0.5ldp.4.b.04 ,
+                        :n0.5ldp.4.b.05 ,
+                        :n0.5ldp.4.b.06 ,
+                        :n0.5ldp.4.b.07 ,
+                        :n0.5ldp.4.b.08 ,
+                        :n0.5ldp.4.b.09 ,
+                        :n0.5ldp.4.b.10 ,
+                        :n0.5ldp.4.b.11 ,
+                        :n0.5ldp.4.b.12 .
 
 :n0.5ldp.4.b.01 a skos:Concept ;
     skos:inScheme       :scheme ;
