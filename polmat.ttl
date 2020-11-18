@@ -8,9 +8,9 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 :scheme a skos:ConceptScheme ;
-    dct:title           "MPIeR Categorisation des matières d'ordonnances de police"@fr ,
-                        "MPIeR Categories of Matters regulated by Police Ordinances"@en ,
+    dct:title           "MPIeR Categories of Matters regulated by Police Ordinances"@en ,
                         "MPIeR Materien der Policeyordnungen"@de ,
+                        "MPIeR Categorisation des matières d'ordonnances de police"@fr ,
                         "MPIeR Politie Ordinanties"@nl ;
     dct:description     "Concept scheme of matters regulated by historical normative rules / police ordinances"@en ;
     dct:created         "2020-11-10"^^xsd:date ;
@@ -196,7 +196,7 @@
 
 :n0.1so.1.b.05 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111205" ;
+    skos:notation       "0.1so.1.b.05" ;
     skos:altLabel       "1SO1B5"@en ;
     skos:prefLabel      "Market"@en ,
                         "Markt"@de ,
@@ -205,7 +205,7 @@
 
 :n0.1so.1.b.06 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111206" ;
+    skos:notation       "0.1so.1.b.06" ;
     skos:altLabel       "1SO1B6"@en ;
     skos:prefLabel      "Processions"@en ,
                         "Prozessionen"@de ,
@@ -214,7 +214,7 @@
 
 :n0.1so.1.b.07 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111207" ;
+    skos:notation       "0.1so.1.b.07" ;
     skos:altLabel       "1SO1B7"@en ;
     skos:prefLabel      "Reisen"@de ,
                         "Travel"@en ,
@@ -223,7 +223,7 @@
 
 :n0.1so.1.b.08 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111208" ;
+    skos:notation       "0.1so.1.b.08" ;
     skos:altLabel       "1SO1B8"@en ;
     skos:prefLabel      "Sonntagsarbeit"@de ,
                         "Sunday work"@en ,
@@ -232,7 +232,7 @@
 
 :n0.1so.1.b.09 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111209" ;
+    skos:notation       "0.1so.1.b.09" ;
     skos:altLabel       "1SO1B9"@en ;
     skos:prefLabel      "Plays"@en ,
                         "Spelen"@nl ,
@@ -241,7 +241,7 @@
 
 :n0.1so.1.b.10 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111210" ;
+    skos:notation       "0.1so.1.b.10" ;
     skos:altLabel       "1SO1B10"@en ;
     skos:prefLabel      "Dance"@en ,
                         "Tanzen"@de ,
@@ -250,7 +250,7 @@
 
 :n0.1so.1.b.11 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111211" ;
+    skos:notation       "0.1so.1.b.11" ;
     skos:altLabel       "1SO1B11"@en ;
     skos:prefLabel      "Pleasures"@en ,
                         "Plezier"@nl ,
@@ -259,7 +259,7 @@
 
 :n0.1so.1.b.12 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111212" ;
+    skos:notation       "0.1so.1.b.12" ;
     skos:altLabel       "1SO1B12"@en ;
     skos:prefLabel      "Reduction"@en ,
                         "Verminderung"@de ,
@@ -268,7 +268,7 @@
 
 :n0.1so.1.b.13 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111213" ;
+    skos:notation       "0.1so.1.b.13" ;
     skos:altLabel       "1SO1B13"@en ;
     skos:prefLabel      "Arbeidsverplichtingen"@nl ,
                         "Arbeitspflicht"@de ,
@@ -277,7 +277,7 @@
 
 :n0.1so.1.b.14 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:notation       "0111214" ;
+    skos:notation       "0.1so.1.b.14" ;
     skos:altLabel       "1SO1B14"@en ;
     skos:prefLabel      "Pilgrimage"@en ,
                         "Wallfahrten"@de ,
