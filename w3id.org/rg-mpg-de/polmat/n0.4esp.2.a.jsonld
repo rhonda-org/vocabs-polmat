@@ -1,0 +1,260 @@
+{
+  "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0.4esp.2.a",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0.4esp.2.a",
+  "prefLabel": {
+    "en": "Mining Industry",
+    "de": "Bergbau/Bergwerk",
+    "nl": "Mijnindustrie"
+  },
+  "altLabel": {
+    "en": [
+      "4ESP2A"
+    ]
+  },
+  "notation": [
+    "0.4esp.2.a"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.01",
+      "prefLabel": {
+        "en": "Levy",
+        "de": "Abgaben",
+        "nl": "Heffing"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.02",
+      "prefLabel": {
+        "en": "Supervision / at sight /oversight",
+        "de": "Aufsicht",
+        "nl": "Toezicht"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.03",
+      "prefLabel": {
+        "en": "mining authorities",
+        "de": "Bergämter",
+        "nl": "mijnbouw autoriteiten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.04",
+      "prefLabel": {
+        "en": "Mining Supervisor / shift foreman",
+        "de": "Schichtmeister",
+        "nl": "ploegbaas"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.05",
+      "prefLabel": {
+        "en": "Overseer",
+        "de": "Steiger",
+        "nl": "Opzichter"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.06",
+      "prefLabel": {
+        "en": "Mining liberties / Mountain freedoms",
+        "de": "Bergfreiheiten",
+        "nl": "mijnbouw vrijheden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.07",
+      "prefLabel": {
+        "en": "Miningmaster",
+        "de": "Bergmeister",
+        "nl": "mijnbaas"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.08",
+      "prefLabel": {
+        "en": "Reduction",
+        "de": "Beschränkung",
+        "nl": "Vermindering / beperking"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.09",
+      "prefLabel": {
+        "en": "operating conditions",
+        "de": "Betriebsbedingungen",
+        "nl": "werkomstandigheden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.10",
+      "prefLabel": {
+        "en": "ore / mineral Processing",
+        "de": "Erzverarbeitung",
+        "nl": "Verwerken van mineralen en ertsen"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.11",
+      "prefLabel": {
+        "en": "Promotion / advancement / support",
+        "de": "Förderung",
+        "nl": "Promotie"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.12",
+      "prefLabel": {
+        "en": "Jurisdiction",
+        "de": "Gerichtsbarkeit",
+        "nl": "Jurisdictie"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.13",
+      "prefLabel": {
+        "en": "Companies",
+        "de": "Gesellschaften",
+        "nl": "bedrijven"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.14",
+      "prefLabel": {
+        "en": "Concessions",
+        "de": "Konzessionen",
+        "nl": "concessies"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.15",
+      "prefLabel": {
+        "en": "Usage",
+        "de": "Nutzung",
+        "nl": "Gebruik"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.16",
+      "prefLabel": {
+        "en": "Mining Rights",
+        "de": "Schürfrechte",
+        "nl": "mijnbouw rechten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.17",
+      "prefLabel": {
+        "en": "Technical Requirements",
+        "de": "Technische Vorschriften",
+        "nl": "Technische voorschriften"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.18",
+      "prefLabel": {
+        "en": "Maintenance",
+        "de": "Unterhaltung",
+        "nl": "Onderhoud"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2.a.19",
+      "prefLabel": {
+        "en": "Admission",
+        "de": "Zulassung",
+        "nl": "Toelating"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp.2",
+    "prefLabel": {
+      "en": "Forestry and Land Use",
+      "de": "4.2 Forst- und Bodennutzung",
+      "nl": "bos- en landgebruik"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/scheme",
+    "title": {
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

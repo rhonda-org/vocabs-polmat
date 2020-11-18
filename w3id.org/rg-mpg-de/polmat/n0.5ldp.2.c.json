@@ -1,0 +1,180 @@
+{
+  "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0.5ldp.2.c",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0.5ldp.2.c",
+  "prefLabel": {
+    "en": "Transportation",
+    "de": "Verkehr",
+    "nl": "vervoer / verkeer"
+  },
+  "altLabel": {
+    "en": [
+      "5LDP2C"
+    ]
+  },
+  "notation": [
+    "0.5ldp.2.c"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.01",
+      "prefLabel": {
+        "en": "driving rules",
+        "de": "Fahrvorschriften",
+        "nl": "verkeersregels"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.02",
+      "prefLabel": {
+        "en": "Coachmen",
+        "de": "Fuhrleute",
+        "nl": "chauffeurs"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.03",
+      "prefLabel": {
+        "en": "Professional Duties",
+        "de": "Berufspflichten",
+        "nl": "beroepstaken"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.04",
+      "prefLabel": {
+        "en": "Speed",
+        "de": "Geschwindigkeit",
+        "nl": "Snelheid"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.05",
+      "prefLabel": {
+        "en": "CargoTransport",
+        "de": "Güterbeförderung",
+        "nl": "goederenvervoer / goederentransport"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.06",
+      "prefLabel": {
+        "en": "Price and Wages Taxes",
+        "de": "Preis- & Lohntaxen",
+        "nl": "prijs- en loonbelasting"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.07",
+      "prefLabel": {
+        "en": "PassengerTransport",
+        "de": "Personenbeförderung",
+        "nl": "personenvervoer /personentransort"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.08",
+      "prefLabel": {
+        "en": "Security",
+        "de": "Sicherheit",
+        "nl": "Veiligheid"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2.c.09",
+      "prefLabel": {
+        "en": "Means of Transportation",
+        "de": "Verkehrsmittel",
+        "nl": "Vervoermiddelen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp.2",
+    "prefLabel": {
+      "en": "Roads, Transportation and Mail",
+      "de": "5.2 Straßen, Verkehr und Post",
+      "nl": "Wegen, verkeer en post"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/scheme",
+    "title": {
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
