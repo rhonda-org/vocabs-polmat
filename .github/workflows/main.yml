@@ -3,7 +3,6 @@ name: Build /public and delpoy to gh-pages with docker container
 on:
   push:
     branches:
-      - master
       - main
       - gh-pages
   workflow_dispatch:
@@ -31,7 +30,7 @@ jobs:
 
       - run: mkdir data
 
-      - run: git clone https://github.com/sroertgen/vocabs-polmat.git data/
+      - run: git clone https://github.com/rg-mpg-de/vocabs-polmat.git data/
 
       - name: make .env.production file
         run: echo "PATH_PREFIX=/vocabs-polmat" > .env.production
