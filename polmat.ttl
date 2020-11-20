@@ -35,8 +35,7 @@
     skos:prefLabel      "MPIeR Police Legislation Matters Concept Scheme"@en ,
                         "MPIeR Policeyordnungsmaterien Vokabular"@de ,
                         "MPIeR Politieordonnanties vocabulaire"@nl ;
-    skos:hasTopConcept  :n0 
-    .
+    skos:hasTopConcept  :n0 .
 
 :n0 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -49,8 +48,7 @@
     skos:scopeNote      "Social practice or constellation regulated by normative provisions."@en ,
                         "Von normativen Regeln regulierte Soziale Praxis oder Konstellation"@de ;
     skos:narrower       :n01 ,
-                        :n02 
-    .
+                        :n02 .
 
 :n01 a skos:Concept ;
     skos:inScheme       :scheme ;
