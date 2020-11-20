@@ -35,7 +35,8 @@
     skos:prefLabel      "MPIeR Police Legislation Matters Concept Scheme"@en ,
                         "MPIeR Policeyordnungsmaterien Vokabular"@de ,
                         "MPIeR Politieordonnanties vocabulaire"@nl ;
-    skos:hasTopConcept  :n0 .
+    skos:hasTopConcept  :n0 
+    .
 
 :n0 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -45,8 +46,11 @@
     skos:prefLabel      "Regulatory Matter"@en,
                         "Regelungsmaterie"@de,
                         "Politieordonnanties"@nl ;
+    skos:scopeNote      "Social practice or constellation regulated by normative provisions."@en ,
+                        "Von normativen Regeln regulierte Soziale Praxis oder Konstellation"@de ;
     skos:narrower       :n01 ,
-                        :n02 .
+                        :n02 
+    .
 
 :n01 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -55,11 +59,13 @@
     skos:prefLabel      "Police Matter"@en,
                         "Policeymaterie"@de,
                         "Politieordonnanties"@nl ;
+    skos:broader        :n0 ;
     skos:narrower       :n01.1so ,
                         :n01.2pso ,
                         :n01.3prh ,
                         :n01.4esp ,
-                        :n01.5ldp .
+                        :n01.5ldp 
+    .
 
 :n02 a skos:Concept ;
     skos:inScheme       :scheme ;
@@ -67,7 +73,9 @@
     skos:altLabel       "02 Other"@en;
     skos:prefLabel      "Internationaal recht"@nl,
                         "International law"@en,
-                        "Internationales Recht"@de .
+                        "Internationales Recht"@de ;
+    skos:broader        :n0 
+    .
 
 
 :n01.1so a skos:Concept ;
