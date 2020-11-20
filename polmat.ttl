@@ -35,7 +35,8 @@
     skos:prefLabel      "MPIeR Police Legislation Matters Concept Scheme"@en ,
                         "MPIeR Policeyordnungsmaterien Vokabular"@de ,
                         "MPIeR Politieordonnanties vocabulaire"@nl ;
-    skos:hasTopConcept  :n0 .
+    skos:hasTopConcept  :n0
+    .
 
 :n0 a skos:Concept ;
     skos:inScheme       :scheme ;
