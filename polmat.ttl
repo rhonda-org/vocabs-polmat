@@ -50,7 +50,6 @@
 
 :n01 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:topConceptOf   :scheme ;
     skos:notation       "01" ;
     skos:altLabel       "01 Politia"@en;
     skos:prefLabel      "Police Matter"@en,
@@ -64,7 +63,6 @@
 
 :n02 a skos:Concept ;
     skos:inScheme       :scheme ;
-    skos:topConceptOf   :scheme ;
     skos:notation       "02" ;
     skos:altLabel       "02 Other"@en;
     skos:prefLabel      "Internationaal recht"@nl,
