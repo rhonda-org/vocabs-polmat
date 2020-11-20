@@ -41,11 +41,11 @@
     skos:inScheme       :scheme ;
     skos:topConceptOf   :scheme ;
     skos:notation       "0" ;
-    skos:altLabel       "0Matter"@en;
+    skos:altLabel       "0Matter"@en ;
     skos:prefLabel      "Regulatory Matter"@en ,
                         "Regelungsmaterie"@de ,
                         "Politieordonnanties"@nl ;
-    skos:scopeNote      "Social practice or constellation regulated by normative provisions."@en ,
+    skos:scopeNote      "Social practice or constellation regulated by normative provisions"@en ,
                         "Von normativen Regeln regulierte Soziale Praxis oder Konstellation"@de ;
     skos:narrower       :n01 ,
                         :n02 .
