@@ -43,8 +43,8 @@
     skos:topConceptOf   :scheme ;
     skos:notation       "0" ;
     skos:altLabel       "0Matter"@en;
-    skos:prefLabel      "Regulatory Matter"@en,
-                        "Regelungsmaterie"@de,
+    skos:prefLabel      "Regulatory Matter"@en ,
+                        "Regelungsmaterie"@de ,
                         "Politieordonnanties"@nl ;
     skos:scopeNote      "Social practice or constellation regulated by normative provisions."@en ,
                         "Von normativen Regeln regulierte Soziale Praxis oder Konstellation"@de ;
@@ -55,9 +55,9 @@
 :n01 a skos:Concept ;
     skos:inScheme       :scheme ;
     skos:notation       "01" ;
-    skos:altLabel       "01 Politia"@en;
-    skos:prefLabel      "Police Matter"@en,
-                        "Policeymaterie"@de,
+    skos:altLabel       "01 Politia"@en ;
+    skos:prefLabel      "Police Matter"@en ,
+                        "Policeymaterie"@de ,
                         "Politieordonnanties"@nl ;
     skos:broader        :n0 ;
     skos:narrower       :n01.1so ,
@@ -71,8 +71,8 @@
     skos:inScheme       :scheme ;
     skos:notation       "02" ;
     skos:altLabel       "02 Other"@en;
-    skos:prefLabel      "Internationaal recht"@nl,
-                        "International law"@en,
+    skos:prefLabel      "Internationaal recht"@nl ,
+                        "International law"@en ,
                         "Internationales Recht"@de ;
     skos:broader        :n0 
     .
@@ -82,8 +82,8 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.1so" ;
     skos:altLabel       "1SO"@en;
-    skos:prefLabel      "1 Gesellschafts- und Sozialordnung. Religion"@de,
-                        "1 Social Order and Religion"@en,
+    skos:prefLabel      "1 Gesellschafts- und Sozialordnung. Religion"@de ,
+                        "1 Social Order and Religion"@en ,
                         "1 Sociale orde en religie"@nl ;
     skos:scopeNote      "TODO: Create a scope note here."@en ;
     skos:broader        :n01 ;
@@ -8291,7 +8291,7 @@
 :n01.4esp.1 a skos:Concept ;
     skos:inScheme       :scheme ;
     skos:notation       "01.4esp.1" ;
-    skos:altLabel       "4ESP1"@en;
+    skos:altLabel       "4ESP1"@en ;
     skos:prefLabel      "4.1 Landwirtschaft"@de ,
                         "4.1 Agriculture"@en ,
                         "4.1 landbouw"@nl ;
@@ -8734,10 +8734,10 @@
     skos:altLabel       "4ESP1F"@en;
     skos:prefLabel      "Güter"@de, "Products"@en, "producten"@nl ;
     skos:broader        :n01.4esp.1 ;
-    skos:narrower       :n01.4esp.1.e.01 ,
-                        :n01.4esp.1.e.02 ,
-                        :n01.4esp.1.e.03 ,
-                        :n01.4esp.1.e.04 .
+    skos:narrower       :n01.4esp.1.f.01 ,
+                        :n01.4esp.1.f.02 ,
+                        :n01.4esp.1.f.03 ,
+                        :n01.4esp.1.f.04 .
 
 :n01.4esp.1.f.01 a skos:Concept ;
     skos:inScheme       :scheme ;
