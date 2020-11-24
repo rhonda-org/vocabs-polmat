@@ -32,22 +32,6 @@
         "placeholder": "The URL of the resource"
       }
     },
-    "type": {
-      "title": "Type of Object",
-      "description": "This describes what type of entity this is.",
-      "type": "object",
-      "properties": {
-        "type": {
-          "type": "string",
-          "enum": [
-            "Ordinance"
-          ]
-        }
-      },
-      "_display": {
-        "className": "hidden"
-      }
-    },
     "legislator": {
       "title": "Legislator",
       "type": "array",
