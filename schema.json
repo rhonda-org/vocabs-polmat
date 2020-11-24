@@ -6,15 +6,14 @@
   "default": {
     "@context": {
       "id": "@id",
-      "type": "@type",
+      "type": "lpo:Legal_Provision",
       "@vocab": "http://schema.org/",
       "@language": "de",
       "skos": "http://www.w3.org/2004/02/skos/core#",
       "lpo": "http://w3id.org/rg-mpg-de/lpo#",
       "prefLabel": "skos:prefLabel",
       "inScheme": "skos:inScheme",
-      "Concept": "skos:Concept",
-      "Ordinance": "lpo:Legal_Provision"
+      "Concept": "skos:Concept"
     }
   },
   "properties": {
