@@ -8,10 +8,13 @@
       "id": "@id",
       "type": "@type",
       "@vocab": "http://schema.org/",
+      "@language": "de",
       "skos": "http://www.w3.org/2004/02/skos/core#",
+      "lpo": "http://w3id.org/rg-mpg-de/lpo#",
       "prefLabel": "skos:prefLabel",
       "inScheme": "skos:inScheme",
-      "Concept": "skos:Concept"
+      "Concept": "skos:Concept",
+      "Ordinance": "lpo:Legal_Provision"
     }
   },
   "properties": {
@@ -28,6 +31,22 @@
       "format": "uri",
       "_display": {
         "placeholder": "The URL of the resource"
+      }
+    },
+    "type": {
+      "title": "Type of Object",
+      "description": "This describes what type of entity this is.",
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": [
+            "Ordinance"
+          ]
+        }
+      },
+      "_display": {
+        "className": "hidden"
       }
     },
     "legislator": {
