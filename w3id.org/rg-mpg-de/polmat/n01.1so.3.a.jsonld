@@ -1,0 +1,468 @@
+{
+  "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn01.1so.3.a",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn01.1so.3.a",
+  "prefLabel": {
+    "en": "Vagrants",
+    "de": "Fahrende Leute",
+    "nl": "Rondtrekkende lieden/ bedelaars"
+  },
+  "altLabel": {
+    "en": [
+      "1SO3A"
+    ]
+  },
+  "notation": [
+    "01.1so.3.a"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.01",
+      "prefLabel": {
+        "en": "Labourer",
+        "de": "Arbeiter",
+        "nl": "Arbeider"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.02",
+      "prefLabel": {
+        "en": "Labouremployment",
+        "de": "Arbeitseinsatz",
+        "nl": "Werkinzet"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.03",
+      "prefLabel": {
+        "en": "ForcedLabour",
+        "de": "Arbeitszwang",
+        "nl": "Dwangarbeid"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.04",
+      "prefLabel": {
+        "en": "LivingStay",
+        "de": "Aufenthalt",
+        "nl": "Verblijf"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.05",
+      "prefLabel": {
+        "en": "Ban",
+        "de": "Verbot",
+        "nl": "Verbod"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.06",
+      "prefLabel": {
+        "en": "COnditions",
+        "de": "Bedingungen",
+        "nl": "Voorwaarden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.07",
+      "prefLabel": {
+        "en": "Reduction",
+        "de": "Einschränkung",
+        "nl": "Vermindering"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.08",
+      "prefLabel": {
+        "en": "Supervision",
+        "de": "Aufsicht",
+        "nl": "Toezicht"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.09",
+      "prefLabel": {
+        "en": "HostingStrangers",
+        "de": "Beherbergung Fremder",
+        "nl": "Onderdak bieden aan vreemden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.10",
+      "prefLabel": {
+        "en": "HostingBan",
+        "de": "Beherbergungsverbot",
+        "nl": "Herbergingsverbod"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.11",
+      "prefLabel": {
+        "en": "Mendicants",
+        "de": "Bettelmönche",
+        "nl": "Bedelmonniken"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.12",
+      "prefLabel": {
+        "en": "BeggingBan",
+        "de": "Bettelverbot",
+        "nl": "Bedelverbod"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.13",
+      "prefLabel": {
+        "en": "BrandingMark",
+        "de": "Brandmarkung",
+        "nl": "Brandmerk"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.14",
+      "prefLabel": {
+        "en": "Differenciation",
+        "de": "Differenzierung",
+        "nl": "Differentiatie"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.15",
+      "prefLabel": {
+        "en": "Strangers",
+        "de": "Fremde",
+        "nl": "Vreemden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.16",
+      "prefLabel": {
+        "en": "Locals",
+        "de": "Einheimische",
+        "nl": "Lokale bevolking"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.17",
+      "prefLabel": {
+        "en": "PassingThrough",
+        "de": "Durchzug",
+        "nl": "Passeren"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.18",
+      "prefLabel": {
+        "en": "EntranceBan",
+        "de": "Einreiseverbot",
+        "nl": "Inreisverbod"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.19",
+      "prefLabel": {
+        "en": "Arrest",
+        "de": "Festnahme",
+        "nl": "Arresteren"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.20",
+      "prefLabel": {
+        "en": "Journeymen",
+        "de": "Gesellen",
+        "nl": "gezel"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.21",
+      "prefLabel": {
+        "en": "Farmhands",
+        "de": "Gesinde",
+        "nl": "boerenknecht"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.22",
+      "prefLabel": {
+        "en": "BorderControl",
+        "de": "Grenzkontrolle",
+        "nl": "Grens controle"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.23",
+      "prefLabel": {
+        "en": "Peddler",
+        "de": "Hausierer",
+        "nl": "Marskramer"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.24",
+      "prefLabel": {
+        "en": "Characteristics",
+        "de": "Kennzeichnung",
+        "nl": "Kenmerken"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.25",
+      "prefLabel": {
+        "en": "chandler",
+        "de": "Krämer",
+        "nl": "Kramer / kruidenier"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.26",
+      "prefLabel": {
+        "en": "Expulsion",
+        "de": "Landesverweisung",
+        "nl": "verdrijving"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.27",
+      "prefLabel": {
+        "en": "Identificatie",
+        "de": "Legitimation",
+        "nl": "identificatie"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.28",
+      "prefLabel": {
+        "en": "MilitaryService",
+        "de": "Militärdienst",
+        "nl": "Militaire dienst"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.29",
+      "prefLabel": {
+        "en": "Passes",
+        "de": "Pässe",
+        "nl": "Passen/ paspoort"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.30",
+      "prefLabel": {
+        "en": "PassControl",
+        "de": "Paßkontrolle",
+        "nl": "Pascontrole"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.31",
+      "prefLabel": {
+        "en": "Preachers",
+        "de": "Prediger",
+        "nl": "Predikanten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.32",
+      "prefLabel": {
+        "en": "Roaming",
+        "de": "Streifen",
+        "nl": "Rondstruinen"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.33",
+      "prefLabel": {
+        "en": "Dayworkers",
+        "de": "Tagelöhner",
+        "nl": "Dagloners"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.34",
+      "prefLabel": {
+        "en": "EntertainmentArtists",
+        "de": "Unterhaltungskünstler",
+        "nl": "Entertainmentartisten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.35",
+      "prefLabel": {
+        "en": "TheaterArtists",
+        "de": "Spielleute",
+        "nl": "Theaterartisten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.36",
+      "prefLabel": {
+        "en": "Musicians",
+        "de": "Musiker",
+        "nl": "muzikanten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.37",
+      "prefLabel": {
+        "en": "Jesters",
+        "de": "Narren",
+        "nl": "Narren"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.38",
+      "prefLabel": {
+        "en": "Poets",
+        "de": "Reimsprecher",
+        "nl": "dichters"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.39",
+      "prefLabel": {
+        "en": "Dancers",
+        "de": "Tänzerinnen",
+        "nl": "dansers"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.40",
+      "prefLabel": {
+        "en": "FortuneTellers",
+        "de": "Wahrsager",
+        "nl": "Waarzeggers"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.41",
+      "prefLabel": {
+        "en": "Checking strangers",
+        "de": "Überprüfung Fremder",
+        "nl": "Vreemdelingen controleren"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3.a.42",
+      "prefLabel": {
+        "en": "Pilgrims",
+        "de": "Wallfahrer",
+        "nl": "pelgrims"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/n01.1so.3",
+    "prefLabel": {
+      "en": "1.3 Marginal Groups",
+      "de": "1.3 Randgruppen",
+      "nl": "1.3 Marginale groepen"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/scheme",
+    "title": {
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

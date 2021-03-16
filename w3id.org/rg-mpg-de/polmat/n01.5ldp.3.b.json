@@ -1,0 +1,164 @@
+{
+  "id": "https://w3id.org/rg-mpg-de/polmat/n01.5ldp.3.b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn01.5ldp.3.b",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn01.5ldp.3.b",
+  "prefLabel": {
+    "en": "Renting",
+    "de": "Vermietung/Verpachtung",
+    "nl": "Het huren"
+  },
+  "altLabel": {
+    "en": [
+      "5LDP3B"
+    ]
+  },
+  "notation": [
+    "01.5ldp.3.b"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.5ldp.3.b.01",
+      "prefLabel": {
+        "en": "Termination",
+        "de": "Kündigung",
+        "nl": "Beëindiging  / opzegging"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.5ldp.3.b.02",
+      "prefLabel": {
+        "en": "Rent",
+        "de": "Miete",
+        "nl": "Huur"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.5ldp.3.b.03",
+      "prefLabel": {
+        "en": "Tenant Change",
+        "de": "Mieterwechsel",
+        "nl": "verandering van huurder"
+      }
+    },
+    {
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01.5ldp.3.b.04",
+      "prefLabel": {
+        "en": "Interest",
+        "de": "Zins",
+        "nl": "Interest  / rente"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/n01.5ldp.3",
+    "prefLabel": {
+      "en": "5.3 Land Real Estate",
+      "de": "5.3 Grundstücks- und Bodenordnung",
+      "nl": "5.3 Land- en bodemvoorschriften"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/rg-mpg-de/polmat/scheme",
+    "title": {
+      "en": "MPIeR Categories of Matters regulated by Police Ordinances",
+      "de": "MPIeR Materien der Policeyordnungen",
+      "fr": "MPIeR Categorisation des matières d'ordonnances de police",
+      "nl": "MPIeR Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

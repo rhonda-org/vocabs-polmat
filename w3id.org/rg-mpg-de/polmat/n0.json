@@ -4,57 +4,37 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0",
   "prefLabel": {
-    "en": "Police Legislation",
-    "de": "Policeyordnungen",
+    "en": "Regulatory Matter",
+    "de": "Regelungsmaterie",
     "nl": "Politieordonnanties"
   },
   "altLabel": {
     "en": [
-      "0Politia"
+      "0Matter"
     ]
+  },
+  "scopeNote": {
+    "en": "Social practice or constellation regulated by normative provisions",
+    "de": "Von normativen Regeln regulierte Soziale Praxis oder Konstellation"
   },
   "notation": [
     "0"
   ],
   "narrower": [
     {
-      "id": "https://w3id.org/rg-mpg-de/polmat/n0.1so",
+      "id": "https://w3id.org/rg-mpg-de/polmat/n01",
       "prefLabel": {
-        "en": "Social Order and Religion",
-        "de": "Gesellschafts- und Sozialordnung. Religion",
-        "nl": "Sociale orde en religie"
+        "en": "Police Matter",
+        "de": "Policeymaterie",
+        "nl": "Politieordonnanties"
       }
     },
     {
-      "id": "https://w3id.org/rg-mpg-de/polmat/n0.2pso",
+      "id": "https://w3id.org/rg-mpg-de/polmat/n02",
       "prefLabel": {
-        "en": "Public Order and Safety",
-        "de": "Öffentliche Sicherheit und Ordnung",
-        "nl": "Publieke veiligheid en orde"
-      }
-    },
-    {
-      "id": "https://w3id.org/rg-mpg-de/polmat/n0.3prh",
-      "prefLabel": {
-        "en": "Social Services. Healthcare. Education. Culture",
-        "de": "Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur",
-        "nl": "Sociale diensten. gezondheidszorg. Onderwijs. cultuur"
-      }
-    },
-    {
-      "id": "https://w3id.org/rg-mpg-de/polmat/n0.4esp",
-      "prefLabel": {
-        "en": "Economic order. Work and professional regulations",
-        "de": "4. Wirtschaftsordnung. Arbeits- und Berufsordnung",
-        "nl": "Economische orde. Werk- en professionele voorschriften"
-      }
-    },
-    {
-      "id": "https://w3id.org/rg-mpg-de/polmat/n0.5ldp",
-      "prefLabel": {
-        "en": "Land Divisions",
-        "de": "Bodenordnung, Bauwesen, Grundstückswesen, Öffentliche Einrichtungen",
-        "nl": "Bodem-inrichting"
+        "en": "International law",
+        "de": "Internationales Recht",
+        "nl": "Internationaal recht"
       }
     }
   ],
@@ -128,7 +108,16 @@
     "notation": {
       "@container": "@set"
     },
+    "example": {
+      "@container": "@language"
+    },
     "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
       "@container": "@set"
     },
     "narrowerTransitive": {
@@ -137,7 +126,22 @@
     "broaderTransitive": {
       "@container": "@set"
     },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
     "followers": "as:followers",
-    "inbox": "ldp:inbox"
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
   }
 }

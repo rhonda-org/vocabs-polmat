@@ -1,7 +1,6 @@
 {
   "id": "https://test.skohub.io/w3id.org/rg-mpg-de/polmat/n0",
   "type": "Service",
-  "name": "Police Legislation",
   "preferredUsername": "773369642e6f72672f72672d6d70672d64652f706f6c6d61742f6e30",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0",
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frg-mpg-de%2Fpolmat%2Fn0",
