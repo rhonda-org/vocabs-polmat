@@ -1979,7 +1979,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.1so.2.l" ;
     skos:altLabel       "1SO2L"@en;
-    skos:prefLabel      "Leibeigenschaf"@de, "Lijfeigenschap"@nl, "Serfdom"@en ;
+    skos:prefLabel      "Leibeigenschaft"@de, "Lijfeigenschap"@nl, "Serfdom"@en ;
     skos:broader        :n01.1so.2 ;
     skos:narrower       :n01.1so.2.l.01 ,
                         :n01.1so.2.l.02 ,
