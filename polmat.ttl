@@ -1651,8 +1651,8 @@
     skos:notation       "01.1so.2.h" ;
     skos:altLabel       "1SO2H"@en;
     skos:prefLabel      "Frondienste und Dienstpflichten"@de ,
-                        "Front Services and Official Duties"@en ,
-                        "Front services en officiële taken"@nl ;
+                        "Corvee and Official Duties"@en ,
+                        "Corvee en officiële taken"@nl ;
     skos:broader        :n01.1so.2 ;
     skos:narrower       :n01.1so.2.h.01 ,
                         :n01.1so.2.h.02 ,
@@ -1668,7 +1668,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.1so.2.h.01" ;
     skos:altLabel       "1SO2H1"@en ;
-    skos:prefLabel      "Ackerfron"@de, "FieldJob"@en ;
+    skos:prefLabel      "Ackerfron"@de, "Corvee (field)"@en, "Corvee (Akker)"@nl ;
     skos:broader        :n01.1so.2.h .
 
 :n01.1so.2.h.02 a skos:Concept ;
@@ -1682,7 +1682,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.1so.2.h.03" ;
     skos:altLabel       "1SO2H3"@en;
-    skos:prefLabel      "????"@nl, "Baufron"@de, "ConstructionJob"@en ;
+    skos:prefLabel      "Baufron"@de, "Corvee (construction)"@en, "Corvee (Constructie)"@nl ;
     skos:broader        :n01.1so.2.h .
 
 :n01.1so.2.h.04 a skos:Concept ;
@@ -1710,7 +1710,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.1so.2.h.07" ;
     skos:altLabel       "1SO2H7"@en;
-    skos:prefLabel      "?????"@nl, "HuntingJob"@en, "Jagdfron"@de ;
+    skos:prefLabel      "Jagdfron"@de, "Corvee (hunting)"@en, "Corvee (Jacht)"@nl ;
     skos:broader        :n01.1so.2.h .
 
 :n01.1so.2.h.08 a skos:Concept ;
@@ -3930,7 +3930,8 @@
     skos:notation       "01.1so.5.l.06" ;
     skos:altLabel       "1SO5L6"@en;
     skos:prefLabel      "Spinnstuben"@de ,
-                        "Yarn Studios (???)"@en ;
+                        "Spinning shop"@en,
+                        "Spinnerij"@nl ;
     skos:broader        :n01.1so.5.l .
 
 :n01.1so.5.l.07 a skos:Concept ;
@@ -4536,7 +4537,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.2pso.2.e" ;
     skos:altLabel       "2PSO2E"@en;
-    skos:prefLabel      "Gart bedienden  ????"@nl, "Gart servants   ????"@en, "Gartknechte"@de ;
+    skos:prefLabel      "Werkloze landsknechte"@nl, "Unemployed Landsknechte"@en, "Gartknechte"@de ;
     skos:broader        :n01.2pso.2 ;
     skos:narrower       :n01.2pso.2.e.01 ,
                         :n01.2pso.2.e.02 ,
@@ -14816,7 +14817,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.5ldp.3.a.25" ;
     skos:altLabel       "5LDP3A25"@en;
-    skos:prefLabel      "Tradingrights"@en, "Zug- & Näherrechte"@de ;
+    skos:prefLabel      "Right of first refusal"@en, "Zug- & Näherrechte"@de, "Voorkeursrecht"@nl ;
     skos:broader        :n01.5ldp.3.a .
 
 
