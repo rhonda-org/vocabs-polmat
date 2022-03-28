@@ -5719,7 +5719,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.2pso.4.d" ;
     skos:altLabel       "2PSO4D"@en;
-    skos:prefLabel      "Autoriteiten trein"@nl, "Behörden zug"@de, "Stages of Appeal / Authorities Train"@en ;
+    skos:prefLabel      "Autoriteiten trein"@nl, "Behördenzug"@de, "Stages of Appeal / Authorities Train"@en ;
     skos:broader        :n01.2pso.4 ;
     skos:narrower       :n01.2pso.4.d.01 ,
                         :n01.2pso.4.d.02 ,
@@ -12661,7 +12661,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.4esp.6.f" ;
     skos:altLabel       "4ESP6F"@en;
-    skos:prefLabel      "Consumptie begeleiding"@nl, "Konsum lenkung"@de, "Regulation of Consumption / Consumption Guidance"@en ;
+    skos:prefLabel      "Consumptie begeleiding"@nl, "Konsumlenkung"@de, "Regulation of Consumption / Consumption Guidance"@en ;
     skos:broader        :n01.4esp.6 ;
     skos:narrower       :n01.4esp.6.f.01 ,
                         :n01.4esp.6.f.02 .
@@ -12670,7 +12670,7 @@
     skos:inScheme       :scheme ;
     skos:notation       "01.4esp.6.f.01" ;
     skos:altLabel       "4ESP6F1"@en;
-    skos:prefLabel      "Fabric / meterial  / matter"@en, "Kleding / stof /materiaal"@nl, "Stoffe"@de ;
+    skos:prefLabel      "Fabric / material / matter"@en, "Kleding / stof /materiaal"@nl, "Stoffe"@de ;
     skos:broader        :n01.4esp.6.f .
 
 :n01.4esp.6.f.02 a skos:Concept ;
