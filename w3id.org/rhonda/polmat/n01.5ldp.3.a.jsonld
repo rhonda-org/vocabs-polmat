@@ -212,8 +212,9 @@
     {
       "id": "https://w3id.org/rhonda/polmat/n01.5ldp.3.a.25",
       "prefLabel": {
-        "en": "Tradingrights",
-        "de": "Zug- & Näherrechte"
+        "en": "Right of first refusal",
+        "de": "Zug- & Näherrechte",
+        "nl": "Voorkeursrecht"
       }
     }
   ],

@@ -4,8 +4,9 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.3.a.25",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.3.a.25",
   "prefLabel": {
-    "en": "Tradingrights",
-    "de": "Zug- & Näherrechte"
+    "en": "Right of first refusal",
+    "de": "Zug- & Näherrechte",
+    "nl": "Voorkeursrecht"
   },
   "altLabel": {
     "en": [

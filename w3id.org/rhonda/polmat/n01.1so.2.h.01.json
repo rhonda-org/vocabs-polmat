@@ -4,8 +4,9 @@
   "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.1so.2.h.01",
   "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.1so.2.h.01",
   "prefLabel": {
-    "en": "FieldJob",
-    "de": "Ackerfron"
+    "en": "Corvee (field)",
+    "de": "Ackerfron",
+    "nl": "Corvee (Akker)"
   },
   "altLabel": {
     "en": [
@@ -18,9 +19,9 @@
   "broader": {
     "id": "https://w3id.org/rhonda/polmat/n01.1so.2.h",
     "prefLabel": {
-      "en": "Front Services and Official Duties",
+      "en": "Corvee and Official Duties",
       "de": "Frondienste und Dienstpflichten",
-      "nl": "Front services en officiële taken"
+      "nl": "Corvee en officiële taken"
     }
   },
   "inScheme": {
