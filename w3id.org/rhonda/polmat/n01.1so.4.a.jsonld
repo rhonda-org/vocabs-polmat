@@ -1,0 +1,292 @@
+{
+  "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.1so.4.a",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.1so.4.a",
+  "prefLabel": {
+    "en": "Conspicuous Consumption",
+    "de": "Aufwand / Luxus",
+    "nl": "Overdadige Consumptie"
+  },
+  "altLabel": {
+    "en": [
+      "1SO4A"
+    ]
+  },
+  "notation": [
+    "01.1so.4.a"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.01",
+      "prefLabel": {
+        "en": "Funeral",
+        "de": "Begräbnis",
+        "nl": "Begrafenis"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.02",
+      "prefLabel": {
+        "en": "Hospitality",
+        "de": "Bewirtung",
+        "nl": "Gastvrijheid"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.03",
+      "prefLabel": {
+        "en": "Shovetide",
+        "de": "Fastnacht",
+        "nl": "Vastelavond"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.04",
+      "prefLabel": {
+        "en": "FestivalDays",
+        "de": "Feiertage",
+        "nl": "Feestdagen"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.05",
+      "prefLabel": {
+        "en": "Festivities",
+        "de": "Festlichkeiten",
+        "nl": "Festiviteiten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.06",
+      "prefLabel": {
+        "en": "Women",
+        "de": "Frauen",
+        "nl": "Vrouwen"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.07",
+      "prefLabel": {
+        "en": "Clergy",
+        "de": "Geistlichkeit",
+        "nl": "Geestelijkheid"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.08",
+      "prefLabel": {
+        "en": "Stimulants",
+        "de": "Genußmittel",
+        "nl": "Genotsmiddel"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.09",
+      "prefLabel": {
+        "en": "Wedding",
+        "de": "Hochzeit",
+        "nl": "Huwelijk"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.10",
+      "prefLabel": {
+        "en": "Jews",
+        "de": "Juden",
+        "nl": "Joden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.11",
+      "prefLabel": {
+        "en": "Coffee",
+        "de": "Kaffee",
+        "nl": "Koffie"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.12",
+      "prefLabel": {
+        "en": "ChildrensBed",
+        "de": "Kindbett",
+        "nl": "Kinderbed"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.13",
+      "prefLabel": {
+        "en": "Churchfair",
+        "de": "Kirchweih",
+        "nl": "kerk-markt"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.14",
+      "prefLabel": {
+        "en": "Landscapes / scenery",
+        "de": "Ladschaften",
+        "nl": "landschappen"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.15",
+      "prefLabel": {
+        "en": "LuxuryBan",
+        "de": "Luxusverbot",
+        "nl": "Luxe verbod"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.16",
+      "prefLabel": {
+        "en": "Soldiers",
+        "de": "Soldaten",
+        "nl": "soldaten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.17",
+      "prefLabel": {
+        "en": "position differences",
+        "de": "Ständische Differenzierung",
+        "nl": "Standsverschillen"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.18",
+      "prefLabel": {
+        "en": "Students",
+        "de": "Studenten",
+        "nl": "studenten"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.19",
+      "prefLabel": {
+        "en": "BabtismChristening",
+        "de": "Taufe",
+        "nl": "Doop"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a.20",
+      "prefLabel": {
+        "en": "Engagement",
+        "de": "Verlobung",
+        "nl": "Verloving"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/rhonda/polmat/n01.1so.4",
+    "prefLabel": {
+      "en": "1.4 Abundance and Luxury",
+      "de": "1.4 Aufwand und Luxus",
+      "nl": "1.4 Overdaad en Luxe"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/rhonda/polmat/scheme",
+    "title": {
+      "en": "RHONDA Categories of Matters regulated by Police Ordinances",
+      "de": "RHONDA Materien der Policeyordnungen",
+      "fr": "RHONDA Categorisation des matières d'ordonnances de police",
+      "nl": "RHONDA Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

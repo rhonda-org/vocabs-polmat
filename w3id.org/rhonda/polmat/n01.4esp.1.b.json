@@ -1,0 +1,236 @@
+{
+  "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.4esp.1.b",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.4esp.1.b",
+  "prefLabel": {
+    "en": "Harvest order / Feudal Obligations",
+    "de": "Ernteordnung / Feudalabgaben",
+    "nl": "Oogst bepalingen / Feodale verplichtingen"
+  },
+  "altLabel": {
+    "en": [
+      "4ESP1B"
+    ]
+  },
+  "notation": [
+    "01.4esp.1.b"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.01",
+      "prefLabel": {
+        "en": "Peasants",
+        "de": "Bauern",
+        "nl": "boeren"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.02",
+      "prefLabel": {
+        "en": "Citizens",
+        "de": "Bürger",
+        "nl": "burgers"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.03",
+      "prefLabel": {
+        "en": "Reduction",
+        "de": "Einschränkung",
+        "nl": "Vermindering / beperking"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.04",
+      "prefLabel": {
+        "en": "Entry",
+        "de": "Einzug",
+        "nl": "binnenkomst"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.05",
+      "prefLabel": {
+        "en": "yield monitoring",
+        "de": "Ertragskontrolle",
+        "nl": "opbrengst bewaking"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.06",
+      "prefLabel": {
+        "en": "Fruit",
+        "de": "Frucht",
+        "nl": "Fruit"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.07",
+      "prefLabel": {
+        "en": "Grain",
+        "de": "Getreide",
+        "nl": "Graan"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.08",
+      "prefLabel": {
+        "en": "Valid",
+        "de": "Gült",
+        "nl": "Geldig"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.09",
+      "prefLabel": {
+        "en": "Monitoring",
+        "de": "Überwachung",
+        "nl": "Toezicht houden"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.10",
+      "prefLabel": {
+        "en": "Lease",
+        "de": "Verpachtung",
+        "nl": "Huren"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.11",
+      "prefLabel": {
+        "en": "auction",
+        "de": "Versteigerung",
+        "nl": "veiling"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.12",
+      "prefLabel": {
+        "en": "Wine",
+        "de": "Wein",
+        "nl": "Wijn"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.4esp.1.b.13",
+      "prefLabel": {
+        "en": "tithe   = Tax",
+        "de": "Zehnt",
+        "nl": "tiende deel"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/rhonda/polmat/n01.4esp.1",
+    "prefLabel": {
+      "en": "4.1 Agriculture",
+      "de": "4.1 Landwirtschaft",
+      "nl": "4.1 landbouw"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/rhonda/polmat/scheme",
+    "title": {
+      "en": "RHONDA Categories of Matters regulated by Police Ordinances",
+      "de": "RHONDA Materien der Policeyordnungen",
+      "fr": "RHONDA Categorisation des matières d'ordonnances de police",
+      "nl": "RHONDA Politie Ordinanties"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
