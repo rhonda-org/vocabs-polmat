@@ -30,7 +30,7 @@ jobs:
 
       - run: mkdir data
 
-      - run: git clone https://github.com/rg-mpg-de/vocabs-polmat.git data/
+      - run: git clone https://github.com/rhonda-org/vocabs-polmat.git data/
 
       - name: make .env.production file
         run: echo "PATH_PREFIX=/vocabs-polmat" > .env.production
