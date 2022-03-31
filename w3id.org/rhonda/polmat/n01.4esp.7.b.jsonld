@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.4esp.7.b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.4esp.7.b",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.4esp.7.b",
+  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.4esp.7.b",
+  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.4esp.7.b",
   "prefLabel": {
     "en": "Bankruptcy",
     "de": "Konkurs/Bankbruch",

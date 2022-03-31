@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.3prh.2.a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.3prh.2.a",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.3prh.2.a",
+  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.3prh.2.a",
+  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.3prh.2.a",
   "prefLabel": {
     "en": "Poor Relief",
     "de": "Armenwesen",

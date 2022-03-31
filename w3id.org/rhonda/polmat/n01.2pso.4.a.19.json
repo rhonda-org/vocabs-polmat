@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.2pso.4.a.19",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.2pso.4.a.19",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.2pso.4.a.19",
+  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.2pso.4.a.19",
+  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.2pso.4.a.19",
   "prefLabel": {
     "en": "Policesanctions",
     "de": "Policeysanktionen",

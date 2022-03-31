@@ -1,8 +1,8 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.5ldp.1.g",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.1.g",
-  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.1.g",
+  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.1.g",
+  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.1.g",
   "prefLabel": {
     "en": "Floods and Damages",
     "de": "Überschwemmungen und Wasserschäden",
