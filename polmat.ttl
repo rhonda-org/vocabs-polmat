@@ -24,7 +24,7 @@
                         "Romein, Annemieke",
                         "Stolleis, Michael",
                         "Wagner, Andreas" ;
-    dct:license         "cczero" ;
+    dct:license         <https://creativecommons.org/publicdomain/zero/1.0/> ;
     dct:bibliographicCitation  "Härter, K. et al.: RHONDA Categories of Matters regulated by Police Ordinances. SKOS Concept Scheme. Version 1.0.0. URL: <https://w3id.org/rhonda/polmat/1.0.0>"@en ;
     rdfs:seeAlso        <https://github.com/rhonda-org/PoliceOrdinances/wiki> ;
     vann:preferredNamespacePrefix "polmat" ;
