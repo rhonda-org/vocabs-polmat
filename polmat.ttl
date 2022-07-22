@@ -35,8 +35,7 @@ polmat:scheme a skos:ConceptScheme ;
     skos:prefLabel      "RHONDA Police Legislation Matters Concept Scheme"@en ,
                         "RHONDA Policeyordnungsmaterien Vokabular"@de ,
                         "RHONDA Politieordonnanties vocabulaire"@nl ;
-    skos:hasTopConcept  polmat:n0
-    .
+    skos:hasTopConcept  polmat:n0 .
 
 polmat:n0 a skos:Concept ;
     skos:inScheme       polmat:scheme ;
