@@ -29,7 +29,7 @@ polmat:scheme a skos:ConceptScheme ;
     rdfs:seeAlso        <https://github.com/rhonda-org/PoliceOrdinances/wiki> ;
     vann:preferredNamespacePrefix "polmat" ;
     vann:preferredNamespaceUri <https://w3id.org/rhonda/polmat/> ;
-    owl:versionInfo     "1.0.0"@en ;
+    owl:versionInfo     "1.0.0" ;
     owl:versionIRI      <https://w3id.org/rhonda/polmat/1.0.0> ;
     vs:term_status      "testing" ;
     skos:prefLabel      "RHONDA Police Legislation Matters Concept Scheme"@en ,
