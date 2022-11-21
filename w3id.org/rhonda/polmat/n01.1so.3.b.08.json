@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Jews",
       "de": "Juden",
-      "nl": "Joden"
+      "nl": "Joden",
+      "da": "Jøder",
+      "sv": "Judar"
     }
   },
   "inScheme": {

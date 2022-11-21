@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Monastries",
     "de": "Klosterwesen/Orden",
-    "nl": "kloosters"
+    "nl": "kloosters",
+    "da": "Klostervæsen/ordener",
+    "sv": "Klosterväsen/ordnar"
   },
   "altLabel": {
     "en": [
@@ -79,7 +81,9 @@
     "prefLabel": {
       "en": "1.1 Matters of Religion",
       "de": "1.1 Religionsangelegenheiten",
-      "nl": "1.1 Religieuze aangelegenheden"
+      "nl": "1.1 Religieuze aangelegenheden",
+      "da": "1.1 Religionsanliggender",
+      "sv": "1.1 Religiösa frågor"
     }
   },
   "inScheme": {

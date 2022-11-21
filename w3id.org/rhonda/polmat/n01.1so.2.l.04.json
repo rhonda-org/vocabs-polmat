@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Serfdom",
       "de": "Leibeigenschaft",
-      "nl": "Lijfeigenschap"
+      "nl": "Lijfeigenschap",
+      "da": "Stavnsbånd/Vornedskab",
+      "sv": "TODO: Translate 'Serfdom' to Swedish"
     }
   },
   "inScheme": {

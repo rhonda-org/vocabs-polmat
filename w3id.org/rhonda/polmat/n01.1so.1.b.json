@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Festivals / Holidays",
     "de": "Feiertage / Religiöse Feste",
-    "nl": "Festivals / feestdagen"
+    "nl": "Festivals / feestdagen",
+    "da": "Helligdage/religiøse fester",
+    "sv": "Helgdagar/religiösa fester"
   },
   "altLabel": {
     "en": [
@@ -135,7 +137,9 @@
     "prefLabel": {
       "en": "1.1 Matters of Religion",
       "de": "1.1 Religionsangelegenheiten",
-      "nl": "1.1 Religieuze aangelegenheden"
+      "nl": "1.1 Religieuze aangelegenheden",
+      "da": "1.1 Religionsanliggender",
+      "sv": "1.1 Religiösa frågor"
     }
   },
   "inScheme": {

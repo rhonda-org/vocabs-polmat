@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Vagrants",
       "de": "Fahrende Leute",
-      "nl": "Rondtrekkende lieden/ bedelaars"
+      "nl": "Rondtrekkende lieden/ bedelaars",
+      "da": "Farende folk",
+      "sv": "Lösdrivare"
     }
   },
   "inScheme": {

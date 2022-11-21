@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Sects and Heresy",
       "de": "Sekten und Ketzerei",
-      "nl": "Sekten en ketterij"
+      "nl": "Sekten en ketterij",
+      "da": "Sekter/kætteri",
+      "sv": "Sekter/kätteri"
     }
   },
   "inScheme": {

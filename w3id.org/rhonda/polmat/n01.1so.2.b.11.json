@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Residence Rights",
       "de": "Aufenthalt",
-      "nl": "Verblijf"
+      "nl": "Verblijf",
+      "da": "Ophold",
+      "sv": "Uppehållstillstånd"
     }
   },
   "inScheme": {

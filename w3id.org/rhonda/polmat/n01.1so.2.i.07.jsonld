@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Local Government",
       "de": "Gemeindeverfassung",
-      "nl": "Plaatselijke overheid"
+      "nl": "Plaatselijke overheid",
+      "da": "Landsbyvedtægt",
+      "sv": "By-/sockenförvaltning"
     }
   },
   "inScheme": {

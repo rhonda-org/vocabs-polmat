@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Church Discipline",
       "de": "Kirchenzucht",
-      "nl": "Kerkelijke discipline"
+      "nl": "Kerkelijke discipline",
+      "da": "Kirketugt",
+      "sv": "Kyrkotukt"
     }
   },
   "inScheme": {

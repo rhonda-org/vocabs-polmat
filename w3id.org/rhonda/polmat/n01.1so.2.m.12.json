@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "City Government",
       "de": "Stadtverfassung",
-      "nl": "Stadsbestuur"
+      "nl": "Stadsbestuur",
+      "da": "Stadsret",
+      "sv": "Stadsförfattning"
     }
   },
   "inScheme": {

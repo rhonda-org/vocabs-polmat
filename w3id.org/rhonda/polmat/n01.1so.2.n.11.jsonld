@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Estate System",
       "de": "Ständeordnung / Standeswesen",
-      "nl": "Standenordening / Standenwezen"
+      "nl": "Standenordening / Standenwezen",
+      "da": "Stænderordning",
+      "sv": "Ståndsordning"
     }
   },
   "inScheme": {

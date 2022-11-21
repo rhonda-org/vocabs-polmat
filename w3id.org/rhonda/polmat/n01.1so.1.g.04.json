@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Monastries",
       "de": "Klosterwesen/Orden",
-      "nl": "kloosters"
+      "nl": "kloosters",
+      "da": "Klostervæsen/ordener",
+      "sv": "Klosterväsen/ordnar"
     }
   },
   "inScheme": {

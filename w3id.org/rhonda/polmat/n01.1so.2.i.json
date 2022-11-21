@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Local Government",
     "de": "Gemeindeverfassung",
-    "nl": "Plaatselijke overheid"
+    "nl": "Plaatselijke overheid",
+    "da": "Landsbyvedtægt",
+    "sv": "By-/sockenförvaltning"
   },
   "altLabel": {
     "en": [
@@ -223,7 +225,9 @@
     "prefLabel": {
       "en": "1.2 Population, Estates and Government",
       "de": "1.2 Bevölkerungs- und Standeswesen, Herrschaftsverfassung",
-      "nl": "1.2 Bevolking, standen en overheid"
+      "nl": "1.2 Bevolking, standen en overheid",
+      "da": "1.2 Befolknings og standsvæsen; herskabsvedtægter",
+      "sv": "1.2 Befolkning och ståndsväsen; samhällsordning"
     }
   },
   "inScheme": {

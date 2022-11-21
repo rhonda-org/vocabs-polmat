@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Corvee and Official Duties",
       "de": "Frondienste und Dienstpflichten",
-      "nl": "Corvee en officiële taken"
+      "nl": "Corvee en officiële taken",
+      "da": "Hoveritjeneste/tjenestepligt",
+      "sv": "Dagsverken/tjänsteplikt"
     }
   },
   "inScheme": {

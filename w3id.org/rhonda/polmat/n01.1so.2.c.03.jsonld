@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Emigration",
       "de": "Auswanderung",
-      "nl": "Emigratie"
+      "nl": "Emigratie",
+      "da": "Udvandring",
+      "sv": "Utvandring"
     }
   },
   "inScheme": {

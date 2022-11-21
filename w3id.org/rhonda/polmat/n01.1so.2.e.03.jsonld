@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Internal Migration",
       "de": "Binnenwanderung",
-      "nl": "InternalMigration"
+      "nl": "InternalMigration",
+      "da": "Flytning",
+      "sv": "Inrikes flyttning"
     }
   },
   "inScheme": {

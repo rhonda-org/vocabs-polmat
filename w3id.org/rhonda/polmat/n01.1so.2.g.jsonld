@@ -5,8 +5,10 @@
   "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.1so.2.g",
   "prefLabel": {
     "en": "Immigration",
-    "de": "Einwanderung/Ansiedlung=",
-    "nl": "Immigratie"
+    "de": "Einwanderung/Ansiedlung",
+    "nl": "Immigratie",
+    "da": "Indvandring/bosættelse",
+    "sv": "Invandring/kolonisation"
   },
   "altLabel": {
     "en": [
@@ -103,7 +105,9 @@
     "prefLabel": {
       "en": "1.2 Population, Estates and Government",
       "de": "1.2 Bevölkerungs- und Standeswesen, Herrschaftsverfassung",
-      "nl": "1.2 Bevolking, standen en overheid"
+      "nl": "1.2 Bevolking, standen en overheid",
+      "da": "1.2 Befolknings og standsvæsen; herskabsvedtægter",
+      "sv": "1.2 Befolkning och ståndsväsen; samhällsordning"
     }
   },
   "inScheme": {

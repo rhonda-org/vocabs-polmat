@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "1.3 Marginal Groups",
     "de": "1.3 Randgruppen",
-    "nl": "1.3 Marginale groepen"
+    "nl": "1.3 Marginale groepen",
+    "da": "1.3 Marginalgrupper og laveste befolkningslag",
+    "sv": "1.3 Marginalgrupper och underskikt"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Vagrants",
         "de": "Fahrende Leute",
-        "nl": "Rondtrekkende lieden/ bedelaars"
+        "nl": "Rondtrekkende lieden/ bedelaars",
+        "da": "Farende folk",
+        "sv": "Lösdrivare"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "Jews",
         "de": "Juden",
-        "nl": "Joden"
+        "nl": "Joden",
+        "da": "Jøder",
+        "sv": "Judar"
       }
     },
     {
@@ -38,7 +44,19 @@
       "prefLabel": {
         "en": "Gypsies",
         "de": "Zigeuner",
-        "nl": "Zigeuners"
+        "nl": "Zigeuners",
+        "da": "Sigøjnere",
+        "sv": "Zigenare"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.3.d",
+      "prefLabel": {
+        "en": "Sami",
+        "de": "Samen",
+        "nl": "Samen",
+        "da": "Samer",
+        "sv": "Samer"
       }
     }
   ],
@@ -47,7 +65,9 @@
     "prefLabel": {
       "en": "1 Social Order and Religion",
       "de": "1 Gesellschafts- und Sozialordnung. Religion",
-      "nl": "1 Sociale orde en religie"
+      "nl": "1 Sociale orde en religie",
+      "da": "1 Samfunds- og socialordning. Religion",
+      "sv": "1 Samhälls- och socialordning. Religion"
     }
   },
   "inScheme": {

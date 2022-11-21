@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Keeping Sabbath",
     "de": "Sonntagsheiligung",
-    "nl": "Sabbat houden"
+    "nl": "Sabbat houden",
+    "da": "Helligholdelse af søndagen",
+    "sv": "Sabbatsfrid"
   },
   "altLabel": {
     "en": [
@@ -87,7 +89,9 @@
     "prefLabel": {
       "en": "1.1 Matters of Religion",
       "de": "1.1 Religionsangelegenheiten",
-      "nl": "1.1 Religieuze aangelegenheden"
+      "nl": "1.1 Religieuze aangelegenheden",
+      "da": "1.1 Religionsanliggender",
+      "sv": "1.1 Religiösa frågor"
     }
   },
   "inScheme": {

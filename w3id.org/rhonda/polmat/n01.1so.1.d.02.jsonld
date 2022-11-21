@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Blasphemy",
       "de": "Gotteslästerung",
-      "nl": "Godslastering"
+      "nl": "Godslastering",
+      "da": "Gudsbespottelse",
+      "sv": "Hädelser"
     }
   },
   "inScheme": {

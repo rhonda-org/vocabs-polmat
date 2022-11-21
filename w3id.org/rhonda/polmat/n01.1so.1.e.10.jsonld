@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Church Administration",
       "de": "Kirchenorganisation",
-      "nl": "Kerkelijk bestuur"
+      "nl": "Kerkelijk bestuur",
+      "da": "Kirkeorganisation",
+      "sv": "Kyrkoorganisation"
     }
   },
   "inScheme": {

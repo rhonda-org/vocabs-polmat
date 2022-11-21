@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Civil Rights",
       "de": "Bürgerrecht",
-      "nl": "burgerrechten"
+      "nl": "burgerrechten",
+      "da": "Borgerskabsrettigheder",
+      "sv": "Borgarrätt"
     }
   },
   "inScheme": {

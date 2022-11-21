@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Vagrants",
     "de": "Fahrende Leute",
-    "nl": "Rondtrekkende lieden/ bedelaars"
+    "nl": "Rondtrekkende lieden/ bedelaars",
+    "da": "Farende folk",
+    "sv": "Lösdrivare"
   },
   "altLabel": {
     "en": [
@@ -359,7 +361,9 @@
     "prefLabel": {
       "en": "1.3 Marginal Groups",
       "de": "1.3 Randgruppen",
-      "nl": "1.3 Marginale groepen"
+      "nl": "1.3 Marginale groepen",
+      "da": "1.3 Marginalgrupper og laveste befolkningslag",
+      "sv": "1.3 Marginalgrupper och underskikt"
     }
   },
   "inScheme": {

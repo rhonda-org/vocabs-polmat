@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Church Discipline",
     "de": "Kirchenzucht",
-    "nl": "Kerkelijke discipline"
+    "nl": "Kerkelijke discipline",
+    "da": "Kirketugt",
+    "sv": "Kyrkotukt"
   },
   "altLabel": {
     "en": [
@@ -103,7 +105,9 @@
     "prefLabel": {
       "en": "1.1 Matters of Religion",
       "de": "1.1 Religionsangelegenheiten",
-      "nl": "1.1 Religieuze aangelegenheden"
+      "nl": "1.1 Religieuze aangelegenheden",
+      "da": "1.1 Religionsanliggender",
+      "sv": "1.1 Religiösa frågor"
     }
   },
   "inScheme": {

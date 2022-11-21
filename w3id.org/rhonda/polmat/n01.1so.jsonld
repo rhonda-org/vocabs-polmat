@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "1 Social Order and Religion",
     "de": "1 Gesellschafts- und Sozialordnung. Religion",
-    "nl": "1 Sociale orde en religie"
+    "nl": "1 Sociale orde en religie",
+    "da": "1 Samfunds- og socialordning. Religion",
+    "sv": "1 Samhälls- och socialordning. Religion"
   },
   "altLabel": {
     "en": [
@@ -25,7 +27,9 @@
       "prefLabel": {
         "en": "1.1 Matters of Religion",
         "de": "1.1 Religionsangelegenheiten",
-        "nl": "1.1 Religieuze aangelegenheden"
+        "nl": "1.1 Religieuze aangelegenheden",
+        "da": "1.1 Religionsanliggender",
+        "sv": "1.1 Religiösa frågor"
       }
     },
     {
@@ -33,7 +37,9 @@
       "prefLabel": {
         "en": "1.2 Population, Estates and Government",
         "de": "1.2 Bevölkerungs- und Standeswesen, Herrschaftsverfassung",
-        "nl": "1.2 Bevolking, standen en overheid"
+        "nl": "1.2 Bevolking, standen en overheid",
+        "da": "1.2 Befolknings og standsvæsen; herskabsvedtægter",
+        "sv": "1.2 Befolkning och ståndsväsen; samhällsordning"
       }
     },
     {
@@ -41,7 +47,9 @@
       "prefLabel": {
         "en": "1.3 Marginal Groups",
         "de": "1.3 Randgruppen",
-        "nl": "1.3 Marginale groepen"
+        "nl": "1.3 Marginale groepen",
+        "da": "1.3 Marginalgrupper og laveste befolkningslag",
+        "sv": "1.3 Marginalgrupper och underskikt"
       }
     },
     {

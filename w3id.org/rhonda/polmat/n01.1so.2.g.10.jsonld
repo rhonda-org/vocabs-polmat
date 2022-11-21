@@ -20,8 +20,10 @@
     "id": "https://w3id.org/rhonda/polmat/n01.1so.2.g",
     "prefLabel": {
       "en": "Immigration",
-      "de": "Einwanderung/Ansiedlung=",
-      "nl": "Immigratie"
+      "de": "Einwanderung/Ansiedlung",
+      "nl": "Immigratie",
+      "da": "Indvandring/bosættelse",
+      "sv": "Invandring/kolonisation"
     }
   },
   "inScheme": {

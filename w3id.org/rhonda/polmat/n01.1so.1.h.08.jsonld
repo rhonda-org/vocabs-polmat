@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Confession",
       "de": "Konfession",
-      "nl": "Geloof"
+      "nl": "Geloof",
+      "da": "Konfession",
+      "sv": "Konfessioner"
     }
   },
   "inScheme": {

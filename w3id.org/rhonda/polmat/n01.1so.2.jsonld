@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "1.2 Population, Estates and Government",
     "de": "1.2 Bevölkerungs- und Standeswesen, Herrschaftsverfassung",
-    "nl": "1.2 Bevolking, standen en overheid"
+    "nl": "1.2 Bevolking, standen en overheid",
+    "da": "1.2 Befolknings og standsvæsen; herskabsvedtægter",
+    "sv": "1.2 Befolkning och ståndsväsen; samhällsordning"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Levies and Taxes",
         "de": "Abgaben und Steuern",
-        "nl": "Heffingen en belastingen"
+        "nl": "Heffingen en belastingen",
+        "da": "Afgift",
+        "sv": "TODO: Translate 'Levies and Taxes' to Swedish"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "Residence Rights",
         "de": "Aufenthalt",
-        "nl": "Verblijf"
+        "nl": "Verblijf",
+        "da": "Ophold",
+        "sv": "Uppehållstillstånd"
       }
     },
     {
@@ -38,7 +44,9 @@
       "prefLabel": {
         "en": "Emigration",
         "de": "Auswanderung",
-        "nl": "Emigratie"
+        "nl": "Emigratie",
+        "da": "Udvandring",
+        "sv": "Utvandring"
       }
     },
     {
@@ -46,7 +54,9 @@
       "prefLabel": {
         "en": "Townsfolk",
         "de": "Beisassen/Schutzverwandte",
-        "nl": "Stedelingen"
+        "nl": "Stedelingen",
+        "da": "TODO: Translate 'Townsfolk' to Danish",
+        "sv": "TODO: Translate 'Townsfolk' to Swedish"
       }
     },
     {
@@ -54,7 +64,9 @@
       "prefLabel": {
         "en": "Internal Migration",
         "de": "Binnenwanderung",
-        "nl": "InternalMigration"
+        "nl": "InternalMigration",
+        "da": "Flytning",
+        "sv": "Inrikes flyttning"
       }
     },
     {
@@ -62,15 +74,19 @@
       "prefLabel": {
         "en": "Civil Rights",
         "de": "Bürgerrecht",
-        "nl": "burgerrechten"
+        "nl": "burgerrechten",
+        "da": "Borgerskabsrettigheder",
+        "sv": "Borgarrätt"
       }
     },
     {
       "id": "https://w3id.org/rhonda/polmat/n01.1so.2.g",
       "prefLabel": {
         "en": "Immigration",
-        "de": "Einwanderung/Ansiedlung=",
-        "nl": "Immigratie"
+        "de": "Einwanderung/Ansiedlung",
+        "nl": "Immigratie",
+        "da": "Indvandring/bosættelse",
+        "sv": "Invandring/kolonisation"
       }
     },
     {
@@ -78,7 +94,9 @@
       "prefLabel": {
         "en": "Corvee and Official Duties",
         "de": "Frondienste und Dienstpflichten",
-        "nl": "Corvee en officiële taken"
+        "nl": "Corvee en officiële taken",
+        "da": "Hoveritjeneste/tjenestepligt",
+        "sv": "Dagsverken/tjänsteplikt"
       }
     },
     {
@@ -86,7 +104,9 @@
       "prefLabel": {
         "en": "Local Government",
         "de": "Gemeindeverfassung",
-        "nl": "Plaatselijke overheid"
+        "nl": "Plaatselijke overheid",
+        "da": "Landsbyvedtægt",
+        "sv": "By-/sockenförvaltning"
       }
     },
     {
@@ -94,7 +114,9 @@
       "prefLabel": {
         "en": "Dominion",
         "de": "Herschaftsverfassung",
-        "nl": "Heerschappij"
+        "nl": "Heerschappij",
+        "da": "TODO: Translate 'dominion' to Danish",
+        "sv": "TODO: Translate 'dominion' to Swedish"
       }
     },
     {
@@ -102,7 +124,9 @@
       "prefLabel": {
         "en": "Homage / Tribute",
         "de": "Huldigung",
-        "nl": "huldiging"
+        "nl": "huldiging",
+        "da": "Hyldning",
+        "sv": "Trohetsed"
       }
     },
     {
@@ -110,7 +134,9 @@
       "prefLabel": {
         "en": "Serfdom",
         "de": "Leibeigenschaft",
-        "nl": "Lijfeigenschap"
+        "nl": "Lijfeigenschap",
+        "da": "Stavnsbånd/Vornedskab",
+        "sv": "TODO: Translate 'Serfdom' to Swedish"
       }
     },
     {
@@ -118,7 +144,9 @@
       "prefLabel": {
         "en": "City Government",
         "de": "Stadtverfassung",
-        "nl": "Stadsbestuur"
+        "nl": "Stadsbestuur",
+        "da": "Stadsret",
+        "sv": "Stadsförfattning"
       }
     },
     {
@@ -126,7 +154,9 @@
       "prefLabel": {
         "en": "Estate System",
         "de": "Ständeordnung / Standeswesen",
-        "nl": "Standenordening / Standenwezen"
+        "nl": "Standenordening / Standenwezen",
+        "da": "Stænderordning",
+        "sv": "Ståndsordning"
       }
     }
   ],
@@ -135,7 +165,9 @@
     "prefLabel": {
       "en": "1 Social Order and Religion",
       "de": "1 Gesellschafts- und Sozialordnung. Religion",
-      "nl": "1 Sociale orde en religie"
+      "nl": "1 Sociale orde en religie",
+      "da": "1 Samfunds- og socialordning. Religion",
+      "sv": "1 Samhälls- och socialordning. Religion"
     }
   },
   "inScheme": {

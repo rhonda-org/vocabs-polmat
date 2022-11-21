@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Clergy",
       "de": "Geistlichkeit",
-      "nl": "geestelijkheid"
+      "nl": "geestelijkheid",
+      "da": "Gejstlighed",
+      "sv": "Präster"
     }
   },
   "inScheme": {

@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Religious Education",
       "de": "Religiöse Unterweisung",
-      "nl": "Religieuze opvoeding"
+      "nl": "Religieuze opvoeding",
+      "da": "Religiøs undervisning",
+      "sv": "Kristendomsundervisning"
     }
   },
   "inScheme": {

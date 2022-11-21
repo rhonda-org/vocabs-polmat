@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Festivals / Holidays",
       "de": "Feiertage / Religiöse Feste",
-      "nl": "Festivals / feestdagen"
+      "nl": "Festivals / feestdagen",
+      "da": "Helligdage/religiøse fester",
+      "sv": "Helgdagar/religiösa fester"
     }
   },
   "inScheme": {

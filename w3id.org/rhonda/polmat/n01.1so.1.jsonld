@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "1.1 Matters of Religion",
     "de": "1.1 Religionsangelegenheiten",
-    "nl": "1.1 Religieuze aangelegenheden"
+    "nl": "1.1 Religieuze aangelegenheden",
+    "da": "1.1 Religionsanliggender",
+    "sv": "1.1 Religiösa frågor"
   },
   "altLabel": {
     "en": [
@@ -30,7 +32,9 @@
       "prefLabel": {
         "en": "Festivals / Holidays",
         "de": "Feiertage / Religiöse Feste",
-        "nl": "Festivals / feestdagen"
+        "nl": "Festivals / feestdagen",
+        "da": "Helligdage/religiøse fester",
+        "sv": "Helgdagar/religiösa fester"
       }
     },
     {
@@ -38,7 +42,9 @@
       "prefLabel": {
         "en": "Clergy",
         "de": "Geistlichkeit",
-        "nl": "geestelijkheid"
+        "nl": "geestelijkheid",
+        "da": "Gejstlighed",
+        "sv": "Präster"
       }
     },
     {
@@ -46,7 +52,9 @@
       "prefLabel": {
         "en": "Blasphemy",
         "de": "Gotteslästerung",
-        "nl": "Godslastering"
+        "nl": "Godslastering",
+        "da": "Gudsbespottelse",
+        "sv": "Hädelser"
       }
     },
     {
@@ -54,7 +62,9 @@
       "prefLabel": {
         "en": "Church Administration",
         "de": "Kirchenorganisation",
-        "nl": "Kerkelijk bestuur"
+        "nl": "Kerkelijk bestuur",
+        "da": "Kirkeorganisation",
+        "sv": "Kyrkoorganisation"
       }
     },
     {
@@ -62,7 +72,9 @@
       "prefLabel": {
         "en": "Church Discipline",
         "de": "Kirchenzucht",
-        "nl": "Kerkelijke discipline"
+        "nl": "Kerkelijke discipline",
+        "da": "Kirketugt",
+        "sv": "Kyrkotukt"
       }
     },
     {
@@ -70,7 +82,9 @@
       "prefLabel": {
         "en": "Monastries",
         "de": "Klosterwesen/Orden",
-        "nl": "kloosters"
+        "nl": "kloosters",
+        "da": "Klostervæsen/ordener",
+        "sv": "Klosterväsen/ordnar"
       }
     },
     {
@@ -78,7 +92,9 @@
       "prefLabel": {
         "en": "Confession",
         "de": "Konfession",
-        "nl": "Geloof"
+        "nl": "Geloof",
+        "da": "Konfession",
+        "sv": "Konfessioner"
       }
     },
     {
@@ -86,7 +102,9 @@
       "prefLabel": {
         "en": "Religious Education",
         "de": "Religiöse Unterweisung",
-        "nl": "Religieuze opvoeding"
+        "nl": "Religieuze opvoeding",
+        "da": "Religiøs undervisning",
+        "sv": "Kristendomsundervisning"
       }
     },
     {
@@ -94,7 +112,9 @@
       "prefLabel": {
         "en": "Sects and Heresy",
         "de": "Sekten und Ketzerei",
-        "nl": "Sekten en ketterij"
+        "nl": "Sekten en ketterij",
+        "da": "Sekter/kætteri",
+        "sv": "Sekter/kätteri"
       }
     },
     {
@@ -102,7 +122,19 @@
       "prefLabel": {
         "en": "Keeping Sabbath",
         "de": "Sonntagsheiligung",
-        "nl": "Sabbat houden"
+        "nl": "Sabbat houden",
+        "da": "Helligholdelse af søndagen",
+        "sv": "Sabbatsfrid"
+      }
+    },
+    {
+      "id": "https://w3id.org/rhonda/polmat/n01.1so.1.l",
+      "prefLabel": {
+        "en": "Mission of Sami",
+        "de": "Missionierung Samen",
+        "nl": "Missie van Samen",
+        "da": "Samer Mission",
+        "sv": "Samemission"
       }
     }
   ],
@@ -111,7 +143,9 @@
     "prefLabel": {
       "en": "1 Social Order and Religion",
       "de": "1 Gesellschafts- und Sozialordnung. Religion",
-      "nl": "1 Sociale orde en religie"
+      "nl": "1 Sociale orde en religie",
+      "da": "1 Samfunds- og socialordning. Religion",
+      "sv": "1 Samhälls- och socialordning. Religion"
     }
   },
   "inScheme": {
