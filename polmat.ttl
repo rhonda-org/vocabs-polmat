@@ -82,7 +82,9 @@ polmat:n01.1so a skos:Concept ;
     skos:altLabel       "1SO"@en;
     skos:prefLabel      "1 Gesellschafts- und Sozialordnung. Religion"@de ,
                         "1 Social Order and Religion"@en ,
-                        "1 Sociale orde en religie"@nl ;
+                        "1 Sociale orde en religie"@nl ,
+                        "1 Samfunds- og socialordning. Religion"@da,
+                        "1 Samhälls- och socialordning. Religion"@sv;
     skos:scopeNote      "TODO: Create a scope note here."@en ;
     skos:broader        polmat:n01 ;
     skos:narrower       polmat:n01.1so.1 ,
@@ -101,7 +103,9 @@ polmat:n01.1so.1 a skos:Concept ;
     skos:altLabel       "1SO1"@en;
     skos:prefLabel      "1.1 Matters of Religion"@en ,
                         "1.1 Religieuze aangelegenheden"@nl ,
-                        "1.1 Religionsangelegenheiten"@de ;
+                        "1.1 Religionsangelegenheiten"@de ,
+                        "1.1 Religionsanliggender"@da ,
+                        "1.1 Religiösa frågor"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.1.a ,
                         polmat:n01.1so.1.b ,
@@ -113,7 +117,8 @@ polmat:n01.1so.1 a skos:Concept ;
                         polmat:n01.1so.1.h ,
                         polmat:n01.1so.1.i ,
                         polmat:n01.1so.1.j ,
-                        polmat:n01.1so.1.k 
+                        polmat:n01.1so.1.k ,
+                        polmat:n01.1so.1.l
     .
 
 
@@ -154,7 +159,9 @@ polmat:n01.1so.1.b a skos:Concept ;
     skos:altLabel       "1SO1B"@en;
     skos:prefLabel      "Feiertage / Religiöse Feste"@de ,
                         "Festivals / feestdagen"@nl ,
-                        "Festivals / Holidays"@en ;
+                        "Festivals / Holidays"@en ,
+                        "Helligdage/religiøse fester"@da ,
+                        "Helgdagar/religiösa fester"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.b.01 ,
                         polmat:n01.1so.1.b.02 ,
@@ -305,7 +312,9 @@ polmat:n01.1so.1.c a skos:Concept ;
     skos:altLabel       "1SO1C"@en ;
     skos:prefLabel      "Clergy"@en ,
                         "Geistlichkeit"@de ,
-                        "geestelijkheid"@nl ;
+                        "geestelijkheid"@nl ,
+                        "Gejstlighed"@da ,
+                        "Präster"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.c.01 ,
                         polmat:n01.1so.1.c.02 ,
@@ -465,7 +474,9 @@ polmat:n01.1so.1.d a skos:Concept ;
     skos:altLabel       "1SO1D"@en ;
     skos:prefLabel      "Blasphemy"@en ,
                         "Godslastering"@nl ,
-                        "Gotteslästerung"@de ;
+                        "Gotteslästerung"@de ,
+                        "Gudsbespottelse"@da ,
+                        "Hädelser"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.d.01 ,
                         polmat:n01.1so.1.d.02 ,
@@ -555,7 +566,9 @@ polmat:n01.1so.1.e a skos:Concept ;
     skos:altLabel       "1SO1E"@en ;
     skos:prefLabel      "Church Administration"@en ,
                         "Kerkelijk bestuur"@nl ,
-                        "Kirchenorganisation"@de ;
+                        "Kirchenorganisation"@de ,
+                        "Kirkeorganisation"@da ,
+                        "Kyrkoorganisation"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.e.01 ,
                         polmat:n01.1so.1.e.02 ,
@@ -685,7 +698,9 @@ polmat:n01.1so.1.f a skos:Concept ;
     skos:altLabel       "1SO1F"@en ;
     skos:prefLabel      "Church Discipline"@en ,
                         "Kerkelijke discipline"@nl ,
-                        "Kirchenzucht"@de ;
+                        "Kirchenzucht"@de ,
+                        "Kirketugt"@da ,
+                        "Kyrkotukt"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.f.01 ,
                         polmat:n01.1so.1.f.02 ,
@@ -795,7 +810,9 @@ polmat:n01.1so.1.g a skos:Concept ;
     skos:altLabel       "1SO1G"@en ;
     skos:prefLabel      "Klosterwesen/Orden"@de ,
                         "Monastries"@en ,
-                        "kloosters"@nl ;
+                        "kloosters"@nl ,
+                        "Klostervæsen/ordener"@da ,
+                        "Klosterväsen/ordnar"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.g.01 ,
                         polmat:n01.1so.1.g.02 ,
@@ -874,7 +891,9 @@ polmat:n01.1so.1.h a skos:Concept ;
     skos:altLabel       "1SO1H"@en ;
     skos:prefLabel      "Confession"@en ,
                         "Geloof"@nl ,
-                        "Konfession"@de ;
+                        "Konfession"@de ,
+                        "Konfession"@da ,
+                        "Konfessioner"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.h.01 ,
                         polmat:n01.1so.1.h.02 ,
@@ -964,7 +983,9 @@ polmat:n01.1so.1.i a skos:Concept ;
     skos:altLabel       "1SO1I"@en ;
     skos:prefLabel      "Religieuze opvoeding"@nl ,
                         "Religious Education"@en ,
-                        "Religiöse Unterweisung"@de ;
+                        "Religiöse Unterweisung"@de ,
+                        "Religiøs undervisning"@da ,
+                        "Kristendomsundervisning"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.i.01 ,
                         polmat:n01.1so.1.i.02 ,
@@ -1034,7 +1055,9 @@ polmat:n01.1so.1.j a skos:Concept ;
     skos:altLabel       "1SO1J"@en ;
     skos:prefLabel      "Sects and Heresy"@en ,
                         "Sekten en ketterij"@nl ,
-                        "Sekten und Ketzerei"@de ;
+                        "Sekten und Ketzerei"@de ,
+                        "Sekter/kætteri"@da ,
+                        "Sekter/kätteri"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.j.01 ,
                         polmat:n01.1so.1.j.02 ,
@@ -1114,7 +1137,9 @@ polmat:n01.1so.1.k a skos:Concept ;
     skos:altLabel       "1SO1K"@en ;
     skos:prefLabel      "Keeping Sabbath"@en ,
                         "Sabbat houden"@nl ,
-                        "Sonntagsheiligung"@de ;
+                        "Sonntagsheiligung"@de ,
+                        "Helligholdelse af søndagen"@da ,
+                        "Sabbatsfrid"@sv ;
     skos:broader        polmat:n01.1so.1 ;
     skos:narrower       polmat:n01.1so.1.k.01 ,
                         polmat:n01.1so.1.k.02 ,
@@ -1197,6 +1222,17 @@ polmat:n01.1so.1.k.08 a skos:Concept ;
                         "Vergnügungen"@de ;
     skos:broader        polmat:n01.1so.1.k .
 
+polmat:n01.1so.1.l a skos:Concept ;
+    skos:inScheme       polmat:scheme ;
+    skos:notation       "01.1so.1.l" ;
+    skos:altLabel       "1SO1L"@en ;
+    skos:prefLabel      "Mission of Sami"@en ,
+                        "Missionierung Samen"@de ,
+                        "Missie van Samen"@nl ,
+                        "Samer Mission"@da ,
+                        "Samemission"@sv ;
+    skos:broader        polmat:n01.1so.1 .
+
 
 
 polmat:n01.1so.2 a skos:Concept ;
@@ -1205,7 +1241,9 @@ polmat:n01.1so.2 a skos:Concept ;
     skos:altLabel       "1SO2"@en ;
     skos:prefLabel      "1.2 Bevolking, standen en overheid"@nl ,
                         "1.2 Bevölkerungs- und Standeswesen, Herrschaftsverfassung"@de ,
-                        "1.2 Population, Estates and Government"@en ;
+                        "1.2 Population, Estates and Government"@en ,
+                        "1.2 Befolknings og standsvæsen; herskabsvedtægter"@da ,
+                        "1.2 Befolkning och ståndsväsen; samhällsordning"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.2.a ,
                         polmat:n01.1so.2.b ,
@@ -1228,7 +1266,9 @@ polmat:n01.1so.2.a a skos:Concept ;
     skos:altLabel       "1SO2A"@en ;
     skos:prefLabel      "Abgaben und Steuern"@de ,
                         "Heffingen en belastingen"@nl ,
-                        "Levies and Taxes"@en ;
+                        "Levies and Taxes"@en ,
+                        "Afgift"@da ,
+                        "TODO: Translate 'Levies and Taxes' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.2 .
 
 polmat:n01.1so.2.b a skos:Concept ;
@@ -1237,7 +1277,9 @@ polmat:n01.1so.2.b a skos:Concept ;
     skos:altLabel       "1SO2B"@en ;
     skos:prefLabel      "Aufenthalt"@de ,
                         "Residence Rights"@en ,
-                        "Verblijf"@nl ;
+                        "Verblijf"@nl ,
+                        "Ophold"@da ,
+                        "Uppehållstillstånd"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.b.01 ,
                         polmat:n01.1so.2.b.02 ,
@@ -1367,7 +1409,11 @@ polmat:n01.1so.2.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.c" ;
     skos:altLabel       "1SO2C"@en;
-    skos:prefLabel      "Auswanderung"@de, "Emigratie"@nl, "Emigration"@en ;
+    skos:prefLabel      "Auswanderung"@de ,
+                        "Emigratie"@nl ,
+                        "Emigration"@en ,
+                        "Udvandring"@da ,
+                        "Utvandring"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.c.01 ,
                         polmat:n01.1so.2.c.02 ,
@@ -1471,15 +1517,22 @@ polmat:n01.1so.2.d a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.d" ;
     skos:altLabel       "1SO2D"@en;
-    skos:prefLabel      "Beisassen/Schutzverwandte"@de, "Stedelingen"@nl, "Townsfolk"@en ;
+    skos:prefLabel      "Beisassen/Schutzverwandte"@de ,
+                        "Stedelingen"@nl ,
+                        "Townsfolk"@en ,
+                        "TODO: Translate 'Townsfolk' to Danish"@da ,
+                        "TODO: Translate 'Townsfolk' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.2 .
-
 
 polmat:n01.1so.2.e a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.e" ;
     skos:altLabel       "1SO2E"@en;
-    skos:prefLabel      "Binnenwanderung"@de, "Internal Migration"@en, "InternalMigration"@nl ;
+    skos:prefLabel      "Binnenwanderung"@de ,
+                        "Internal Migration"@en ,
+                        "InternalMigration"@nl ,
+                        "Flytning"@da ,
+                        "Inrikes flyttning"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.e.01 ,
                         polmat:n01.1so.2.e.02 ,
@@ -1519,7 +1572,11 @@ polmat:n01.1so.2.f a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.f" ;
     skos:altLabel       "1SO2F"@en;
-    skos:prefLabel      "Bürgerrecht"@de, "burgerrechten"@nl, "Civil Rights"@en ;
+    skos:prefLabel      "Bürgerrecht"@de ,
+                        "burgerrechten"@nl ,
+                        "Civil Rights"@en ,
+                        "Borgerskabsrettigheder"@da ,
+                        "Borgarrätt"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.f.01 ,
                         polmat:n01.1so.2.f.02 ,
@@ -1559,7 +1616,11 @@ polmat:n01.1so.2.g a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.g" ;
     skos:altLabel       "1SO2G"@en;
-    skos:prefLabel      "Einwanderung/Ansiedlung="@de, "Immigratie"@nl, "Immigration"@en ;
+    skos:prefLabel      "Einwanderung/Ansiedlung"@de ,
+                        "Immigratie"@nl ,
+                        "Immigration"@en ,
+                        "Indvandring/bosættelse"@da ,
+                        "Invandring/kolonisation"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.g.01 ,
                         polmat:n01.1so.2.g.02 ,
@@ -1651,7 +1712,9 @@ polmat:n01.1so.2.h a skos:Concept ;
     skos:altLabel       "1SO2H"@en;
     skos:prefLabel      "Frondienste und Dienstpflichten"@de ,
                         "Corvee and Official Duties"@en ,
-                        "Corvee en officiële taken"@nl ;
+                        "Corvee en officiële taken"@nl ,
+                        "Hoveritjeneste/tjenestepligt"@da ,
+                        "Dagsverken/tjänsteplikt"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.h.01 ,
                         polmat:n01.1so.2.h.02 ,
@@ -1730,7 +1793,11 @@ polmat:n01.1so.2.i a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.i" ;
     skos:altLabel       "1SO2I"@en;
-    skos:prefLabel      "Gemeindeverfassung"@de, "Local Government"@en, "Plaatselijke overheid"@nl ;
+    skos:prefLabel      "Gemeindeverfassung"@de ,
+                        "Local Government"@en ,
+                        "Plaatselijke overheid"@nl ,
+                        "Landsbyvedtægt"@da ,
+                        "By-/sockenförvaltning"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.i.01 ,
                         polmat:n01.1so.2.i.02 ,
@@ -1938,7 +2005,11 @@ polmat:n01.1so.2.j a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.j" ;
     skos:altLabel       "1SO2J"@en;
-    skos:prefLabel      "Dominion"@en, "Heerschappij"@nl, "Herschaftsverfassung"@de ;
+    skos:prefLabel      "Dominion"@en ,
+                        "Heerschappij"@nl ,
+                        "Herschaftsverfassung"@de ,
+                        "TODO: Translate 'dominion' to Danish"@da ,
+                        "TODO: Translate 'dominion' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.2 .
 
 
@@ -1946,7 +2017,11 @@ polmat:n01.1so.2.k a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.k" ;
     skos:altLabel       "1SO2K"@en;
-    skos:prefLabel      "Huldigung"@de, "Homage / Tribute"@en, "huldiging"@nl ;
+    skos:prefLabel      "Huldigung"@de ,
+                        "Homage / Tribute"@en ,
+                        "huldiging"@nl ,
+                        "Hyldning"@da ,
+                        "Trohetsed"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.k.01 ,
                         polmat:n01.1so.2.k.02 ,
@@ -1978,7 +2053,11 @@ polmat:n01.1so.2.l a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.l" ;
     skos:altLabel       "1SO2L"@en;
-    skos:prefLabel      "Leibeigenschaft"@de, "Lijfeigenschap"@nl, "Serfdom"@en ;
+    skos:prefLabel      "Leibeigenschaft"@de ,
+                        "Lijfeigenschap"@nl ,
+                        "Serfdom"@en ,
+                        "Stavnsbånd/Vornedskab"@da ,
+                        "TODO: Translate 'Serfdom' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.l.01 ,
                         polmat:n01.1so.2.l.02 ,
@@ -2033,8 +2112,13 @@ polmat:n01.1so.2.l.06 a skos:Concept ;
 polmat:n01.1so.2.m a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.m" ;
-    skos:altLabel       "1SO2M"@en;
-    skos:prefLabel      "City Government"@en, "Stadsbestuur"@nl, "Stadtverfassung"@de ;
+    skos:altLabel       "1SO2M"@en ,
+                        "Stadsförvaltning"@sv ;
+    skos:prefLabel      "City Government"@en ,
+                        "Stadsbestuur"@nl ,
+                        "Stadtverfassung"@de ,
+                        "Stadsret"@da ,
+                        "Stadsförfattning"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.m.01 ,
                         polmat:n01.1so.2.m.02 ,
@@ -2297,8 +2381,14 @@ polmat:n01.1so.2.m.32 a skos:Concept ;
 polmat:n01.1so.2.n a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.2.n" ;
-    skos:altLabel       "1SO2N"@en;
-    skos:prefLabel      "Estate System"@en, "Standenordening / Standenwezen"@nl, "Ständeordnung / Standeswesen"@de ;
+    skos:altLabel       "1SO2N"@en ,
+                        "Stændervæsen"@da ,
+                        "Folkbokföring"@sv ;
+    skos:prefLabel      "Estate System"@en ,
+                        "Standenordening / Standenwezen"@nl ,
+                        "Ständeordnung / Standeswesen"@de ,
+                        "Stænderordning"@da ,
+                        "Ståndsordning"@sv ;
     skos:broader        polmat:n01.1so.2 ;
     skos:narrower       polmat:n01.1so.2.n.01 ,
                         polmat:n01.1so.2.n.02 ,
@@ -2414,17 +2504,24 @@ polmat:n01.1so.3 a skos:Concept ;
     skos:altLabel       "1SO3"@en;
     skos:prefLabel      "1.3 Marginal Groups"@en ,
                         "1.3 Marginale groepen"@nl ,
-                        "1.3 Randgruppen"@de ;
+                        "1.3 Randgruppen"@de ,
+                        "1.3 Marginalgrupper og laveste befolkningslag"@da ,
+                        "1.3 Marginalgrupper och underskikt"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.3.a ,
                         polmat:n01.1so.3.b ,
-                        polmat:n01.1so.3.c .
+                        polmat:n01.1so.3.c ,
+                        polmat:n01.1so.3.d .
 
 polmat:n01.1so.3.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.3.a" ;
     skos:altLabel       "1SO3A"@en;
-    skos:prefLabel      "Fahrende Leute"@de, "Rondtrekkende lieden/ bedelaars"@nl, "Vagrants"@en ;
+    skos:prefLabel      "Fahrende Leute"@de ,
+                        "Rondtrekkende lieden/ bedelaars"@nl ,
+                        "Vagrants"@en ,
+                        "Farende folk"@da ,
+                        "Lösdrivare"@sv ;
     skos:broader        polmat:n01.1so.3 ;
     skos:narrower       polmat:n01.1so.3.a.01 ,
                         polmat:n01.1so.3.a.02 ,
@@ -2769,8 +2866,12 @@ polmat:n01.1so.3.a.42 a skos:Concept ;
 polmat:n01.1so.3.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.3.b" ;
-    skos:altLabel       "1SO3B"@en;
-    skos:prefLabel      "Jews"@en, "Joden"@nl, "Juden"@de ;
+    skos:altLabel       "1SO3B"@en ;
+    skos:prefLabel      "Jews"@en ,
+                        "Joden"@nl ,
+                        "Juden"@de ,
+                        "Jøder"@da ,
+                        "Judar"@sv ;
     skos:broader        polmat:n01.1so.3 ;
     skos:narrower       polmat:n01.1so.3.b.01 ,
                         polmat:n01.1so.3.b.02 ,
@@ -2969,8 +3070,12 @@ polmat:n01.1so.3.b.24 a skos:Concept ;
 polmat:n01.1so.3.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.3.c" ;
-    skos:altLabel       "1SO3C"@en;
-    skos:prefLabel      "Gypsies"@en, "Zigeuner"@de, "Zigeuners"@nl ;
+    skos:altLabel       "1SO3C"@en ;
+    skos:prefLabel      "Gypsies"@en ,
+                        "Zigeuner"@de ,
+                        "Zigeuners"@nl ,
+                        "Sigøjnere"@da ,
+                        "Zigenare"@sv ;
     skos:broader        polmat:n01.1so.3 ;
     skos:narrower       polmat:n01.1so.3.c.01 ,
                         polmat:n01.1so.3.c.02 ,
@@ -2988,6 +3093,17 @@ polmat:n01.1so.3.c a skos:Concept ;
                         polmat:n01.1so.3.c.14 ,
                         polmat:n01.1so.3.c.15 ,
                         polmat:n01.1so.3.c.16 
+    .
+polmat:n01.1so.3.d a skos:Concept ;
+    skos:inScheme       polmat:scheme ;
+    skos:notation       "01.1so.3.d" ;
+    skos:altLabel       "1SO3D"@en ;
+    skos:prefLabel      "Sami"@en ,
+                        "Samen"@de ,
+                        "Samen"@nl ,
+                        "Samer"@da ,
+                        "Samer"@sv ;
+    skos:broader        polmat:n01.1so.3
     .
 
 polmat:n01.1so.3.c.01 a skos:Concept ;
