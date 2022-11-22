@@ -3226,7 +3226,9 @@ polmat:n01.1so.4 a skos:Concept ;
     skos:altLabel       "1SO4"@en;
     skos:prefLabel      "1.4 Abundance and Luxury"@en ,
                         "1.4 Aufwand und Luxus"@de ,
-                        "1.4 Overdaad en Luxe"@nl ;
+                        "1.4 Overdaad en Luxe"@nl ,
+                        "1.4 Forbrug og luksus"@da ,
+                        "1.4 Lyx"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.4.a ,
                         polmat:n01.1so.4.b ,
@@ -3236,7 +3238,11 @@ polmat:n01.1so.4.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.4.a" ;
     skos:altLabel       "1SO4A"@en;
-    skos:prefLabel      "Aufwand / Luxus"@de, "Conspicuous Consumption"@en, "Overdadige Consumptie"@nl ;
+    skos:prefLabel      "Aufwand / Luxus"@de ,
+                        "Conspicuous Consumption"@en ,
+                        "Overdadige Consumptie"@nl ,
+                        "Forbrug"@da ,
+                        "Lyx"@sv ;
     skos:broader        polmat:n01.1so.4 ;
     skos:narrower       polmat:n01.1so.4.a.01 ,
                         polmat:n01.1so.4.a.02 ,
@@ -3404,7 +3410,11 @@ polmat:n01.1so.4.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.4.b" ;
     skos:altLabel       "1SO4B"@en;
-    skos:prefLabel      "Clothing"@en, "Kleding"@nl, "Kleidung"@de ;
+    skos:prefLabel      "Clothing"@en ,
+                        "Kleding"@nl ,
+                        "Kleidung"@de ,
+                        "Klædedragt"@da ,
+                        "Beklädnad"@sv ;
     skos:broader        polmat:n01.1so.4 ;
     skos:narrower       polmat:n01.1so.4.b.01 ,
                         polmat:n01.1so.4.b.02 ,
@@ -3516,7 +3526,11 @@ polmat:n01.1so.4.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.4.c" ;
     skos:altLabel       "1SO4C"@en;
-    skos:prefLabel      "Furnishing"@en, "Meubilering"@nl, "Möblierung"@de ;
+    skos:prefLabel      "Furnishing"@en ,
+                        "Meubilering"@nl ,
+                        "Möblierung"@de ,
+                        "Møblering"@da ,
+                        "Möbler"@sv ;
     skos:broader        polmat:n01.1so.4 ;
     skos:narrower       polmat:n01.1so.4.c.01 ,
                         polmat:n01.1so.4.c.02 ,
@@ -3567,7 +3581,9 @@ polmat:n01.1so.5 a skos:Concept ;
     skos:altLabel       "1SO5"@en;
     skos:prefLabel      "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit"@nl ,
                         "1.5 Morality, Marriage and Family, Sexuality"@en ,
-                        "1.5 Sittlichkeit, Ehe- und Familie, Sexualität"@de ;
+                        "1.5 Sittlichkeit, Ehe- und Familie, Sexualität"@de ,
+                        "1.5 Sædelighed; ægteskab- og familie"@da ,
+                        "1.5 Sedlighet; Äktenskap och familj; Sexualitet"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.5.a ,
                         polmat:n01.1so.5.b ,
@@ -3587,21 +3603,33 @@ polmat:n01.1so.5.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.a" ;
     skos:altLabel       "1SO5A"@en;
-    skos:prefLabel      "Bigamie"@nl, "Bigamie/Doppelehen"@de, "Bigamy"@en ;
+    skos:prefLabel      "Bigamie"@nl ,
+                        "Bigamie/Doppelehen"@de ,
+                        "Bigamy"@en ,
+                        "Bigami/dobbeltægteskab"@da ,
+                        "TODO: Translate 'Bigamy' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 .
 
 polmat:n01.1so.5.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.b" ;
     skos:altLabel       "1SO5B"@en;
-    skos:prefLabel      "Adultery"@en, "Ehebruch, Öffentlich"@de, "Overspel"@nl ;
+    skos:prefLabel      "Adultery"@en ,
+                        "Ehebruch, Öffentlich"@de ,
+                        "Overspel"@nl ,
+                        "Ægteskabsbrud"@da ,
+                        "TODO: Translate 'Adultery' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 .
 
 polmat:n01.1so.5.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.c" ;
     skos:altLabel       "1SO5C"@en;
-    skos:prefLabel      "Divorce"@en, "Ehescheidung"@de, "Scheiden"@nl ;
+    skos:prefLabel      "Divorce"@en ,
+                        "Ehescheidung"@de ,
+                        "Scheiden"@nl ,
+                        "Skilsmisse"@da ,
+                        "TODO: Translate 'Divorce' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.c.01 ,
                         polmat:n01.1so.5.c.02 .
@@ -3624,7 +3652,11 @@ polmat:n01.1so.5.d a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.d" ;
     skos:altLabel       "1SO5D"@en;
-    skos:prefLabel      "Eheschließung"@de, "Huwelijk"@nl, "Marriage"@en ;
+    skos:prefLabel      "Eheschließung"@de ,
+                        "Huwelijk"@nl ,
+                        "Marriage"@en ,
+                        "Ægteskabsindgåelse"@da ,
+                        "Giftermål"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.d.01 ,
                         polmat:n01.1so.5.d.02 ,
@@ -3736,7 +3768,11 @@ polmat:n01.1so.5.e a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.e" ;
     skos:altLabel       "1SO5E"@en;
-    skos:prefLabel      "Familie / Huwelijksorde"@nl, "Familie / Eheführung"@de, "Family / Marriage Order"@en ;
+    skos:prefLabel      "Familie / Huwelijksorde"@nl ,
+                        "Familie / Eheführung"@de ,
+                        "Family / Marriage Order"@en ,
+                        "Familie/ægteskabsførelse"@da ,
+                        "Familj/äktenskapsliv"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.e.01 ,
                         polmat:n01.1so.5.e.02 ,
@@ -3808,7 +3844,11 @@ polmat:n01.1so.5.f a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.f" ;
     skos:altLabel       "1SO5F"@en;
-    skos:prefLabel      "Bordelen"@nl, "Brothels"@en, "Frauenhaus"@de ;
+    skos:prefLabel      "Bordelen"@nl ,
+                        "Brothel"@en ,
+                        "Frauenhaus"@de ,
+                        "TODO: Translate 'Brothel' to Danish"@da ,
+                        "TODO: Translate 'Brothel' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.f.01 ,
                         polmat:n01.1so.5.f.02 ,
@@ -3848,23 +3888,33 @@ polmat:n01.1so.5.g a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.g" ;
     skos:altLabel       "1SO5G"@en;
-    skos:prefLabel      "Homosexualiteit / sodomie"@nl, "Homosexuality / Sodomy"@en, "Homosexualität / Sodomie"@de ;
+    skos:prefLabel      "Homosexualiteit / sodomie"@nl ,
+                        "Homosexuality / Sodomy"@en ,
+                        "Homosexualität / Sodomie"@de ,
+                        "TODO: Translate 'Homosexuality/Sodomy' to Danish"@da ,
+                        "TODO: Translate 'Homosexuality/Sodomy' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 .
-
 
 polmat:n01.1so.5.h a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.h" ;
     skos:altLabel       "1SO5H"@en;
-    skos:prefLabel      "Incest"@en, "Incest"@nl, "Inzest"@de ;
+    skos:prefLabel      "Incest"@en ,
+                        "Incest"@nl ,
+                        "Inzest"@de ,
+                        "Incest"@da ,
+                        "TODO: Translate 'Incest' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 .
-
 
 polmat:n01.1so.5.i a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.i" ;
     skos:altLabel       "1SO5I"@en;
-    skos:prefLabel      "Concubinaat"@nl, "Concubinage"@en, "Konkubinat"@de ;
+    skos:prefLabel      "Concubinaat"@nl ,
+                        "Concubinage"@en ,
+                        "Konkubinat"@de ,
+                        "TODO: Translate 'Concubinage' to Danish"@da ,
+                        "TODO: Translate 'Concubinage' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.i.01 .
 
@@ -3880,7 +3930,11 @@ polmat:n01.1so.5.j a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.j" ;
     skos:altLabel       "1SO5J"@en;
-    skos:prefLabel      "Prostitutie"@nl, "Prostitution"@en, "Prostitution/Kuppelei"@de ;
+    skos:prefLabel      "Prostitutie"@nl ,
+                        "Prostitution"@en ,
+                        "Prostitution/Kuppelei"@de ,
+                        "Prostitution/rufferi"@da ,
+                        "TODO: Translate 'Prostitution' to Swedish"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.j.01 ,
                         polmat:n01.1so.5.j.02 ,
@@ -3922,7 +3976,9 @@ polmat:n01.1so.5.k a skos:Concept ;
     skos:altLabel       "1SO5K"@en;
     skos:prefLabel      "Buitenechtelijke zwangerschap / kindern"@nl ,
                         "Extramarital Pregnancy / Children"@en ,
-                        "Uneheliche Schwangerschaft / Kinder"@de ;
+                        "Uneheliche Schwangerschaft / Kinder"@de ,
+                        "Svangerskab udenfor ægteskab/børn"@da ,
+                        "Utomäktenskaplig graviditet/barn"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.k.01 ,
                         polmat:n01.1so.5.k.02 ,
@@ -4002,7 +4058,11 @@ polmat:n01.1so.5.l a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.l" ;
     skos:altLabel       "1SO5L"@en;
-    skos:prefLabel      "Ontucht"@nl, "Unchastity"@en, "Unzucht"@de ;
+    skos:prefLabel      "Ontucht"@nl ,
+                        "Unchastity"@en ,
+                        "Unzucht"@de ,
+                        "Utugt"@da ,
+                        "Otukt"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.l.01 ,
                         polmat:n01.1so.5.l.03 ,
@@ -4061,7 +4121,11 @@ polmat:n01.1so.5.m a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.5.m" ;
     skos:altLabel       "1SO5M"@en;
-    skos:prefLabel      "Betrothal"@en, "Verlobung"@de, "Verloving"@nl ;
+    skos:prefLabel      "Betrothal"@en ,
+                        "Verlobung"@de ,
+                        "Verloving"@nl ,
+                        "Forlovelse"@da ,
+                        "Förlovning"@sv ;
     skos:broader        polmat:n01.1so.5 ;
     skos:narrower       polmat:n01.1so.5.m.01 ,
                         polmat:n01.1so.5.m.02 .
@@ -4085,18 +4149,28 @@ polmat:n01.1so.5.m.02 a skos:Concept ;
 polmat:n01.1so.6 a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.6" ;
-    skos:altLabel       "1SO6"@en;
+    skos:altLabel       "1SO6"@en ,
+                        "1.6 Förmyndarskap"@sv ,
+                        "1.6 Formynderskab"@da ;
     skos:prefLabel      "1.6 Guardianship"@en ,
                         "1.6 Voogdij"@nl ,
-                        "1.6 Vormundschaftswesen"@de ;
+                        "1.6 Vormundschaftswesen"@de ,
+                        "1.6 Formynderskabsvæsen"@da ,
+                        "1.6 Förmyndarskapsväsen"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.6.a .
 
 polmat:n01.1so.6.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.6.a" ;
-    skos:altLabel       "1SO6A"@en;
-    skos:prefLabel      "Guardianship"@en, "Voogdij"@nl, "Vormundschaftswesen"@de ;
+    skos:altLabel       "1SO6A"@en ,
+                        "Förmyndarskap"@sv ,
+                        "Formynderskab"@da ;
+    skos:prefLabel      "Guardianship"@en ,
+                        "Voogdij"@nl ,
+                        "Vormundschaftswesen"@de ,
+                        "Formynderskabsvæsen"@da ,
+                        "Förmyndarskapsväsen"@sv ;
     skos:broader        polmat:n01.1so.6 ;
     skos:narrower       polmat:n01.1so.6.a.01 ,
                         polmat:n01.1so.6.a.02 ,
@@ -4139,7 +4213,9 @@ polmat:n01.1so.7 a skos:Concept ;
     skos:altLabel       "1SO7"@en;
     skos:prefLabel      "1.7 Erbschaftswesen"@de ,
                         "1.7 Erfenis"@nl ,
-                        "1.7 Succession"@en ;
+                        "1.7 Succession"@en ,
+                        "1.7 Arvevæsen"@da ,
+                        "1.7 Arv"@sv ;
     skos:broader        polmat:n01.1so ;
     skos:narrower       polmat:n01.1so.7.a .
 
@@ -4147,7 +4223,11 @@ polmat:n01.1so.7.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.1so.7.a" ;
     skos:altLabel       "1SO7A"@en;
-    skos:prefLabel      "Erbschaftswesen"@de, "Erfenis"@nl, "Succession"@en ;
+    skos:prefLabel      "Erbschaftswesen"@de ,
+                        "Erfenis"@nl ,
+                        "Succession"@en ,
+                        "Arvevæsen"@da ,
+                        "Arv"@sv ;
     skos:broader        polmat:n01.1so.7 ;
     skos:narrower       polmat:n01.1so.7.a.01 ,
                         polmat:n01.1so.7.a.02 ,
@@ -4198,7 +4278,9 @@ polmat:n01.2pso a skos:Concept ;
     skos:altLabel       "2PSO"@en;
     skos:prefLabel      "2 Public Order and Safety"@en ,
                         "2 Publieke veiligheid en orde"@nl ,
-                        "2 Öffentliche Sicherheit und Ordnung"@de ;
+                        "2 Öffentliche Sicherheit und Ordnung"@de ,
+                        "2 Offentlig sikkerhed og orden"@da ,
+                        "2 Offentlig säkerhet och ordning"@sv ;
     skos:broader        polmat:n01 ;
     skos:narrower       polmat:n01.2pso.1 ,
                         polmat:n01.2pso.2 ,
@@ -4211,7 +4293,9 @@ polmat:n01.2pso.1 a skos:Concept ;
     skos:altLabel       "2PSO1"@en;
     skos:prefLabel      "2.1 Amusement"@en ,
                         "2.1 Amusement"@nl ,
-                        "2.1 Vergnügungen & Öffentliche Leichtfertigkeit"@de ;
+                        "2.1 Vergnügungen & Öffentliche Leichtfertigkeit"@de ,
+                        "2.1 Forlystelser; offentlig letsindighed"@da ,
+                        "2.1 Nöjen; offentlig lättfärdighet"@sv ;
     skos:broader        polmat:n01.2pso ;
     skos:narrower       polmat:n01.2pso.1.a ,
                         polmat:n01.2pso.1.b ,
@@ -4228,7 +4312,11 @@ polmat:n01.2pso.1.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.a" ;
     skos:altLabel       "2PSO1A"@en;
-    skos:prefLabel      "Aberglaube"@de, "Bijgeloof"@nl, "Superstition"@en ;
+    skos:prefLabel      "Aberglaube"@de ,
+                        "Bijgeloof"@nl ,
+                        "Superstition"@en ,
+                        "TODO: Translate 'Superstition' to Danish"@da ,
+                        "Vidskepelse"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.a.01 ,
                         polmat:n01.2pso.1.a.02 .
@@ -4252,7 +4340,11 @@ polmat:n01.2pso.1.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.b" ;
     skos:altLabel       "2PSO1B"@en;
-    skos:prefLabel      "Gambling"@en, "Glücksspiel"@de, "Gokspelen"@nl ;
+    skos:prefLabel      "Gambling"@en ,
+                        "Glücksspiel"@de ,
+                        "Gokspelen"@nl ,
+                        "Hasardspil"@da ,
+                        "Spel/turspel"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.b.01 ,
                         polmat:n01.2pso.1.b.02 ,
@@ -4316,7 +4408,11 @@ polmat:n01.2pso.1.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.c" ;
     skos:altLabel       "2PSO1C"@en;
-    skos:prefLabel      "Grober Unfug"@de, "Groot onheil"@nl, "Gross Mischief"@en ;
+    skos:prefLabel      "Grober Unfug"@de ,
+                        "Groot onheil"@nl ,
+                        "Gross Mischief"@en ,
+                        "Optøjer"@da ,
+                        "Störande av allmän ordning"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.c.01 ,
                         polmat:n01.2pso.1.c.02 ,
@@ -4372,7 +4468,11 @@ polmat:n01.2pso.1.d a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.d" ;
     skos:altLabel       "2PSO1D"@en;
-    skos:prefLabel      "Idleness"@en, "Müßiggang/Verschwendung"@de, "luiheid"@nl ;
+    skos:prefLabel      "Idleness"@en ,
+                        "Müßiggang/Verschwendung"@de ,
+                        "luiheid"@nl ,
+                        "Lediggang/øselhed"@da ,
+                        "Lättja/slöseri"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.d.01 .
 
@@ -4387,7 +4487,11 @@ polmat:n01.2pso.1.e a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.e" ;
     skos:altLabel       "2PSO1E"@en;
-    skos:prefLabel      "Public Plays"@en, "Schauspiel"@de, "Schouwspel"@nl ;
+    skos:prefLabel      "Public Plays"@en ,
+                        "Schauspiel"@de ,
+                        "Schouwspel"@nl ,
+                        "Skuespil"@da ,
+                        "Teater"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.e.01 ,
                         polmat:n01.2pso.1.e.02 ,
@@ -4419,23 +4523,33 @@ polmat:n01.2pso.1.f a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.f" ;
     skos:altLabel       "2PSO1F"@en;
-    skos:prefLabel      "Opening Hours"@en, "Openingstijden"@nl, "Sperrstunde"@de ;
+    skos:prefLabel      "Opening Hours"@en ,
+                        "Openingstijden"@nl ,
+                        "Sperrstunde"@de ,
+                        "Spærretid"@da ,
+                        "Öppethållande på krogar"@sv ;
     skos:broader        polmat:n01.2pso.1 .
-
 
 polmat:n01.2pso.1.g a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.g" ;
     skos:altLabel       "2PSO1G"@en;
-    skos:prefLabel      "Libel"@en, "Spottgesang"@de, "Spotzangen"@nl ;
+    skos:prefLabel      "Libel"@en ,
+                        "Spottgesang"@de ,
+                        "Spotzangen"@nl ,
+                        "Skæmteviser"@da ,
+                        "TODO: Translate 'Libel' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.1 .
-
 
 polmat:n01.2pso.1.h a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.h" ;
     skos:altLabel       "2PSO1H"@en;
-    skos:prefLabel      "Dancing"@en, "Dansen"@nl, "Tanzen"@de ;
+    skos:prefLabel      "Dancing"@en ,
+                        "Dansen"@nl ,
+                        "Tanzen"@de ,
+                        "Dans"@da ,
+                        "Dans"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.h.01 ,
                         polmat:n01.2pso.1.h.02 ,
@@ -4483,7 +4597,11 @@ polmat:n01.2pso.1.i a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.i" ;
     skos:altLabel       "2PSO1I"@en;
-    skos:prefLabel      "Parades"@en, "Umzüge/Feste"@de, "parades"@nl ;
+    skos:prefLabel      "Parades"@en ,
+                        "Umzüge/Feste"@de ,
+                        "Parades"@nl ,
+                        "Optog/fester"@da ,
+                        "Fester"@sv ;
     skos:broader        polmat:n01.2pso.1 ;
     skos:narrower       polmat:n01.2pso.1.i.01 ,
                         polmat:n01.2pso.1.i.02 ,
@@ -4563,7 +4681,11 @@ polmat:n01.2pso.1.j a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.1.j" ;
     skos:altLabel       "2PSO1J"@en;
-    skos:prefLabel      "Dronkenschap"@nl, "Drunkenness"@en, "Zutrinken/Trunksucht"@de ;
+    skos:prefLabel      "Dronkenschap"@nl ,
+                        "Drunkenness"@en ,
+                        "Zutrinken/Trunksucht"@de ,
+                        "Drikkeri/drikfældighed"@da ,
+                        "Dryckenskap/alkoholism"@sv ;
     skos:broader        polmat:n01.2pso.1 .
 
 
@@ -4575,7 +4697,9 @@ polmat:n01.2pso.2 a skos:Concept ;
     skos:altLabel       "2PSO2"@en;
     skos:prefLabel      "2.2 Public Safety and Criminality"@en ,
                         "2.2 Publieke veiligheid en criminaliteit"@nl ,
-                        "2.2 Öffentliche Sicherheit, Kriminalität"@de ;
+                        "2.2 Öffentliche Sicherheit, Kriminalität"@de ,
+                        "2.2 Offentlig sikkerhed; kriminalitet"@da ,
+                        "2.2 Offentlig säkerhet; Kriminalitet"@sv ;
     skos:broader        polmat:n01.2pso ;
     skos:narrower       polmat:n01.2pso.2.a ,
                         polmat:n01.2pso.2.b ,
@@ -4596,22 +4720,34 @@ polmat:n01.2pso.2 a skos:Concept ;
 polmat:n01.2pso.2.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.a" ;
-    skos:altLabel       "2PSO2A"@en;
-    skos:prefLabel      "Austreten"@de, "Defecation"@en, "Ontlasting"@nl ;
+    skos:altLabel       "2PSO2A"@en ;
+    skos:prefLabel      "Austreten"@de ,
+                        "Defecation"@en ,
+                        "Ontlasting"@nl ,
+                        "Udtræden"@da ,
+                        "TODO: Translate 'Defecation' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 .
 
 polmat:n01.2pso.2.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.b" ;
-    skos:altLabel       "2PSO2B"@en;
-    skos:prefLabel      "Duell"@de, "Duels"@en, "duels"@nl ;
+    skos:altLabel       "2PSO2B"@en ;
+    skos:prefLabel      "Duell"@de ,
+                        "Duels"@en ,
+                        "duels"@nl ,
+                        "Duel"@da ,
+                        "Dueller"@sv ;
     skos:broader        polmat:n01.2pso.2 .
 
 polmat:n01.2pso.2.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.c" ;
     skos:altLabel       "2PSO2C"@en;
-    skos:prefLabel      "Ehrverletzung"@de, "Laster"@nl, "Slander"@en ;
+    skos:prefLabel      "Ehrverletzung"@de ,
+                        "Laster"@nl ,
+                        "Slander"@en ,
+                        "Æreskrænkelse"@da ,
+                        "Ärekränkning"@sv ;
     skos:broader        polmat:n01.2pso.2 .
 
 
@@ -4619,7 +4755,11 @@ polmat:n01.2pso.2.d a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.d" ;
     skos:altLabel       "2PSO2D"@en;
-    skos:prefLabel      "Eigendomsbescherming"@nl, "Eigentumsschutz"@de, "Protection of Property"@en ;
+    skos:prefLabel      "Eigendomsbescherming"@nl ,
+                        "Eigentumsschutz"@de ,
+                        "Protection of Property"@en ,
+                        "Ejendomsbeskyttelse"@da ,
+                        "Egendomsskydd"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.d.01 ,
                         polmat:n01.2pso.2.d.02 ,
@@ -4652,7 +4792,11 @@ polmat:n01.2pso.2.e a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.e" ;
     skos:altLabel       "2PSO2E"@en;
-    skos:prefLabel      "Werkloze landsknechte"@nl, "Unemployed Landsknechte"@en, "Gartknechte"@de ;
+    skos:prefLabel      "Werkloze landsknechte"@nl ,
+                        "Unemployed Landsknechte"@en ,
+                        "Gartknechte"@de ,
+                        "TODO: Translate 'Unemployed Landsknechte' to Danish"@da ,
+                        "TODO: Translate 'Unemployed Landsknechte' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.e.01 ,
                         polmat:n01.2pso.2.e.02 ,
@@ -4764,7 +4908,11 @@ polmat:n01.2pso.2.f a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.f" ;
     skos:altLabel       "2PSO2F"@en;
-    skos:prefLabel      "Gesellschaften/Vereine"@de, "Gezelschap/ Vereniging"@nl, "Societies"@en ;
+    skos:prefLabel      "Gesellschaften/Vereine"@de ,
+                        "Gezelschap/ Vereniging"@nl ,
+                        "Societies"@en ,
+                        "Samfund/foreninger"@da ,
+                        "TODO: Translate 'Societies' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.f.01 ,
                         polmat:n01.2pso.2.f.02 ,
@@ -4812,7 +4960,11 @@ polmat:n01.2pso.2.g a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.g" ;
     skos:altLabel       "2PSO2G"@en;
-    skos:prefLabel      "Gewalttaten"@de, "Geweldsmisdrijven"@nl, "Violent Crime"@en ;
+    skos:prefLabel      "Gewalttaten"@de ,
+                        "Geweldsmisdrijven"@nl ,
+                        "Violent Crime"@en ,
+                        "Voldshandlinger"@da ,
+                        "Våldsdåd"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.g.01 ,
                         polmat:n01.2pso.2.g.02 ,
@@ -4860,7 +5012,11 @@ polmat:n01.2pso.2.h a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.h" ;
     skos:altLabel       "2PSO2H"@en;
-    skos:prefLabel      "Hekserij"@nl, "Hexerei/Zauberei"@de, "Witchcraft"@en ;
+    skos:prefLabel      "Hekserij"@nl ,
+                        "Hexerei/Zauberei"@de ,
+                        "Witchcraft"@en ,
+                        "Hekseri/troldom"@da ,
+                        "Häx- & trollkonster"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.h.01 ,
                         polmat:n01.2pso.2.h.02 ,
@@ -4964,7 +5120,11 @@ polmat:n01.2pso.2.i a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.i" ;
     skos:altLabel       "2PSO2I"@en;
-    skos:prefLabel      "Kriegslauf/Kriegsdienst"@de, "Military Service"@en, "Militaire dienst"@nl ;
+    skos:prefLabel      "Kriegslauf/Kriegsdienst"@de ,
+                        "Military Service"@en ,
+                        "Militaire dienst"@nl ,
+                        "TODO: Translate 'Military Service' to Danish"@da ,
+                        "TODO: Translate 'Military Service' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.i.01 ,
                         polmat:n01.2pso.2.i.02 .
@@ -4988,7 +5148,11 @@ polmat:n01.2pso.2.j a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.j" ;
     skos:altLabel       "2PSO2J"@en;
-    skos:prefLabel      "Distrubance of Peace"@en, "Landfriedensbruch / Stadtfriede"@de, "Verstoren van de landsrust / stadsrust"@nl ;
+    skos:prefLabel      "Disturbance of Peace"@en ,
+                        "Landfriedensbruch / Stadtfriede"@de ,
+                        "Verstoren van de landsrust / stadsrust"@nl ,
+                        "Brud på landefreden/fejde/byfred "@da ,
+                        "TODO: Translate 'Disturbance of Peace' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 .
 
 
@@ -4996,7 +5160,11 @@ polmat:n01.2pso.2.k a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.k" ;
     skos:altLabel       "2PSO2K"@en;
-    skos:prefLabel      "Militär/Soldaten"@de, "Soldiers"@en, "soldaten"@nl ;
+    skos:prefLabel      "Militär/Soldaten"@de ,
+                        "Soldiers"@en ,
+                        "soldaten"@nl ,
+                        "Militær/soldater"@da ,
+                        "Militärer/soldater"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.k.01 ,
                         polmat:n01.2pso.2.k.02 ,
@@ -5092,7 +5260,11 @@ polmat:n01.2pso.2.l a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.l" ;
     skos:altLabel       "2PSO2L"@en;
-    skos:prefLabel      "De openbare veiligheid"@nl, "Public Security"@en, "Sicherung Stadt / Land"@de ;
+    skos:prefLabel      "De openbare veiligheid"@nl ,
+                        "Public Security"@en ,
+                        "Sicherung Stadt / Land"@de ,
+                        "Sikring by/land"@da ,
+                        "Säkerhet stad/land"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.l.01 ,
                         polmat:n01.2pso.2.l.02 ,
@@ -5212,7 +5384,11 @@ polmat:n01.2pso.2.m a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.m" ;
     skos:altLabel       "2PSO2M"@en;
-    skos:prefLabel      "Onrust"@nl, "Riots"@en, "Unruhen"@de ;
+    skos:prefLabel      "Onrust"@nl ,
+                        "Riots"@en ,
+                        "Unruhen"@de ,
+                        "Uroligheder"@da ,
+                        "TODO: Translate 'Riots' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.m.01 ,
                         polmat:n01.2pso.2.m.02 ,
@@ -5244,7 +5420,11 @@ polmat:n01.2pso.2.n a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.n" ;
     skos:altLabel       "2PSO2N"@en;
-    skos:prefLabel      "Bijeenkomsten"@nl, "Public Meetings"@en, "Versammlungen"@de ;
+    skos:prefLabel      "Bijeenkomsten"@nl ,
+                        "Public Meetings"@en ,
+                        "Versammlungen"@de ,
+                        "Forsamlinger"@da ,
+                        "TODO: Translate 'Public Meetings' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.n.01 ,
                         polmat:n01.2pso.2.n.02 ,
@@ -5276,7 +5456,11 @@ polmat:n01.2pso.2.o a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.2.o" ;
     skos:altLabel       "2PSO2O"@en;
-    skos:prefLabel      "Carrying Arms"@en, "Waffenführung"@de, "Wapenvoering"@nl ;
+    skos:prefLabel      "Carrying Arms"@en ,
+                        "Waffenführung"@de ,
+                        "Wapenvoering"@nl ,
+                        "Våbenføring"@da ,
+                        "Beväpning"@sv ;
     skos:broader        polmat:n01.2pso.2 ;
     skos:narrower       polmat:n01.2pso.2.o.01 ,
                         polmat:n01.2pso.2.o.02 ,
@@ -5343,7 +5527,9 @@ polmat:n01.2pso.3 a skos:Concept ;
     skos:altLabel       "2PSO3"@en;
     skos:prefLabel      "2.3 Censorship"@en ,
                         "2.3 Censuur"@nl ,
-                        "2.3 Zensur und Buchdruck"@de ;
+                        "2.3 Zensur und Buchdruck"@de ,
+                        "2.3 Censur og bogtryk (-handel)"@da ,
+                        "2.3 Censur och boktryckeri"@sv ;
     skos:broader        polmat:n01.2pso ;
     skos:narrower       polmat:n01.2pso.3.a .
 
@@ -5351,7 +5537,11 @@ polmat:n01.2pso.3.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.3.a" ;
     skos:altLabel       "2PSO3A"@en;
-    skos:prefLabel      "Censorship"@en, "Censuur"@nl, "Zensur"@de ;
+    skos:prefLabel      "Censorship"@en ,
+                        "Censuur"@nl ,
+                        "Zensur"@de ,
+                        "Censur"@da ,
+                        "Censur"@sv ;
     skos:broader        polmat:n01.2pso.3 ;
     skos:narrower       polmat:n01.2pso.3.a.01 ,
                         polmat:n01.2pso.3.a.02 ,
@@ -5465,7 +5655,9 @@ polmat:n01.2pso.4 a skos:Concept ;
     skos:altLabel       "2PSO4"@en;
     skos:prefLabel      "2.4 Administration and Justice"@en ,
                         "2.4 Administration en justitie"@nl ,
-                        "2.4 Policey der Verwaltung und Justiz"@de ;
+                        "2.4 Policey der Verwaltung und Justiz"@de ,
+                        "2.4 Forvaltningspoliti og justits"@da ,
+                        "2.4 Förvaltningspoliti och justitiepoliti"@sv ;
     skos:broader        polmat:n01.2pso ;
     skos:narrower       polmat:n01.2pso.4.a ,
                         polmat:n01.2pso.4.b ,
@@ -5483,7 +5675,11 @@ polmat:n01.2pso.4.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.a" ;
     skos:altLabel       "2PSO4A"@en;
-    skos:prefLabel      "Ambtsvoering / ambtsmisbruik"@nl, "Amtsführung / Amtsmißbrauch"@de, "Misconduct of Office"@en ;
+    skos:prefLabel      "Ambtsvoering / ambtsmisbruik"@nl ,
+                        "Amtsführung / Amtsmißbrauch"@de ,
+                        "Misconduct of Office"@en ,
+                        "Embedsførelse/embedsmisbrug"@da ,
+                        "Ämbetsutövning/-missbruk"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.a.01 ,
                         polmat:n01.2pso.4.a.02 ,
@@ -5771,7 +5967,11 @@ polmat:n01.2pso.4.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.b" ;
     skos:altLabel       "2PSO4B"@en;
-    skos:prefLabel      "Anzeigepflicht"@de, "Meldplicht"@nl, "Obligation to Report"@en ;
+    skos:prefLabel      "Anzeigepflicht"@de ,
+                        "Meldplicht"@nl ,
+                        "Obligation to Report"@en ,
+                        "Anmeldelsespligt"@da ,
+                        "Anmälningsplikt"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.b.01 ,
                         polmat:n01.2pso.4.b.02 ,
@@ -5803,7 +6003,11 @@ polmat:n01.2pso.4.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.c" ;
     skos:altLabel       "2PSO4C"@en;
-    skos:prefLabel      "Aufsichtspflicht"@de, "Supervisory Duty"@en, "Toezichtsplicht"@nl ;
+    skos:prefLabel      "Aufsichtspflicht"@de ,
+                        "Supervisory Duty"@en ,
+                        "Toezichtsplicht"@nl ,
+                        "Opsynspligt"@da ,
+                        "TODO: Translate 'Supervisory Duty' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.c.01 ,
                         polmat:n01.2pso.4.c.02 ,
@@ -5835,7 +6039,11 @@ polmat:n01.2pso.4.d a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.d" ;
     skos:altLabel       "2PSO4D"@en;
-    skos:prefLabel      "Autoriteiten trein"@nl, "Behördenzug"@de, "Stages of Appeal / Authorities Train"@en ;
+    skos:prefLabel      "Autoriteiten trein"@nl ,
+                        "Behördenzug"@de ,
+                        "Stages of Appeal / Authorities Train"@en ,
+                        "Kontorgang"@da ,
+                        "Tjänstehierarki"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.d.01 ,
                         polmat:n01.2pso.4.d.02 ,
@@ -5867,7 +6075,11 @@ polmat:n01.2pso.4.e a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.e" ;
     skos:altLabel       "2PSO4E"@en;
-    skos:prefLabel      "Bekanntmachungswesen"@de, "Bekendmakingen"@nl, "Public Announcements"@en ;
+    skos:prefLabel      "Bekanntmachungswesen"@de ,
+                        "Bekendmakingen"@nl ,
+                        "Public Announcements"@en ,
+                        "Bekendtgørelsesvæsen"@da ,
+                        "Kungörande"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.e.01 ,
                         polmat:n01.2pso.4.e.02 ,
@@ -5907,7 +6119,11 @@ polmat:n01.2pso.4.f a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.f" ;
     skos:altLabel       "2PSO4F"@en;
-    skos:prefLabel      "Enforcement of Civil Judgement"@en, "Forderungsvollstreckung"@de, "vorderingen handhaving"@nl ;
+    skos:prefLabel      "Enforcement of Civil Judgement"@en ,
+                        "Forderungsvollstreckung"@de ,
+                        "vorderingen handhaving"@nl ,
+                        "Eksekutionsforretning"@da ,
+                        "Skuldexekution"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.f.01 ,
                         polmat:n01.2pso.4.f.02 ,
@@ -5963,7 +6179,11 @@ polmat:n01.2pso.4.g a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.g" ;
     skos:altLabel       "2PSO4G"@en;
-    skos:prefLabel      "Court System"@en, "Gerichtsorganisation"@de, "Rechtssysteem"@nl ;
+    skos:prefLabel      "Court System"@en ,
+                        "Gerichtsorganisation"@de ,
+                        "Rechtssysteem"@nl ,
+                        "Domstolenes organisation"@da ,
+                        "TODO: Translate 'Court System' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.4 .
 
 
@@ -5971,7 +6191,11 @@ polmat:n01.2pso.4.h a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.h" ;
     skos:altLabel       "2PSO4H"@en;
-    skos:prefLabel      "Chancellery"@en, "Kanselarij"@nl, "Kanzleiwesen"@de ;
+    skos:prefLabel      "Chancellery"@en ,
+                        "Kanselarij"@nl ,
+                        "Kanzleiwesen"@de ,
+                        "TODO: Translate 'Chancellery' to Danish"@da ,
+                        "TODO: Translate 'Chancellery' to Swedish"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.h.01 .
 
@@ -5987,7 +6211,11 @@ polmat:n01.2pso.4.i a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.i" ;
     skos:altLabel       "2PSO4I"@en;
-    skos:prefLabel      "Execution of Punishment"@en, "Strafvollstreckung"@de, "Strafvoltrekking"@nl ;
+    skos:prefLabel      "Execution of Punishment"@en ,
+                        "Strafvollstreckung"@de ,
+                        "Strafvoltrekking"@nl ,
+                        "Straffuldbyrdelse"@da ,
+                        "Straffexekution"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.i.01 ,
                         polmat:n01.2pso.4.i.02 ,
@@ -6043,7 +6271,11 @@ polmat:n01.2pso.4.j a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.j" ;
     skos:altLabel       "2PSO4J"@en;
-    skos:prefLabel      "Procedure"@en, "Procedure"@nl, "Verfahren"@de ;
+    skos:prefLabel      "Procedure"@en ,
+                        "Procedure"@nl ,
+                        "Verfahren"@de ,
+                        "Proces"@da ,
+                        "Process"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.j.01 ,
                         polmat:n01.2pso.4.j.02 ,
@@ -6115,8 +6347,11 @@ polmat:n01.2pso.4.k a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.2pso.4.k" ;
     skos:altLabel       "2PSO4K"@en;
-    skos:prefLabel      "Responsibilities of Courts"@en, "Verantwoordelijkheden rechtbanken"@nl,
-    "Zuständigkeiten Gerichte"@de ;
+    skos:prefLabel      "Responsibilities of Courts"@en ,
+                        "Verantwoordelijkheden rechtbanken"@nl ,
+                        "Zuständigkeiten Gerichte"@de ,
+                        "Retskompetence"@da ,
+                        "Jurisdiktion"@sv ;
     skos:broader        polmat:n01.2pso.4 ;
     skos:narrower       polmat:n01.2pso.4.k.01 ,
                         polmat:n01.2pso.4.k.02 ,
@@ -6193,7 +6428,9 @@ polmat:n01.3prh a skos:Concept ;
     skos:altLabel       "3PRH"@en;
     skos:prefLabel      "3 Social Services. Healthcare. Education. Culture"@en ,
                         "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur"@nl ,
-                        "3 Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur"@de ;
+                        "3 Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur"@de ,
+                        "3 Socialpolitik. Opdragelsesvæsen. Kultur"@da ,
+                        "3 Socialväsen. Hälsovårdsväsen. Utbildningsväsen. Kultur"@sv ;
     skos:broader        polmat:n01 ;
     skos:narrower       polmat:n01.3prh.1 ,
                         polmat:n01.3prh.2 ,
@@ -6205,7 +6442,9 @@ polmat:n01.3prh.1 a skos:Concept ;
     skos:altLabel       "3PRH1"@en;
     skos:prefLabel      "3.1 Gesundheitswesen"@de ,
                         "3.1 Healthcare"@en ,
-                        "3.1 gezondheidszorg"@nl ;
+                        "3.1 Gezondheidszorg"@nl ,
+                        "3.1 Sundhedsvæsen"@da ,
+                        "3.1 Hälsovårdsväsen"@sv ;
     skos:broader        polmat:n01.3prh ;
     skos:narrower       polmat:n01.3prh.1.a ,
                         polmat:n01.3prh.1.b ,
@@ -6222,7 +6461,11 @@ polmat:n01.3prh.1.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.a" ;
     skos:altLabel       "3PRH1A"@en;
-    skos:prefLabel      "Apotheker"@de, "Chemists / Pharmacist"@en, "apotheker"@nl ;
+    skos:prefLabel      "Apotheker"@de ,
+                        "Chemists / Pharmacist"@en ,
+                        "Apotheker"@nl ,
+                        "Apotekere"@da ,
+                        "Apotekare"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.a.01 ,
                         polmat:n01.3prh.1.a.02 ,
@@ -6351,7 +6594,11 @@ polmat:n01.3prh.1.b a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.b" ;
     skos:altLabel       "3PRH1B"@en;
-    skos:prefLabel      "Physicians"@en, "artsen"@nl, "Ärzte"@de ;
+    skos:prefLabel      "Physicians"@en ,
+                        "Artsen"@nl ,
+                        "Ärzte"@de ,
+                        "Læger"@da ,
+                        "Läkare"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.b.01 ,
                         polmat:n01.3prh.1.b.02 ,
@@ -6455,8 +6702,11 @@ polmat:n01.3prh.1.c a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.c" ;
     skos:altLabel       "3PRH1C"@en;
-    skos:prefLabel      "Bader / Barbers / Surgeons"@en, "Bader / kappers / chirurgen"@nl,
-    "Bader / Barbiere / Wundärzte"@de ;
+    skos:prefLabel      "Bader / Barbers / Surgeons"@en ,
+                        "Bader / kappers / chirurgen"@nl ,
+                        "Bader / Barbiere / Wundärzte"@de ,
+                        "Bartskærer/barberer/sårlæger"@da ,
+                        "Badare/barberare/fältskärer"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.c.01 ,
                         polmat:n01.3prh.1.c.02 ,
@@ -6617,7 +6867,11 @@ polmat:n01.3prh.1.d a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.d" ;
     skos:altLabel       "3PRH1D"@en;
-    skos:prefLabel      "Baden"@nl, "Badewesen"@de, "Baths"@en ;
+    skos:prefLabel      "Baden"@nl ,
+                        "Badewesen"@de ,
+                        "Baths"@en ,
+                        "TODO: Translate 'Baths' to Danish"@da ,
+                        "TODO: Translate 'Baths' to Swedish"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.d.01 ,
                         polmat:n01.3prh.1.d.02 ,
@@ -6665,8 +6919,11 @@ polmat:n01.3prh.1.e a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.e" ;
     skos:altLabel       "3PRH1E"@en;
-    skos:prefLabel      "Begrafenis / lijk behandeling"@nl, "Bestattungswesen / Leichenbehandlung"@de,
-    "Funeral / Corpse Treatment"@en ;
+    skos:prefLabel      "Begrafenis / lijk behandeling"@nl ,
+                        "Bestattungswesen / Leichenbehandlung"@de ,
+                        "Funeral / Corpse Treatment"@en ,
+                        "Begravelsesvæsen/ligbehandling"@da ,
+                        "Begravningsväsen/likbehandling"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.e.01 ,
                         polmat:n01.3prh.1.e.02 ,
@@ -6738,7 +6995,11 @@ polmat:n01.3prh.1.f a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.f" ;
     skos:altLabel       "3PRH1F"@en;
-    skos:prefLabel      "Hebammen"@de, "Midwives"@en, "verloskundigen / vroedvrouwen"@nl ;
+    skos:prefLabel      "Hebammen"@de ,
+                        "Midwives"@en ,
+                        "Verloskundigen / vroedvrouwen"@nl ,
+                        "Jordemødre"@da ,
+                        "Barnmorskor"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.f.01 ,
                         polmat:n01.3prh.1.f.02 ,
@@ -6834,8 +7095,11 @@ polmat:n01.3prh.1.g a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.g" ;
     skos:altLabel       "3PRH1G"@en;
-    skos:prefLabel      "Heilmittelverkäufer / Quacksalber"@de, "Remedies Seller / Quack"@en,
-    "Remedies verkoper / kwakzalver"@nl ;
+    skos:prefLabel      "Heilmittelverkäufer / Quacksalber"@de ,
+                        "Remedies Seller / Quack"@en ,
+                        "Remedies verkoper / kwakzalver"@nl ,
+                        "Lægemiddelsælgere/kvaksalvere"@da ,
+                        "Kvacksalvare"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.g.01 ,
                         polmat:n01.3prh.1.g.02 ,
@@ -6907,7 +7171,11 @@ polmat:n01.3prh.1.h a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.h" ;
     skos:altLabel       "3PRH1H"@en;
-    skos:prefLabel      "Hygiene / Provisioning"@en, "Hygiene / Vorsorge"@de, "Hygiëne / voorzorg"@nl ;
+    skos:prefLabel      "Hygiene / Provisioning"@en ,
+                        "Hygiene / Vorsorge"@de ,
+                        "Hygiëne / voorzorg"@nl ,
+                        "Hygiejne/omsorg"@da ,
+                        "Hygien/vård"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.h.01 ,
                         polmat:n01.3prh.1.h.02 ,
@@ -6971,7 +7239,11 @@ polmat:n01.3prh.1.i a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.i" ;
     skos:altLabel       "3PRH1I"@en;
-    skos:prefLabel      "Kranke / Krankheiten"@de, "Sick / Diseases"@en, "Zieke / Ziekten"@nl ;
+    skos:prefLabel      "Kranke / Krankheiten"@de ,
+                        "Sick / Diseases"@en ,
+                        "Zieke / Ziekten"@nl ,
+                        "Syge/sygdom"@da ,
+                        "Sjuka/sjukdomar"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.i.01 ,
                         polmat:n01.3prh.1.i.02 ,
@@ -7043,7 +7315,11 @@ polmat:n01.3prh.1.j a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.1.j" ;
     skos:altLabel       "3PRH1J"@en;
-    skos:prefLabel      "Seuchen"@de, "Epidemics"@en, "epidemieën"@nl ;
+    skos:prefLabel      "Seuchen"@de ,
+                        "Epidemics"@en ,
+                        "Epidemieën"@nl ,
+                        "Epidemier"@da ,
+                        "Epidemier"@sv ;
     skos:broader        polmat:n01.3prh.1 ;
     skos:narrower       polmat:n01.3prh.1.j.01 ,
                         polmat:n01.3prh.1.j.02 ,
@@ -7239,7 +7515,9 @@ polmat:n01.3prh.2 a skos:Concept ;
     skos:altLabel       "3PRH2"@en;
     skos:prefLabel      "3.2 Poor Relief"@en ,
                         "3.2 SocialeZorg"@nl ,
-                        "3.2 Sozialwesen"@de ;
+                        "3.2 Sozialwesen"@de ,
+                        "3.2 "@da ,
+                        "3.2 "@sv ;
     skos:broader        polmat:n01.3prh ;
     skos:narrower       polmat:n01.3prh.2.a ,
                         polmat:n01.3prh.2.b ,
@@ -7251,7 +7529,11 @@ polmat:n01.3prh.2.a a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.3prh.2.a" ;
     skos:altLabel       "3PRH2A"@en;
-    skos:prefLabel      "Armenwesen"@de, "Armenzorg"@nl, "Poor Relief"@en ;
+    skos:prefLabel      "Armenwesen"@de ,
+                        "Armenzorg"@nl ,
+                        "Poor Relief"@en ,
+                        ""@da ,
+                        ""@sv ;
     skos:broader        polmat:n01.3prh.2 ;
     skos:narrower       polmat:n01.3prh.2.a.01 ,
                         polmat:n01.3prh.2.a.02 ,
