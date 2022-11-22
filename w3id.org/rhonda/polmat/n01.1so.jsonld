@@ -57,7 +57,9 @@
       "prefLabel": {
         "en": "1.4 Abundance and Luxury",
         "de": "1.4 Aufwand und Luxus",
-        "nl": "1.4 Overdaad en Luxe"
+        "nl": "1.4 Overdaad en Luxe",
+        "da": "1.4 Forbrug og luksus",
+        "sv": "1.4 Lyx"
       }
     },
     {
@@ -65,7 +67,9 @@
       "prefLabel": {
         "en": "1.5 Morality, Marriage and Family, Sexuality",
         "de": "1.5 Sittlichkeit, Ehe- und Familie, Sexualität",
-        "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit"
+        "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit",
+        "da": "1.5 Sædelighed; ægteskab- og familie",
+        "sv": "1.5 Sedlighet; Äktenskap och familj; Sexualitet"
       }
     },
     {
@@ -73,7 +77,9 @@
       "prefLabel": {
         "en": "1.6 Guardianship",
         "de": "1.6 Vormundschaftswesen",
-        "nl": "1.6 Voogdij"
+        "nl": "1.6 Voogdij",
+        "da": "1.6 Formynderskabsvæsen",
+        "sv": "1.6 Förmyndarskapsväsen"
       }
     },
     {
@@ -81,7 +87,9 @@
       "prefLabel": {
         "en": "1.7 Succession",
         "de": "1.7 Erbschaftswesen",
-        "nl": "1.7 Erfenis"
+        "nl": "1.7 Erfenis",
+        "da": "1.7 Arvevæsen",
+        "sv": "1.7 Arv"
       }
     }
   ],

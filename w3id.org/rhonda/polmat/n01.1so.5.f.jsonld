@@ -4,9 +4,11 @@
   "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.1so.5.f",
   "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.1so.5.f",
   "prefLabel": {
-    "en": "Brothels",
+    "en": "Brothel",
     "de": "Frauenhaus",
-    "nl": "Bordelen"
+    "nl": "Bordelen",
+    "da": "TODO: Translate 'Brothel' to Danish",
+    "sv": "TODO: Translate 'Brothel' to Swedish"
   },
   "altLabel": {
     "en": [
@@ -55,7 +57,9 @@
     "prefLabel": {
       "en": "1.5 Morality, Marriage and Family, Sexuality",
       "de": "1.5 Sittlichkeit, Ehe- und Familie, Sexualität",
-      "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit"
+      "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit",
+      "da": "1.5 Sædelighed; ægteskab- og familie",
+      "sv": "1.5 Sedlighet; Äktenskap och familj; Sexualitet"
     }
   },
   "inScheme": {

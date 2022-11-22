@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Obligation to Report",
       "de": "Anzeigepflicht",
-      "nl": "Meldplicht"
+      "nl": "Meldplicht",
+      "da": "Anmeldelsespligt",
+      "sv": "Anmälningsplikt"
     }
   },
   "inScheme": {

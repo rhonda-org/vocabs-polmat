@@ -6,11 +6,19 @@
   "prefLabel": {
     "en": "1.6 Guardianship",
     "de": "1.6 Vormundschaftswesen",
-    "nl": "1.6 Voogdij"
+    "nl": "1.6 Voogdij",
+    "da": "1.6 Formynderskabsvæsen",
+    "sv": "1.6 Förmyndarskapsväsen"
   },
   "altLabel": {
     "en": [
       "1SO6"
+    ],
+    "da": [
+      "1.6 Formynderskab"
+    ],
+    "sv": [
+      "1.6 Förmyndarskap"
     ]
   },
   "notation": [
@@ -22,7 +30,9 @@
       "prefLabel": {
         "en": "Guardianship",
         "de": "Vormundschaftswesen",
-        "nl": "Voogdij"
+        "nl": "Voogdij",
+        "da": "Formynderskabsvæsen",
+        "sv": "Förmyndarskapsväsen"
       }
     }
   ],

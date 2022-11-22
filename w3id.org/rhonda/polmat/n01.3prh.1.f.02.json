@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Midwives",
       "de": "Hebammen",
-      "nl": "verloskundigen / vroedvrouwen"
+      "nl": "Verloskundigen / vroedvrouwen",
+      "da": "Jordemødre",
+      "sv": "Barnmorskor"
     }
   },
   "inScheme": {

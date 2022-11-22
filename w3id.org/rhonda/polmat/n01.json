@@ -32,7 +32,9 @@
       "prefLabel": {
         "en": "2 Public Order and Safety",
         "de": "2 Öffentliche Sicherheit und Ordnung",
-        "nl": "2 Publieke veiligheid en orde"
+        "nl": "2 Publieke veiligheid en orde",
+        "da": "2 Offentlig sikkerhed og orden",
+        "sv": "2 Offentlig säkerhet och ordning"
       }
     },
     {
@@ -40,7 +42,9 @@
       "prefLabel": {
         "en": "3 Social Services. Healthcare. Education. Culture",
         "de": "3 Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur",
-        "nl": "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur"
+        "nl": "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur",
+        "da": "3 Socialpolitik. Opdragelsesvæsen. Kultur",
+        "sv": "3 Socialväsen. Hälsovårdsväsen. Utbildningsväsen. Kultur"
       }
     },
     {

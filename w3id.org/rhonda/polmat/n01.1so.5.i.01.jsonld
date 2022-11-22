@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Concubinage",
       "de": "Konkubinat",
-      "nl": "Concubinaat"
+      "nl": "Concubinaat",
+      "da": "TODO: Translate 'Concubinage' to Danish",
+      "sv": "TODO: Translate 'Concubinage' to Swedish"
     }
   },
   "inScheme": {

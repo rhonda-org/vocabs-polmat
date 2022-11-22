@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Military Service",
       "de": "Kriegslauf/Kriegsdienst",
-      "nl": "Militaire dienst"
+      "nl": "Militaire dienst",
+      "da": "TODO: Translate 'Military Service' to Danish",
+      "sv": "TODO: Translate 'Military Service' to Swedish"
     }
   },
   "inScheme": {

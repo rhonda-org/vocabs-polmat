@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Public Security",
     "de": "Sicherung Stadt / Land",
-    "nl": "De openbare veiligheid"
+    "nl": "De openbare veiligheid",
+    "da": "Sikring by/land",
+    "sv": "Säkerhet stad/land"
   },
   "altLabel": {
     "en": [
@@ -135,7 +137,9 @@
     "prefLabel": {
       "en": "2.2 Public Safety and Criminality",
       "de": "2.2 Öffentliche Sicherheit, Kriminalität",
-      "nl": "2.2 Publieke veiligheid en criminaliteit"
+      "nl": "2.2 Publieke veiligheid en criminaliteit",
+      "da": "2.2 Offentlig sikkerhed; kriminalitet",
+      "sv": "2.2 Offentlig säkerhet; Kriminalitet"
     }
   },
   "inScheme": {

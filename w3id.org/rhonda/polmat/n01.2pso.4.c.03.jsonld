@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Supervisory Duty",
       "de": "Aufsichtspflicht",
-      "nl": "Toezichtsplicht"
+      "nl": "Toezichtsplicht",
+      "da": "Opsynspligt",
+      "sv": "TODO: Translate 'Supervisory Duty' to Swedish"
     }
   },
   "inScheme": {

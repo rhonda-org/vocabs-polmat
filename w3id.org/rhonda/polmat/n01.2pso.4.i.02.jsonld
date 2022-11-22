@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Execution of Punishment",
       "de": "Strafvollstreckung",
-      "nl": "Strafvoltrekking"
+      "nl": "Strafvoltrekking",
+      "da": "Straffuldbyrdelse",
+      "sv": "Straffexekution"
     }
   },
   "inScheme": {

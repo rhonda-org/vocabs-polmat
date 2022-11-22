@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Bigamy",
     "de": "Bigamie/Doppelehen",
-    "nl": "Bigamie"
+    "nl": "Bigamie",
+    "da": "Bigami/dobbeltægteskab",
+    "sv": "TODO: Translate 'Bigamy' to Swedish"
   },
   "altLabel": {
     "en": [
@@ -21,7 +23,9 @@
     "prefLabel": {
       "en": "1.5 Morality, Marriage and Family, Sexuality",
       "de": "1.5 Sittlichkeit, Ehe- und Familie, Sexualität",
-      "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit"
+      "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit",
+      "da": "1.5 Sædelighed; ægteskab- og familie",
+      "sv": "1.5 Sedlighet; Äktenskap och familj; Sexualitet"
     }
   },
   "inScheme": {

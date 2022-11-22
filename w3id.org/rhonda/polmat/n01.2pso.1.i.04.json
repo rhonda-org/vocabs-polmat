@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Parades",
       "de": "Umzüge/Feste",
-      "nl": "parades"
+      "nl": "Parades",
+      "da": "Optog/fester",
+      "sv": "Fester"
     }
   },
   "inScheme": {

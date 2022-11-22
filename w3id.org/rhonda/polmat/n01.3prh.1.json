@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "3.1 Healthcare",
     "de": "3.1 Gesundheitswesen",
-    "nl": "3.1 gezondheidszorg"
+    "nl": "3.1 Gezondheidszorg",
+    "da": "3.1 Sundhedsvæsen",
+    "sv": "3.1 Hälsovårdsväsen"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Chemists / Pharmacist",
         "de": "Apotheker",
-        "nl": "apotheker"
+        "nl": "Apotheker",
+        "da": "Apotekere",
+        "sv": "Apotekare"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "Physicians",
         "de": "Ärzte",
-        "nl": "artsen"
+        "nl": "Artsen",
+        "da": "Læger",
+        "sv": "Läkare"
       }
     },
     {
@@ -38,7 +44,9 @@
       "prefLabel": {
         "en": "Bader / Barbers / Surgeons",
         "de": "Bader / Barbiere / Wundärzte",
-        "nl": "Bader / kappers / chirurgen"
+        "nl": "Bader / kappers / chirurgen",
+        "da": "Bartskærer/barberer/sårlæger",
+        "sv": "Badare/barberare/fältskärer"
       }
     },
     {
@@ -46,7 +54,9 @@
       "prefLabel": {
         "en": "Baths",
         "de": "Badewesen",
-        "nl": "Baden"
+        "nl": "Baden",
+        "da": "TODO: Translate 'Baths' to Danish",
+        "sv": "TODO: Translate 'Baths' to Swedish"
       }
     },
     {
@@ -54,7 +64,9 @@
       "prefLabel": {
         "en": "Funeral / Corpse Treatment",
         "de": "Bestattungswesen / Leichenbehandlung",
-        "nl": "Begrafenis / lijk behandeling"
+        "nl": "Begrafenis / lijk behandeling",
+        "da": "Begravelsesvæsen/ligbehandling",
+        "sv": "Begravningsväsen/likbehandling"
       }
     },
     {
@@ -62,7 +74,9 @@
       "prefLabel": {
         "en": "Midwives",
         "de": "Hebammen",
-        "nl": "verloskundigen / vroedvrouwen"
+        "nl": "Verloskundigen / vroedvrouwen",
+        "da": "Jordemødre",
+        "sv": "Barnmorskor"
       }
     },
     {
@@ -70,7 +84,9 @@
       "prefLabel": {
         "en": "Remedies Seller / Quack",
         "de": "Heilmittelverkäufer / Quacksalber",
-        "nl": "Remedies verkoper / kwakzalver"
+        "nl": "Remedies verkoper / kwakzalver",
+        "da": "Lægemiddelsælgere/kvaksalvere",
+        "sv": "Kvacksalvare"
       }
     },
     {
@@ -78,7 +94,9 @@
       "prefLabel": {
         "en": "Hygiene / Provisioning",
         "de": "Hygiene / Vorsorge",
-        "nl": "Hygiëne / voorzorg"
+        "nl": "Hygiëne / voorzorg",
+        "da": "Hygiejne/omsorg",
+        "sv": "Hygien/vård"
       }
     },
     {
@@ -86,7 +104,9 @@
       "prefLabel": {
         "en": "Sick / Diseases",
         "de": "Kranke / Krankheiten",
-        "nl": "Zieke / Ziekten"
+        "nl": "Zieke / Ziekten",
+        "da": "Syge/sygdom",
+        "sv": "Sjuka/sjukdomar"
       }
     },
     {
@@ -94,7 +114,9 @@
       "prefLabel": {
         "en": "Epidemics",
         "de": "Seuchen",
-        "nl": "epidemieën"
+        "nl": "Epidemieën",
+        "da": "Epidemier",
+        "sv": "Epidemier"
       }
     }
   ],
@@ -103,7 +125,9 @@
     "prefLabel": {
       "en": "3 Social Services. Healthcare. Education. Culture",
       "de": "3 Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur",
-      "nl": "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur"
+      "nl": "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur",
+      "da": "3 Socialpolitik. Opdragelsesvæsen. Kultur",
+      "sv": "3 Socialväsen. Hälsovårdsväsen. Utbildningsväsen. Kultur"
     }
   },
   "inScheme": {

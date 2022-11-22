@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Conspicuous Consumption",
       "de": "Aufwand / Luxus",
-      "nl": "Overdadige Consumptie"
+      "nl": "Overdadige Consumptie",
+      "da": "Forbrug",
+      "sv": "Lyx"
     }
   },
   "inScheme": {

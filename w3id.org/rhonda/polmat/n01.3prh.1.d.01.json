@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Baths",
       "de": "Badewesen",
-      "nl": "Baden"
+      "nl": "Baden",
+      "da": "TODO: Translate 'Baths' to Danish",
+      "sv": "TODO: Translate 'Baths' to Swedish"
     }
   },
   "inScheme": {

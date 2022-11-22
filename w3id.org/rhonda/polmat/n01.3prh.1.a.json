@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Chemists / Pharmacist",
     "de": "Apotheker",
-    "nl": "apotheker"
+    "nl": "Apotheker",
+    "da": "Apotekere",
+    "sv": "Apotekare"
   },
   "altLabel": {
     "en": [
@@ -143,7 +145,9 @@
     "prefLabel": {
       "en": "3.1 Healthcare",
       "de": "3.1 Gesundheitswesen",
-      "nl": "3.1 gezondheidszorg"
+      "nl": "3.1 Gezondheidszorg",
+      "da": "3.1 Sundhedsvæsen",
+      "sv": "3.1 Hälsovårdsväsen"
     }
   },
   "inScheme": {

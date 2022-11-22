@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Witchcraft",
       "de": "Hexerei/Zauberei",
-      "nl": "Hekserij"
+      "nl": "Hekserij",
+      "da": "Hekseri/troldom",
+      "sv": "Häx- & trollkonster"
     }
   },
   "inScheme": {

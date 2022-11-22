@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Furnishing",
       "de": "Möblierung",
-      "nl": "Meubilering"
+      "nl": "Meubilering",
+      "da": "Møblering",
+      "sv": "Möbler"
     }
   },
   "inScheme": {

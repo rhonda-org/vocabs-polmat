@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Baths",
     "de": "Badewesen",
-    "nl": "Baden"
+    "nl": "Baden",
+    "da": "TODO: Translate 'Baths' to Danish",
+    "sv": "TODO: Translate 'Baths' to Swedish"
   },
   "altLabel": {
     "en": [
@@ -63,7 +65,9 @@
     "prefLabel": {
       "en": "3.1 Healthcare",
       "de": "3.1 Gesundheitswesen",
-      "nl": "3.1 gezondheidszorg"
+      "nl": "3.1 Gezondheidszorg",
+      "da": "3.1 Sundhedsvæsen",
+      "sv": "3.1 Hälsovårdsväsen"
     }
   },
   "inScheme": {

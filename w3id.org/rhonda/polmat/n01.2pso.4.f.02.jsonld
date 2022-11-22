@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Enforcement of Civil Judgement",
       "de": "Forderungsvollstreckung",
-      "nl": "vorderingen handhaving"
+      "nl": "vorderingen handhaving",
+      "da": "Eksekutionsforretning",
+      "sv": "Skuldexekution"
     }
   },
   "inScheme": {

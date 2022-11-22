@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Clothing",
       "de": "Kleidung",
-      "nl": "Kleding"
+      "nl": "Kleding",
+      "da": "Klædedragt",
+      "sv": "Beklädnad"
     }
   },
   "inScheme": {

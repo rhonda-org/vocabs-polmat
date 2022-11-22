@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Protection of Property",
       "de": "Eigentumsschutz",
-      "nl": "Eigendomsbescherming"
+      "nl": "Eigendomsbescherming",
+      "da": "Ejendomsbeskyttelse",
+      "sv": "Egendomsskydd"
     }
   },
   "inScheme": {

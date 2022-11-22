@@ -19,9 +19,11 @@
   "broader": {
     "id": "https://w3id.org/rhonda/polmat/n01.1so.5.f",
     "prefLabel": {
-      "en": "Brothels",
+      "en": "Brothel",
       "de": "Frauenhaus",
-      "nl": "Bordelen"
+      "nl": "Bordelen",
+      "da": "TODO: Translate 'Brothel' to Danish",
+      "sv": "TODO: Translate 'Brothel' to Swedish"
     }
   },
   "inScheme": {

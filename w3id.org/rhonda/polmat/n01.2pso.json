@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "2 Public Order and Safety",
     "de": "2 Öffentliche Sicherheit und Ordnung",
-    "nl": "2 Publieke veiligheid en orde"
+    "nl": "2 Publieke veiligheid en orde",
+    "da": "2 Offentlig sikkerhed og orden",
+    "sv": "2 Offentlig säkerhet och ordning"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "2.1 Amusement",
         "de": "2.1 Vergnügungen & Öffentliche Leichtfertigkeit",
-        "nl": "2.1 Amusement"
+        "nl": "2.1 Amusement",
+        "da": "2.1 Forlystelser; offentlig letsindighed",
+        "sv": "2.1 Nöjen; offentlig lättfärdighet"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "2.2 Public Safety and Criminality",
         "de": "2.2 Öffentliche Sicherheit, Kriminalität",
-        "nl": "2.2 Publieke veiligheid en criminaliteit"
+        "nl": "2.2 Publieke veiligheid en criminaliteit",
+        "da": "2.2 Offentlig sikkerhed; kriminalitet",
+        "sv": "2.2 Offentlig säkerhet; Kriminalitet"
       }
     },
     {
@@ -38,7 +44,9 @@
       "prefLabel": {
         "en": "2.3 Censorship",
         "de": "2.3 Zensur und Buchdruck",
-        "nl": "2.3 Censuur"
+        "nl": "2.3 Censuur",
+        "da": "2.3 Censur og bogtryk (-handel)",
+        "sv": "2.3 Censur och boktryckeri"
       }
     },
     {
@@ -46,7 +54,9 @@
       "prefLabel": {
         "en": "2.4 Administration and Justice",
         "de": "2.4 Policey der Verwaltung und Justiz",
-        "nl": "2.4 Administration en justitie"
+        "nl": "2.4 Administration en justitie",
+        "da": "2.4 Forvaltningspoliti og justits",
+        "sv": "2.4 Förvaltningspoliti och justitiepoliti"
       }
     }
   ],

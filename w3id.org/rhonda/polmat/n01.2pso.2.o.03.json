@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Carrying Arms",
       "de": "Waffenführung",
-      "nl": "Wapenvoering"
+      "nl": "Wapenvoering",
+      "da": "Våbenføring",
+      "sv": "Beväpning"
     }
   },
   "inScheme": {

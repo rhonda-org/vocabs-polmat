@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Gambling",
       "de": "Glücksspiel",
-      "nl": "Gokspelen"
+      "nl": "Gokspelen",
+      "da": "Hasardspil",
+      "sv": "Spel/turspel"
     }
   },
   "inScheme": {

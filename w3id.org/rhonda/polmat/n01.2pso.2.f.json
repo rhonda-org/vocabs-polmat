@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Societies",
     "de": "Gesellschaften/Vereine",
-    "nl": "Gezelschap/ Vereniging"
+    "nl": "Gezelschap/ Vereniging",
+    "da": "Samfund/foreninger",
+    "sv": "TODO: Translate 'Societies' to Swedish"
   },
   "altLabel": {
     "en": [
@@ -63,7 +65,9 @@
     "prefLabel": {
       "en": "2.2 Public Safety and Criminality",
       "de": "2.2 Öffentliche Sicherheit, Kriminalität",
-      "nl": "2.2 Publieke veiligheid en criminaliteit"
+      "nl": "2.2 Publieke veiligheid en criminaliteit",
+      "da": "2.2 Offentlig sikkerhed; kriminalitet",
+      "sv": "2.2 Offentlig säkerhet; Kriminalitet"
     }
   },
   "inScheme": {

@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Idleness",
       "de": "Müßiggang/Verschwendung",
-      "nl": "luiheid"
+      "nl": "luiheid",
+      "da": "Lediggang/øselhed",
+      "sv": "Lättja/slöseri"
     }
   },
   "inScheme": {

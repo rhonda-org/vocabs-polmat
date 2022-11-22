@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Physicians",
       "de": "Ärzte",
-      "nl": "artsen"
+      "nl": "Artsen",
+      "da": "Læger",
+      "sv": "Läkare"
     }
   },
   "inScheme": {

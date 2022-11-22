@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "2.2 Public Safety and Criminality",
     "de": "2.2 Öffentliche Sicherheit, Kriminalität",
-    "nl": "2.2 Publieke veiligheid en criminaliteit"
+    "nl": "2.2 Publieke veiligheid en criminaliteit",
+    "da": "2.2 Offentlig sikkerhed; kriminalitet",
+    "sv": "2.2 Offentlig säkerhet; Kriminalitet"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Defecation",
         "de": "Austreten",
-        "nl": "Ontlasting"
+        "nl": "Ontlasting",
+        "da": "Udtræden",
+        "sv": "TODO: Translate 'Defecation' to Swedish"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "Duels",
         "de": "Duell",
-        "nl": "duels"
+        "nl": "duels",
+        "da": "Duel",
+        "sv": "Dueller"
       }
     },
     {
@@ -38,7 +44,9 @@
       "prefLabel": {
         "en": "Slander",
         "de": "Ehrverletzung",
-        "nl": "Laster"
+        "nl": "Laster",
+        "da": "Æreskrænkelse",
+        "sv": "Ärekränkning"
       }
     },
     {
@@ -46,7 +54,9 @@
       "prefLabel": {
         "en": "Protection of Property",
         "de": "Eigentumsschutz",
-        "nl": "Eigendomsbescherming"
+        "nl": "Eigendomsbescherming",
+        "da": "Ejendomsbeskyttelse",
+        "sv": "Egendomsskydd"
       }
     },
     {
@@ -54,7 +64,9 @@
       "prefLabel": {
         "en": "Unemployed Landsknechte",
         "de": "Gartknechte",
-        "nl": "Werkloze landsknechte"
+        "nl": "Werkloze landsknechte",
+        "da": "TODO: Translate 'Unemployed Landsknechte' to Danish",
+        "sv": "TODO: Translate 'Unemployed Landsknechte' to Swedish"
       }
     },
     {
@@ -62,7 +74,9 @@
       "prefLabel": {
         "en": "Societies",
         "de": "Gesellschaften/Vereine",
-        "nl": "Gezelschap/ Vereniging"
+        "nl": "Gezelschap/ Vereniging",
+        "da": "Samfund/foreninger",
+        "sv": "TODO: Translate 'Societies' to Swedish"
       }
     },
     {
@@ -70,7 +84,9 @@
       "prefLabel": {
         "en": "Violent Crime",
         "de": "Gewalttaten",
-        "nl": "Geweldsmisdrijven"
+        "nl": "Geweldsmisdrijven",
+        "da": "Voldshandlinger",
+        "sv": "Våldsdåd"
       }
     },
     {
@@ -78,7 +94,9 @@
       "prefLabel": {
         "en": "Witchcraft",
         "de": "Hexerei/Zauberei",
-        "nl": "Hekserij"
+        "nl": "Hekserij",
+        "da": "Hekseri/troldom",
+        "sv": "Häx- & trollkonster"
       }
     },
     {
@@ -86,15 +104,19 @@
       "prefLabel": {
         "en": "Military Service",
         "de": "Kriegslauf/Kriegsdienst",
-        "nl": "Militaire dienst"
+        "nl": "Militaire dienst",
+        "da": "TODO: Translate 'Military Service' to Danish",
+        "sv": "TODO: Translate 'Military Service' to Swedish"
       }
     },
     {
       "id": "https://w3id.org/rhonda/polmat/n01.2pso.2.j",
       "prefLabel": {
-        "en": "Distrubance of Peace",
+        "en": "Disturbance of Peace",
         "de": "Landfriedensbruch / Stadtfriede",
-        "nl": "Verstoren van de landsrust / stadsrust"
+        "nl": "Verstoren van de landsrust / stadsrust",
+        "da": "Brud på landefreden/fejde/byfred ",
+        "sv": "TODO: Translate 'Disturbance of Peace' to Swedish"
       }
     },
     {
@@ -102,7 +124,9 @@
       "prefLabel": {
         "en": "Soldiers",
         "de": "Militär/Soldaten",
-        "nl": "soldaten"
+        "nl": "soldaten",
+        "da": "Militær/soldater",
+        "sv": "Militärer/soldater"
       }
     },
     {
@@ -110,7 +134,9 @@
       "prefLabel": {
         "en": "Public Security",
         "de": "Sicherung Stadt / Land",
-        "nl": "De openbare veiligheid"
+        "nl": "De openbare veiligheid",
+        "da": "Sikring by/land",
+        "sv": "Säkerhet stad/land"
       }
     },
     {
@@ -118,7 +144,9 @@
       "prefLabel": {
         "en": "Riots",
         "de": "Unruhen",
-        "nl": "Onrust"
+        "nl": "Onrust",
+        "da": "Uroligheder",
+        "sv": "TODO: Translate 'Riots' to Swedish"
       }
     },
     {
@@ -126,7 +154,9 @@
       "prefLabel": {
         "en": "Public Meetings",
         "de": "Versammlungen",
-        "nl": "Bijeenkomsten"
+        "nl": "Bijeenkomsten",
+        "da": "Forsamlinger",
+        "sv": "TODO: Translate 'Public Meetings' to Swedish"
       }
     },
     {
@@ -134,7 +164,9 @@
       "prefLabel": {
         "en": "Carrying Arms",
         "de": "Waffenführung",
-        "nl": "Wapenvoering"
+        "nl": "Wapenvoering",
+        "da": "Våbenføring",
+        "sv": "Beväpning"
       }
     }
   ],
@@ -143,7 +175,9 @@
     "prefLabel": {
       "en": "2 Public Order and Safety",
       "de": "2 Öffentliche Sicherheit und Ordnung",
-      "nl": "2 Publieke veiligheid en orde"
+      "nl": "2 Publieke veiligheid en orde",
+      "da": "2 Offentlig sikkerhed og orden",
+      "sv": "2 Offentlig säkerhet och ordning"
     }
   },
   "inScheme": {

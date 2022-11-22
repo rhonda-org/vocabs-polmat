@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Guardianship",
       "de": "Vormundschaftswesen",
-      "nl": "Voogdij"
+      "nl": "Voogdij",
+      "da": "Formynderskabsvæsen",
+      "sv": "Förmyndarskapsväsen"
     }
   },
   "inScheme": {

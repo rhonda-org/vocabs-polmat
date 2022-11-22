@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Hygiene / Provisioning",
       "de": "Hygiene / Vorsorge",
-      "nl": "Hygiëne / voorzorg"
+      "nl": "Hygiëne / voorzorg",
+      "da": "Hygiejne/omsorg",
+      "sv": "Hygien/vård"
     }
   },
   "inScheme": {

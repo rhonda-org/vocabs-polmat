@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "1.7 Succession",
     "de": "1.7 Erbschaftswesen",
-    "nl": "1.7 Erfenis"
+    "nl": "1.7 Erfenis",
+    "da": "1.7 Arvevæsen",
+    "sv": "1.7 Arv"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Succession",
         "de": "Erbschaftswesen",
-        "nl": "Erfenis"
+        "nl": "Erfenis",
+        "da": "Arvevæsen",
+        "sv": "Arv"
       }
     }
   ],

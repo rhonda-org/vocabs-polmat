@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Prostitution",
       "de": "Prostitution/Kuppelei",
-      "nl": "Prostitutie"
+      "nl": "Prostitutie",
+      "da": "Prostitution/rufferi",
+      "sv": "TODO: Translate 'Prostitution' to Swedish"
     }
   },
   "inScheme": {

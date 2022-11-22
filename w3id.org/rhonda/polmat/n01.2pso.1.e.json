@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Public Plays",
     "de": "Schauspiel",
-    "nl": "Schouwspel"
+    "nl": "Schouwspel",
+    "da": "Skuespil",
+    "sv": "Teater"
   },
   "altLabel": {
     "en": [
@@ -47,7 +49,9 @@
     "prefLabel": {
       "en": "2.1 Amusement",
       "de": "2.1 Vergnügungen & Öffentliche Leichtfertigkeit",
-      "nl": "2.1 Amusement"
+      "nl": "2.1 Amusement",
+      "da": "2.1 Forlystelser; offentlig letsindighed",
+      "sv": "2.1 Nöjen; offentlig lättfärdighet"
     }
   },
   "inScheme": {

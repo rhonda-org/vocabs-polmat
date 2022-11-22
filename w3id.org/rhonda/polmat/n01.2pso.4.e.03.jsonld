@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Public Announcements",
       "de": "Bekanntmachungswesen",
-      "nl": "Bekendmakingen"
+      "nl": "Bekendmakingen",
+      "da": "Bekendtgørelsesvæsen",
+      "sv": "Kungörande"
     }
   },
   "inScheme": {

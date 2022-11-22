@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Unemployed Landsknechte",
     "de": "Gartknechte",
-    "nl": "Werkloze landsknechte"
+    "nl": "Werkloze landsknechte",
+    "da": "TODO: Translate 'Unemployed Landsknechte' to Danish",
+    "sv": "TODO: Translate 'Unemployed Landsknechte' to Swedish"
   },
   "altLabel": {
     "en": [
@@ -127,7 +129,9 @@
     "prefLabel": {
       "en": "2.2 Public Safety and Criminality",
       "de": "2.2 Öffentliche Sicherheit, Kriminalität",
-      "nl": "2.2 Publieke veiligheid en criminaliteit"
+      "nl": "2.2 Publieke veiligheid en criminaliteit",
+      "da": "2.2 Offentlig sikkerhed; kriminalitet",
+      "sv": "2.2 Offentlig säkerhet; Kriminalitet"
     }
   },
   "inScheme": {

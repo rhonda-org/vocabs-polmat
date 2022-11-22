@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Public Meetings",
       "de": "Versammlungen",
-      "nl": "Bijeenkomsten"
+      "nl": "Bijeenkomsten",
+      "da": "Forsamlinger",
+      "sv": "TODO: Translate 'Public Meetings' to Swedish"
     }
   },
   "inScheme": {

@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Sick / Diseases",
       "de": "Kranke / Krankheiten",
-      "nl": "Zieke / Ziekten"
+      "nl": "Zieke / Ziekten",
+      "da": "Syge/sygdom",
+      "sv": "Sjuka/sjukdomar"
     }
   },
   "inScheme": {

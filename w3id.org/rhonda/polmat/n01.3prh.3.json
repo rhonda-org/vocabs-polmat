@@ -79,7 +79,9 @@
     "prefLabel": {
       "en": "3 Social Services. Healthcare. Education. Culture",
       "de": "3 Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur",
-      "nl": "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur"
+      "nl": "3 Sociale diensten. gezondheidszorg. Onderwijs. cultuur",
+      "da": "3 Socialpolitik. Opdragelsesvæsen. Kultur",
+      "sv": "3 Socialväsen. Hälsovårdsväsen. Utbildningsväsen. Kultur"
     }
   },
   "inScheme": {

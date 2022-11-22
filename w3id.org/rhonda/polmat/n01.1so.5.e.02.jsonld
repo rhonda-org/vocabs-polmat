@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Family / Marriage Order",
       "de": "Familie / Eheführung",
-      "nl": "Familie / Huwelijksorde"
+      "nl": "Familie / Huwelijksorde",
+      "da": "Familie/ægteskabsførelse",
+      "sv": "Familj/äktenskapsliv"
     }
   },
   "inScheme": {

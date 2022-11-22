@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Riots",
       "de": "Unruhen",
-      "nl": "Onrust"
+      "nl": "Onrust",
+      "da": "Uroligheder",
+      "sv": "TODO: Translate 'Riots' to Swedish"
     }
   },
   "inScheme": {

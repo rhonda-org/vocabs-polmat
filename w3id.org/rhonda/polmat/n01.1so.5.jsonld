@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "1.5 Morality, Marriage and Family, Sexuality",
     "de": "1.5 Sittlichkeit, Ehe- und Familie, Sexualität",
-    "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit"
+    "nl": "1.5 Moraliteit, Huwelijk en Familie, Sexualiteit",
+    "da": "1.5 Sædelighed; ægteskab- og familie",
+    "sv": "1.5 Sedlighet; Äktenskap och familj; Sexualitet"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Bigamy",
         "de": "Bigamie/Doppelehen",
-        "nl": "Bigamie"
+        "nl": "Bigamie",
+        "da": "Bigami/dobbeltægteskab",
+        "sv": "TODO: Translate 'Bigamy' to Swedish"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "Adultery",
         "de": "Ehebruch, Öffentlich",
-        "nl": "Overspel"
+        "nl": "Overspel",
+        "da": "Ægteskabsbrud",
+        "sv": "TODO: Translate 'Adultery' to Swedish"
       }
     },
     {
@@ -38,7 +44,9 @@
       "prefLabel": {
         "en": "Divorce",
         "de": "Ehescheidung",
-        "nl": "Scheiden"
+        "nl": "Scheiden",
+        "da": "Skilsmisse",
+        "sv": "TODO: Translate 'Divorce' to Swedish"
       }
     },
     {
@@ -46,7 +54,9 @@
       "prefLabel": {
         "en": "Marriage",
         "de": "Eheschließung",
-        "nl": "Huwelijk"
+        "nl": "Huwelijk",
+        "da": "Ægteskabsindgåelse",
+        "sv": "Giftermål"
       }
     },
     {
@@ -54,15 +64,19 @@
       "prefLabel": {
         "en": "Family / Marriage Order",
         "de": "Familie / Eheführung",
-        "nl": "Familie / Huwelijksorde"
+        "nl": "Familie / Huwelijksorde",
+        "da": "Familie/ægteskabsførelse",
+        "sv": "Familj/äktenskapsliv"
       }
     },
     {
       "id": "https://w3id.org/rhonda/polmat/n01.1so.5.f",
       "prefLabel": {
-        "en": "Brothels",
+        "en": "Brothel",
         "de": "Frauenhaus",
-        "nl": "Bordelen"
+        "nl": "Bordelen",
+        "da": "TODO: Translate 'Brothel' to Danish",
+        "sv": "TODO: Translate 'Brothel' to Swedish"
       }
     },
     {
@@ -70,7 +84,9 @@
       "prefLabel": {
         "en": "Homosexuality / Sodomy",
         "de": "Homosexualität / Sodomie",
-        "nl": "Homosexualiteit / sodomie"
+        "nl": "Homosexualiteit / sodomie",
+        "da": "TODO: Translate 'Homosexuality/Sodomy' to Danish",
+        "sv": "TODO: Translate 'Homosexuality/Sodomy' to Swedish"
       }
     },
     {
@@ -78,7 +94,9 @@
       "prefLabel": {
         "en": "Incest",
         "de": "Inzest",
-        "nl": "Incest"
+        "nl": "Incest",
+        "da": "Incest",
+        "sv": "TODO: Translate 'Incest' to Swedish"
       }
     },
     {
@@ -86,7 +104,9 @@
       "prefLabel": {
         "en": "Concubinage",
         "de": "Konkubinat",
-        "nl": "Concubinaat"
+        "nl": "Concubinaat",
+        "da": "TODO: Translate 'Concubinage' to Danish",
+        "sv": "TODO: Translate 'Concubinage' to Swedish"
       }
     },
     {
@@ -94,7 +114,9 @@
       "prefLabel": {
         "en": "Prostitution",
         "de": "Prostitution/Kuppelei",
-        "nl": "Prostitutie"
+        "nl": "Prostitutie",
+        "da": "Prostitution/rufferi",
+        "sv": "TODO: Translate 'Prostitution' to Swedish"
       }
     },
     {
@@ -102,7 +124,9 @@
       "prefLabel": {
         "en": "Extramarital Pregnancy / Children",
         "de": "Uneheliche Schwangerschaft / Kinder",
-        "nl": "Buitenechtelijke zwangerschap / kindern"
+        "nl": "Buitenechtelijke zwangerschap / kindern",
+        "da": "Svangerskab udenfor ægteskab/børn",
+        "sv": "Utomäktenskaplig graviditet/barn"
       }
     },
     {
@@ -110,7 +134,9 @@
       "prefLabel": {
         "en": "Unchastity",
         "de": "Unzucht",
-        "nl": "Ontucht"
+        "nl": "Ontucht",
+        "da": "Utugt",
+        "sv": "Otukt"
       }
     },
     {
@@ -118,7 +144,9 @@
       "prefLabel": {
         "en": "Betrothal",
         "de": "Verlobung",
-        "nl": "Verloving"
+        "nl": "Verloving",
+        "da": "Forlovelse",
+        "sv": "Förlovning"
       }
     }
   ],

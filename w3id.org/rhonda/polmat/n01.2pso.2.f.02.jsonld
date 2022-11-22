@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Societies",
       "de": "Gesellschaften/Vereine",
-      "nl": "Gezelschap/ Vereniging"
+      "nl": "Gezelschap/ Vereniging",
+      "da": "Samfund/foreninger",
+      "sv": "TODO: Translate 'Societies' to Swedish"
     }
   },
   "inScheme": {

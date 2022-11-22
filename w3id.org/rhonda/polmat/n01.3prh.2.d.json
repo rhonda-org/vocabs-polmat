@@ -79,7 +79,9 @@
     "prefLabel": {
       "en": "3.2 Poor Relief",
       "de": "3.2 Sozialwesen",
-      "nl": "3.2 SocialeZorg"
+      "nl": "3.2 SocialeZorg",
+      "da": "3.2 ",
+      "sv": "3.2 "
     }
   },
   "inScheme": {

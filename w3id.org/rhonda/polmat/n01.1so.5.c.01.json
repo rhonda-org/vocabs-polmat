@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Divorce",
       "de": "Ehescheidung",
-      "nl": "Scheiden"
+      "nl": "Scheiden",
+      "da": "Skilsmisse",
+      "sv": "TODO: Translate 'Divorce' to Swedish"
     }
   },
   "inScheme": {

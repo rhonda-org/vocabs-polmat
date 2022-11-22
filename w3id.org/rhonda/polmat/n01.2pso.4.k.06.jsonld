@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Responsibilities of Courts",
       "de": "Zuständigkeiten Gerichte",
-      "nl": "Verantwoordelijkheden rechtbanken"
+      "nl": "Verantwoordelijkheden rechtbanken",
+      "da": "Retskompetence",
+      "sv": "Jurisdiktion"
     }
   },
   "inScheme": {

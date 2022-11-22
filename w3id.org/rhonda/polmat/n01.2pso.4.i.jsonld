@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Execution of Punishment",
     "de": "Strafvollstreckung",
-    "nl": "Strafvoltrekking"
+    "nl": "Strafvoltrekking",
+    "da": "Straffuldbyrdelse",
+    "sv": "Straffexekution"
   },
   "altLabel": {
     "en": [
@@ -71,7 +73,9 @@
     "prefLabel": {
       "en": "2.4 Administration and Justice",
       "de": "2.4 Policey der Verwaltung und Justiz",
-      "nl": "2.4 Administration en justitie"
+      "nl": "2.4 Administration en justitie",
+      "da": "2.4 Forvaltningspoliti og justits",
+      "sv": "2.4 Förvaltningspoliti och justitiepoliti"
     }
   },
   "inScheme": {

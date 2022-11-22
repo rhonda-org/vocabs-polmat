@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Dancing",
       "de": "Tanzen",
-      "nl": "Dansen"
+      "nl": "Dansen",
+      "da": "Dans",
+      "sv": "Dans"
     }
   },
   "inScheme": {

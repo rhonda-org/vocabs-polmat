@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Soldiers",
     "de": "Militär/Soldaten",
-    "nl": "soldaten"
+    "nl": "soldaten",
+    "da": "Militær/soldater",
+    "sv": "Militärer/soldater"
   },
   "altLabel": {
     "en": [
@@ -111,7 +113,9 @@
     "prefLabel": {
       "en": "2.2 Public Safety and Criminality",
       "de": "2.2 Öffentliche Sicherheit, Kriminalität",
-      "nl": "2.2 Publieke veiligheid en criminaliteit"
+      "nl": "2.2 Publieke veiligheid en criminaliteit",
+      "da": "2.2 Offentlig sikkerhed; kriminalitet",
+      "sv": "2.2 Offentlig säkerhet; Kriminalitet"
     }
   },
   "inScheme": {

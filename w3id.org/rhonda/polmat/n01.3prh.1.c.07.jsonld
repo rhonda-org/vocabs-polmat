@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Bader / Barbers / Surgeons",
       "de": "Bader / Barbiere / Wundärzte",
-      "nl": "Bader / kappers / chirurgen"
+      "nl": "Bader / kappers / chirurgen",
+      "da": "Bartskærer/barberer/sårlæger",
+      "sv": "Badare/barberare/fältskärer"
     }
   },
   "inScheme": {

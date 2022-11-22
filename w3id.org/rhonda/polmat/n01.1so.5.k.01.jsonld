@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Extramarital Pregnancy / Children",
       "de": "Uneheliche Schwangerschaft / Kinder",
-      "nl": "Buitenechtelijke zwangerschap / kindern"
+      "nl": "Buitenechtelijke zwangerschap / kindern",
+      "da": "Svangerskab udenfor ægteskab/børn",
+      "sv": "Utomäktenskaplig graviditet/barn"
     }
   },
   "inScheme": {

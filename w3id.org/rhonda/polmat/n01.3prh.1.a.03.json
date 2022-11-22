@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Chemists / Pharmacist",
       "de": "Apotheker",
-      "nl": "apotheker"
+      "nl": "Apotheker",
+      "da": "Apotekere",
+      "sv": "Apotekare"
     }
   },
   "inScheme": {

@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Chancellery",
       "de": "Kanzleiwesen",
-      "nl": "Kanselarij"
+      "nl": "Kanselarij",
+      "da": "TODO: Translate 'Chancellery' to Danish",
+      "sv": "TODO: Translate 'Chancellery' to Swedish"
     }
   },
   "inScheme": {

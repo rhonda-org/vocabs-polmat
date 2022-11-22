@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Marriage",
       "de": "Eheschließung",
-      "nl": "Huwelijk"
+      "nl": "Huwelijk",
+      "da": "Ægteskabsindgåelse",
+      "sv": "Giftermål"
     }
   },
   "inScheme": {

@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Epidemics",
       "de": "Seuchen",
-      "nl": "epidemieën"
+      "nl": "Epidemieën",
+      "da": "Epidemier",
+      "sv": "Epidemier"
     }
   },
   "inScheme": {

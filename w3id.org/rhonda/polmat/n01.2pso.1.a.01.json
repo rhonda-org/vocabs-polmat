@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Superstition",
       "de": "Aberglaube",
-      "nl": "Bijgeloof"
+      "nl": "Bijgeloof",
+      "da": "TODO: Translate 'Superstition' to Danish",
+      "sv": "Vidskepelse"
     }
   },
   "inScheme": {

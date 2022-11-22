@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Violent Crime",
       "de": "Gewalttaten",
-      "nl": "Geweldsmisdrijven"
+      "nl": "Geweldsmisdrijven",
+      "da": "Voldshandlinger",
+      "sv": "Våldsdåd"
     }
   },
   "inScheme": {

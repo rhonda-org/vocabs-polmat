@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Betrothal",
       "de": "Verlobung",
-      "nl": "Verloving"
+      "nl": "Verloving",
+      "da": "Forlovelse",
+      "sv": "Förlovning"
     }
   },
   "inScheme": {

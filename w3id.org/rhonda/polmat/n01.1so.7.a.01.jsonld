@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Succession",
       "de": "Erbschaftswesen",
-      "nl": "Erfenis"
+      "nl": "Erfenis",
+      "da": "Arvevæsen",
+      "sv": "Arv"
     }
   },
   "inScheme": {

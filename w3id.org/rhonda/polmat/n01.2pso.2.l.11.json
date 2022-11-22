@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Public Security",
       "de": "Sicherung Stadt / Land",
-      "nl": "De openbare veiligheid"
+      "nl": "De openbare veiligheid",
+      "da": "Sikring by/land",
+      "sv": "Säkerhet stad/land"
     }
   },
   "inScheme": {

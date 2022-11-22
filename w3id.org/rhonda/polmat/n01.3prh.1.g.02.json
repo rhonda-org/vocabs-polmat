@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Remedies Seller / Quack",
       "de": "Heilmittelverkäufer / Quacksalber",
-      "nl": "Remedies verkoper / kwakzalver"
+      "nl": "Remedies verkoper / kwakzalver",
+      "da": "Lægemiddelsælgere/kvaksalvere",
+      "sv": "Kvacksalvare"
     }
   },
   "inScheme": {

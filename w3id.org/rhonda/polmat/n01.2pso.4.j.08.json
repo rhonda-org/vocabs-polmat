@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Procedure",
       "de": "Verfahren",
-      "nl": "Procedure"
+      "nl": "Procedure",
+      "da": "Proces",
+      "sv": "Process"
     }
   },
   "inScheme": {

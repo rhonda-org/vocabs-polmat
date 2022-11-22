@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Funeral / Corpse Treatment",
       "de": "Bestattungswesen / Leichenbehandlung",
-      "nl": "Begrafenis / lijk behandeling"
+      "nl": "Begrafenis / lijk behandeling",
+      "da": "Begravelsesvæsen/ligbehandling",
+      "sv": "Begravningsväsen/likbehandling"
     }
   },
   "inScheme": {

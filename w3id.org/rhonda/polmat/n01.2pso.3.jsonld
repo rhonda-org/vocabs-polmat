@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "2.3 Censorship",
     "de": "2.3 Zensur und Buchdruck",
-    "nl": "2.3 Censuur"
+    "nl": "2.3 Censuur",
+    "da": "2.3 Censur og bogtryk (-handel)",
+    "sv": "2.3 Censur och boktryckeri"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Censorship",
         "de": "Zensur",
-        "nl": "Censuur"
+        "nl": "Censuur",
+        "da": "Censur",
+        "sv": "Censur"
       }
     }
   ],
@@ -31,7 +35,9 @@
     "prefLabel": {
       "en": "2 Public Order and Safety",
       "de": "2 Öffentliche Sicherheit und Ordnung",
-      "nl": "2 Publieke veiligheid en orde"
+      "nl": "2 Publieke veiligheid en orde",
+      "da": "2 Offentlig sikkerhed og orden",
+      "sv": "2 Offentlig säkerhet och ordning"
     }
   },
   "inScheme": {

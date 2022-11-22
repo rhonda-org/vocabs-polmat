@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Censorship",
       "de": "Zensur",
-      "nl": "Censuur"
+      "nl": "Censuur",
+      "da": "Censur",
+      "sv": "Censur"
     }
   },
   "inScheme": {

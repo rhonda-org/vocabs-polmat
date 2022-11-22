@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Soldiers",
       "de": "Militär/Soldaten",
-      "nl": "soldaten"
+      "nl": "soldaten",
+      "da": "Militær/soldater",
+      "sv": "Militärer/soldater"
     }
   },
   "inScheme": {

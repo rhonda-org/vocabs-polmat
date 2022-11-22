@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "2.1 Amusement",
     "de": "2.1 Vergnügungen & Öffentliche Leichtfertigkeit",
-    "nl": "2.1 Amusement"
+    "nl": "2.1 Amusement",
+    "da": "2.1 Forlystelser; offentlig letsindighed",
+    "sv": "2.1 Nöjen; offentlig lättfärdighet"
   },
   "altLabel": {
     "en": [
@@ -22,7 +24,9 @@
       "prefLabel": {
         "en": "Superstition",
         "de": "Aberglaube",
-        "nl": "Bijgeloof"
+        "nl": "Bijgeloof",
+        "da": "TODO: Translate 'Superstition' to Danish",
+        "sv": "Vidskepelse"
       }
     },
     {
@@ -30,7 +34,9 @@
       "prefLabel": {
         "en": "Gambling",
         "de": "Glücksspiel",
-        "nl": "Gokspelen"
+        "nl": "Gokspelen",
+        "da": "Hasardspil",
+        "sv": "Spel/turspel"
       }
     },
     {
@@ -38,7 +44,9 @@
       "prefLabel": {
         "en": "Gross Mischief",
         "de": "Grober Unfug",
-        "nl": "Groot onheil"
+        "nl": "Groot onheil",
+        "da": "Optøjer",
+        "sv": "Störande av allmän ordning"
       }
     },
     {
@@ -46,7 +54,9 @@
       "prefLabel": {
         "en": "Idleness",
         "de": "Müßiggang/Verschwendung",
-        "nl": "luiheid"
+        "nl": "luiheid",
+        "da": "Lediggang/øselhed",
+        "sv": "Lättja/slöseri"
       }
     },
     {
@@ -54,7 +64,9 @@
       "prefLabel": {
         "en": "Public Plays",
         "de": "Schauspiel",
-        "nl": "Schouwspel"
+        "nl": "Schouwspel",
+        "da": "Skuespil",
+        "sv": "Teater"
       }
     },
     {
@@ -62,7 +74,9 @@
       "prefLabel": {
         "en": "Opening Hours",
         "de": "Sperrstunde",
-        "nl": "Openingstijden"
+        "nl": "Openingstijden",
+        "da": "Spærretid",
+        "sv": "Öppethållande på krogar"
       }
     },
     {
@@ -70,7 +84,9 @@
       "prefLabel": {
         "en": "Libel",
         "de": "Spottgesang",
-        "nl": "Spotzangen"
+        "nl": "Spotzangen",
+        "da": "Skæmteviser",
+        "sv": "TODO: Translate 'Libel' to Swedish"
       }
     },
     {
@@ -78,7 +94,9 @@
       "prefLabel": {
         "en": "Dancing",
         "de": "Tanzen",
-        "nl": "Dansen"
+        "nl": "Dansen",
+        "da": "Dans",
+        "sv": "Dans"
       }
     },
     {
@@ -86,7 +104,9 @@
       "prefLabel": {
         "en": "Parades",
         "de": "Umzüge/Feste",
-        "nl": "parades"
+        "nl": "Parades",
+        "da": "Optog/fester",
+        "sv": "Fester"
       }
     },
     {
@@ -94,7 +114,9 @@
       "prefLabel": {
         "en": "Drunkenness",
         "de": "Zutrinken/Trunksucht",
-        "nl": "Dronkenschap"
+        "nl": "Dronkenschap",
+        "da": "Drikkeri/drikfældighed",
+        "sv": "Dryckenskap/alkoholism"
       }
     }
   ],
@@ -103,7 +125,9 @@
     "prefLabel": {
       "en": "2 Public Order and Safety",
       "de": "2 Öffentliche Sicherheit und Ordnung",
-      "nl": "2 Publieke veiligheid en orde"
+      "nl": "2 Publieke veiligheid en orde",
+      "da": "2 Offentlig sikkerhed og orden",
+      "sv": "2 Offentlig säkerhet och ordning"
     }
   },
   "inScheme": {

@@ -6,7 +6,9 @@
   "prefLabel": {
     "en": "Furnishing",
     "de": "Möblierung",
-    "nl": "Meubilering"
+    "nl": "Meubilering",
+    "da": "Møblering",
+    "sv": "Möbler"
   },
   "altLabel": {
     "en": [
@@ -63,7 +65,9 @@
     "prefLabel": {
       "en": "1.4 Abundance and Luxury",
       "de": "1.4 Aufwand und Luxus",
-      "nl": "1.4 Overdaad en Luxe"
+      "nl": "1.4 Overdaad en Luxe",
+      "da": "1.4 Forbrug og luksus",
+      "sv": "1.4 Lyx"
     }
   },
   "inScheme": {

@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Public Plays",
       "de": "Schauspiel",
-      "nl": "Schouwspel"
+      "nl": "Schouwspel",
+      "da": "Skuespil",
+      "sv": "Teater"
     }
   },
   "inScheme": {

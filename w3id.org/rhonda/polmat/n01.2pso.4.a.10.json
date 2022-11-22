@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Misconduct of Office",
       "de": "Amtsführung / Amtsmißbrauch",
-      "nl": "Ambtsvoering / ambtsmisbruik"
+      "nl": "Ambtsvoering / ambtsmisbruik",
+      "da": "Embedsførelse/embedsmisbrug",
+      "sv": "Ämbetsutövning/-missbruk"
     }
   },
   "inScheme": {

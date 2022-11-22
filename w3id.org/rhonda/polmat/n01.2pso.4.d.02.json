@@ -21,7 +21,9 @@
     "prefLabel": {
       "en": "Stages of Appeal / Authorities Train",
       "de": "Behördenzug",
-      "nl": "Autoriteiten trein"
+      "nl": "Autoriteiten trein",
+      "da": "Kontorgang",
+      "sv": "Tjänstehierarki"
     }
   },
   "inScheme": {
