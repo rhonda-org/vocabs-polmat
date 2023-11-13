@@ -7516,8 +7516,8 @@ polmat:n01.3prh.2 a skos:Concept ;
     skos:prefLabel      "3.2 Poor Relief"@en ,
                         "3.2 SocialeZorg"@nl ,
                         "3.2 Sozialwesen"@de ,
-                        "3.2 "@da ,
-                        "3.2 "@sv ;
+                        "3.2 Socialvæsen"@da ,
+                        "3.2 Socialväsen"@sv ;
     skos:broader        polmat:n01.3prh ;
     skos:narrower       polmat:n01.3prh.2.a ,
                         polmat:n01.3prh.2.b ,
@@ -7532,8 +7532,8 @@ polmat:n01.3prh.2.a a skos:Concept ;
     skos:prefLabel      "Armenwesen"@de ,
                         "Armenzorg"@nl ,
                         "Poor Relief"@en ,
-                        ""@da ,
-                        ""@sv ;
+                        "Fattigforsorg"@da ,
+                        "Vård"@sv ;
     skos:broader        polmat:n01.3prh.2 ;
     skos:narrower       polmat:n01.3prh.2.a.01 ,
                         polmat:n01.3prh.2.a.02 ,
@@ -8184,7 +8184,9 @@ polmat:n01.3prh.3 a skos:Concept ;
     skos:altLabel       "3PRH3"@en;
     skos:prefLabel      "3.3 Education and Culture"@en ,
                         "3.3 Erziehungswesen ; Kultur"@de ,
-                        "3.3 Opleiding en cultuur"@nl ;
+                        "3.3 Opleiding en cultuur"@nl ,
+                        "3.3 Utbildningsväsen; Kultur"@sv ,
+                        "3.3 Opdragelsesvæsen; Kultur"@da ;
     skos:broader        polmat:n01.3prh ;
     skos:narrower       polmat:n01.3prh.3.a ,
                         polmat:n01.3prh.3.b ,
@@ -8674,7 +8676,9 @@ polmat:n01.4esp a skos:Concept ;
     skos:altLabel       "4ESP"@en;
     skos:prefLabel      "4 Wirtschaftsordnung. Arbeits- und Berufsordnung"@de ,
                         "4 Economic order. Work and professional regulations"@en ,
-                        "4 Economische orde. Werk- en professionele voorschriften"@nl ;
+                        "4 Economische orde. Werk- en professionele voorschriften"@nl ,
+                        "4 Näringsliv. Arbets- och yrkesordning"@sv ,
+                        "4 Økonomisk orden. Arbejds- og professionsordning"@da ;
     skos:broader        polmat:n01 ;
     skos:narrower       polmat:n01.4esp.1 ,
                         polmat:n01.4esp.2 ,
@@ -8691,7 +8695,9 @@ polmat:n01.4esp.1 a skos:Concept ;
     skos:altLabel       "4ESP1"@en ;
     skos:prefLabel      "4.1 Landwirtschaft"@de ,
                         "4.1 Agriculture"@en ,
-                        "4.1 landbouw"@nl ;
+                        "4.1 landbouw"@nl ,
+                        "4.1 Lantbruk"@sv ,
+                        "4.1 Landbrug"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.1.a ,
                         polmat:n01.4esp.1.b ,
@@ -8735,7 +8741,7 @@ polmat:n01.4esp.1.a.02 a skos:Concept ;
 polmat:n01.4esp.1.a.03 a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.4esp.1.a.03" ;
-    skos:altLabel       "4ESP1A3"@en;
+    skos:altLabel       "4ESP1A3"@en ;
     skos:prefLabel      "Besitzrechte"@de, "eigendom"@nl, "ownership"@en ;
     skos:broader        polmat:n01.4esp.1.a .
 
@@ -8806,7 +8812,7 @@ polmat:n01.4esp.1.b.05 a skos:Concept ;
 polmat:n01.4esp.1.b.06 a skos:Concept ;
     skos:inScheme       polmat:scheme ;
     skos:notation       "01.4esp.1.b.06" ;
-    skos:altLabel       "4ESP1B6"@en;
+    skos:altLabel       "4ESP1B6"@en ;
     skos:prefLabel      "Frucht"@de, "Fruit"@en, "Fruit"@nl ;
     skos:broader        polmat:n01.4esp.1.b .
 
@@ -9661,7 +9667,9 @@ polmat:n01.4esp.2 a skos:Concept ;
     skos:altLabel       "4ESP2"@en;
     skos:prefLabel      "4.2 Forst- und Bodennutzung"@de ,
                         "4.2 Forestry and Land Use"@en ,
-                        "4.2 Bos- en landgebruik"@nl ;
+                        "4.2 Bos- en landgebruik"@nl ,
+                        "4.2 Skogs- och markutnyttjande"@sv ,
+                        "4.2 Forst- og naturuddnyttelse"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.2.a ,
                         polmat:n01.4esp.2.b ,
@@ -10335,7 +10343,9 @@ polmat:n01.4esp.3 a skos:Concept ;
     skos:altLabel       "4ESP3"@en;
     skos:prefLabel      "4.3 \"Industrielle\" Produktion"@de ,
                         "4.3 \"Industrial\" Production"@en ,
-                        "4.3 \"Industriële\" productie"@nl ;
+                        "4.3 \"Industriële\" productie"@nl ,
+                        "4.3 \"Industriell\" produktion"@sv ,
+                        "4.3 \"Industriel\" produktion"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.3.a ,
                         polmat:n01.4esp.3.b ,
@@ -10541,7 +10551,9 @@ polmat:n01.4esp.4 a skos:Concept ;
     skos:altLabel       "4ESP4"@en;
     skos:prefLabel      "4.4 Arbeitsordnung"@de ,
                         "4.4 Work Order / Work Regulation"@en ,
-                        "4.4 Werorder"@nl ;
+                        "4.4 Werorder"@nl ,
+                        "4.4 Arbetsordning"@sv ,
+                        "4.4 Arbejdsordning"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.4.a ,
                         polmat:n01.4esp.4.b ,
@@ -11265,7 +11277,9 @@ polmat:n01.4esp.5 a skos:Concept ;
     skos:altLabel       "4ESP5"@en;
     skos:prefLabel      "4.5 Handwerk und Gewerbe"@de ,
                         "4.5 Ambacht en handel"@nl ,
-                        "4.5 Craft and trade"@en ;
+                        "4.5 Craft and trade"@en ,
+                        "4.5 Hantverk"@sv ,
+                        "4.5 Håndværk og erhverv"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.5.a ,
                         polmat:n01.4esp.5.b ,
@@ -12307,7 +12321,9 @@ polmat:n01.4esp.6 a skos:Concept ;
     skos:altLabel       "4ESP6"@en;
     skos:prefLabel      "4.6 Handel en diensten"@nl ,
                         "4.6 Handel und Dienstleistungen"@de ,
-                        "4.6 Trade and Services"@en ;
+                        "4.6 Trade and Services"@en ,
+                        "4.6 Handel och tjänsteproduktion"@sv ,
+                        "4.6 Handel og tjenesteydelser"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.6.a ,
                         polmat:n01.4esp.6.b ,
@@ -13710,7 +13726,9 @@ polmat:n01.4esp.7 a skos:Concept ;
     skos:altLabel       "4ESP7"@en;
     skos:prefLabel      "4.7 Geld- und Kreditwesen"@de ,
                         "4.7 Monetary and Credit System"@en ,
-                        "4.7 geld en credit systeem"@nl ;
+                        "4.7 geld en credit systeem"@nl ,
+                        "4.7 Penning- och kreditväsen"@sv ,
+                        "4.7 Penge og kreditvæsen"@da ;
     skos:broader        polmat:n01.4esp ;
     skos:narrower       polmat:n01.4esp.7.a ,
                         polmat:n01.4esp.7.b ,
@@ -14171,7 +14189,9 @@ polmat:n01.5ldp a skos:Concept ;
     skos:altLabel       "5LDP"@en;
     skos:prefLabel      "5 Bodem-inrichting"@nl ,
                         "5 Bodenordnung, Bauwesen, Grundstückswesen, Öffentliche Einrichtungen"@de ,
-                        "5 Land Divisions"@en ;
+                        "5 Land Divisions"@en ,
+                        "5 Markanvändning. Byggenskap. Tomtväsen. Offentliga inrättningar"@sv ,
+                        "5 Jordordning. Byggevæsen og ejendomsvæsen. Offentlige foranstaltninger"@da ;
     skos:broader        polmat:n01 ;
     skos:narrower       polmat:n01.5ldp.1 ,
                         polmat:n01.5ldp.2 ,
@@ -14186,7 +14206,9 @@ polmat:n01.5ldp.1 a skos:Concept ;
     skos:altLabel       "5LDP1"@en;
     skos:prefLabel      "5.1 Wasser"@de ,
                         "5.1 Water"@en ,
-                        "5.1 Water"@nl ;
+                        "5.1 Water"@nl ,
+                        "5.1 Vatten"@sv ,
+                        "5.1 Vand"@da ;
     skos:broader        polmat:n01.5ldp ;
     skos:narrower       polmat:n01.5ldp.1.a ,
                         polmat:n01.5ldp.1.b ,
@@ -14630,7 +14652,9 @@ polmat:n01.5ldp.2 a skos:Concept ;
     skos:altLabel       "5LDP2"@en;
     skos:prefLabel      "5.2 Straßen, Verkehr und Post"@de ,
                         "5.2 Roads, Transportation and Mail"@en ,
-                        "5.2 Wegen, verkeer en post"@nl ;
+                        "5.2 Wegen, verkeer en post"@nl ,
+                        "5.2 Vägar; trafik och post"@sv ,
+                        "5.2 Gader; Trafik; Post"@da ;
     skos:broader        polmat:n01.5ldp ;
     skos:narrower       polmat:n01.5ldp.2.a ,
                         polmat:n01.5ldp.2.b ,
@@ -15004,7 +15028,9 @@ polmat:n01.5ldp.3 a skos:Concept ;
     skos:altLabel       "5LDP3"@en;
     skos:prefLabel      "5.3 Grundstücks- und Bodenordnung"@de ,
                         "5.3 Land Real Estate"@en ,
-                        "5.3 Land- en bodemvoorschriften"@nl ;
+                        "5.3 Land- en bodemvoorschriften"@nl ,
+                        "5.3 Tomt- och markordning"@sv ,
+                        "5.3 Ejendoms- og grundordning"@da ;
     skos:broader        polmat:n01.5ldp ;
     skos:narrower       polmat:n01.5ldp.3.a ,
                         polmat:n01.5ldp.3.b .
@@ -15265,7 +15291,9 @@ polmat:n01.5ldp.4 a skos:Concept ;
     skos:altLabel       "5LDP4"@en;
     skos:prefLabel      "5.4 Bauwesen und Infrastruktur"@de ,
                         "5.4 Bouw en infrastructuur"@nl ,
-                        "5.4 Public Construction Infrastructure"@en ;
+                        "5.4 Public Construction Infrastructure"@en ,
+                        "5.4 Byggenskap och infrastruktur"@sv ,
+                        "5.4 Byggevæsen og infrastruktur"@da ;
     skos:broader        polmat:n01.5ldp ;
     skos:narrower       polmat:n01.5ldp.4.a ,
                         polmat:n01.5ldp.4.b ,
