@@ -22,7 +22,7 @@
       "prefLabel": {
         "en": "4.1 Agriculture",
         "de": "4.1 Landwirtschaft",
-        "nl": "4.1 landbouw",
+        "nl": "4.1 Landbouw",
         "da": "4.1 Landbrug",
         "sv": "4.1 Lantbruk"
       }
@@ -52,7 +52,7 @@
       "prefLabel": {
         "en": "4.4 Work Order / Work Regulation",
         "de": "4.4 Arbeitsordnung",
-        "nl": "4.4 Werorder",
+        "nl": "4.4 Werkorder",
         "da": "4.4 Arbejdsordning",
         "sv": "4.4 Arbetsordning"
       }
@@ -60,7 +60,7 @@
     {
       "id": "https://w3id.org/rhonda/polmat/n01.4esp.5",
       "prefLabel": {
-        "en": "4.5 Craft and trade",
+        "en": "4.5 Craft and Trade",
         "de": "4.5 Handwerk und Gewerbe",
         "nl": "4.5 Ambacht en handel",
         "da": "4.5 Håndværk og erhverv",
@@ -82,7 +82,7 @@
       "prefLabel": {
         "en": "4.7 Monetary and Credit System",
         "de": "4.7 Geld- und Kreditwesen",
-        "nl": "4.7 geld en credit systeem",
+        "nl": "4.7 Geld en credit systeem",
         "da": "4.7 Penge og kreditvæsen",
         "sv": "4.7 Penning- och kreditväsen"
       }
