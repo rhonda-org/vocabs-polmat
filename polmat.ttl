@@ -8695,7 +8695,7 @@ polmat:n01.4esp.1 a skos:Concept ;
     skos:altLabel       "4ESP1"@en ;
     skos:prefLabel      "4.1 Landwirtschaft"@de ,
                         "4.1 Agriculture"@en ,
-                        "4.1 landbouw"@nl ,
+                        "4.1 Landbouw"@nl ,
                         "4.1 Lantbruk"@sv ,
                         "4.1 Landbrug"@da ;
     skos:broader        polmat:n01.4esp ;
@@ -10551,7 +10551,7 @@ polmat:n01.4esp.4 a skos:Concept ;
     skos:altLabel       "4ESP4"@en;
     skos:prefLabel      "4.4 Arbeitsordnung"@de ,
                         "4.4 Work Order / Work Regulation"@en ,
-                        "4.4 Werorder"@nl ,
+                        "4.4 Werkorder"@nl ,
                         "4.4 Arbetsordning"@sv ,
                         "4.4 Arbejdsordning"@da ;
     skos:broader        polmat:n01.4esp ;
@@ -11277,7 +11277,7 @@ polmat:n01.4esp.5 a skos:Concept ;
     skos:altLabel       "4ESP5"@en;
     skos:prefLabel      "4.5 Handwerk und Gewerbe"@de ,
                         "4.5 Ambacht en handel"@nl ,
-                        "4.5 Craft and trade"@en ,
+                        "4.5 Craft and Trade"@en ,
                         "4.5 Hantverk"@sv ,
                         "4.5 Håndværk og erhverv"@da ;
     skos:broader        polmat:n01.4esp ;
@@ -13726,7 +13726,7 @@ polmat:n01.4esp.7 a skos:Concept ;
     skos:altLabel       "4ESP7"@en;
     skos:prefLabel      "4.7 Geld- und Kreditwesen"@de ,
                         "4.7 Monetary and Credit System"@en ,
-                        "4.7 geld en credit systeem"@nl ,
+                        "4.7 Geld en credit systeem"@nl ,
                         "4.7 Penning- och kreditväsen"@sv ,
                         "4.7 Penge og kreditvæsen"@da ;
     skos:broader        polmat:n01.4esp ;
