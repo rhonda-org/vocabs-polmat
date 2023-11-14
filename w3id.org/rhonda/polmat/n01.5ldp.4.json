@@ -1,12 +1,12 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.5ldp.4",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.4",
-  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp.4",
   "prefLabel": {
     "en": "5.4 Public Construction Infrastructure",
     "de": "5.4 Bauwesen und Infrastruktur",
-    "nl": "5.4 Bouw en infrastructuur"
+    "nl": "5.4 Bouw en infrastructuur",
+    "da": "5.4 Byggevæsen og infrastruktur",
+    "sv": "5.4 Byggenskap och infrastruktur"
   },
   "altLabel": {
     "en": [
@@ -63,18 +63,27 @@
     "prefLabel": {
       "en": "5 Land Divisions",
       "de": "5 Bodenordnung, Bauwesen, Grundstückswesen, Öffentliche Einrichtungen",
-      "nl": "5 Bodem-inrichting"
+      "nl": "5 Bodem-inrichting",
+      "da": "5 Jordordning. Byggevæsen og ejendomsvæsen. Offentlige foranstaltninger",
+      "sv": "5 Markanvändning. Byggenskap. Tomtväsen. Offentliga inrättningar"
     }
   },
-  "inScheme": {
-    "id": "https://w3id.org/rhonda/polmat/scheme",
-    "title": {
-      "en": "RHONDA Categories of Matters regulated by Police Ordinances",
-      "de": "RHONDA Materien der Policeyordnungen",
-      "fr": "RHONDA Categorisation des matières d'ordonnances de police",
-      "nl": "RHONDA Politie Ordinanties"
+  "inScheme": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/scheme",
+      "title": {
+        "en": "RHONDA Categories of Matters regulated by Police Ordinances",
+        "de": "RHONDA Materien der Policeyordnungen",
+        "fr": "RHONDA Categorisation des matières d'ordonnances de police",
+        "nl": "RHONDA Politie Ordinanties"
+      }
     }
-  },
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/scheme"
+    }
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
@@ -82,9 +91,8 @@
     "@vocab": "http://www.w3.org/2004/02/skos/core#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "dct": "http://purl.org/dc/terms/",
-    "schema": "http://schema.org/",
+    "schema": "https://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -116,6 +124,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -163,9 +177,13 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
       "@container": "@set"
     }
   }

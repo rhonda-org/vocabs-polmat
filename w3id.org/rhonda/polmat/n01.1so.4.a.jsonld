@@ -1,8 +1,6 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.1so.4.a",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.1so.4.a",
-  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.1so.4.a",
   "prefLabel": {
     "en": "Conspicuous Consumption",
     "de": "Aufwand / Luxus",
@@ -190,15 +188,22 @@
       "sv": "1.4 Lyx"
     }
   },
-  "inScheme": {
-    "id": "https://w3id.org/rhonda/polmat/scheme",
-    "title": {
-      "en": "RHONDA Categories of Matters regulated by Police Ordinances",
-      "de": "RHONDA Materien der Policeyordnungen",
-      "fr": "RHONDA Categorisation des matières d'ordonnances de police",
-      "nl": "RHONDA Politie Ordinanties"
+  "inScheme": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/scheme",
+      "title": {
+        "en": "RHONDA Categories of Matters regulated by Police Ordinances",
+        "de": "RHONDA Materien der Policeyordnungen",
+        "fr": "RHONDA Categorisation des matières d'ordonnances de police",
+        "nl": "RHONDA Politie Ordinanties"
+      }
     }
-  },
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/scheme"
+    }
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
@@ -206,9 +211,8 @@
     "@vocab": "http://www.w3.org/2004/02/skos/core#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "dct": "http://purl.org/dc/terms/",
-    "schema": "http://schema.org/",
+    "schema": "https://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -240,6 +244,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -287,9 +297,13 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
       "@container": "@set"
     }
   }

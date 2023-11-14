@@ -1,12 +1,12 @@
 {
   "id": "https://w3id.org/rhonda/polmat/n01.5ldp",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp",
-  "inbox": "https://test.skohub.io/inbox?target=vocabs-polmat%2Fw3id.org%2Frhonda%2Fpolmat%2Fn01.5ldp",
   "prefLabel": {
     "en": "5 Land Divisions",
     "de": "5 Bodenordnung, Bauwesen, Grundstückswesen, Öffentliche Einrichtungen",
-    "nl": "5 Bodem-inrichting"
+    "nl": "5 Bodem-inrichting",
+    "da": "5 Jordordning. Byggevæsen og ejendomsvæsen. Offentlige foranstaltninger",
+    "sv": "5 Markanvändning. Byggenskap. Tomtväsen. Offentliga inrättningar"
   },
   "altLabel": {
     "en": [
@@ -22,7 +22,9 @@
       "prefLabel": {
         "en": "5.1 Water",
         "de": "5.1 Wasser",
-        "nl": "5.1 Water"
+        "nl": "5.1 Water",
+        "da": "5.1 Vand",
+        "sv": "5.1 Vatten"
       }
     },
     {
@@ -30,7 +32,9 @@
       "prefLabel": {
         "en": "5.2 Roads, Transportation and Mail",
         "de": "5.2 Straßen, Verkehr und Post",
-        "nl": "5.2 Wegen, verkeer en post"
+        "nl": "5.2 Wegen, verkeer en post",
+        "da": "5.2 Gader; Trafik; Post",
+        "sv": "5.2 Vägar; trafik och post"
       }
     },
     {
@@ -38,7 +42,9 @@
       "prefLabel": {
         "en": "5.3 Land Real Estate",
         "de": "5.3 Grundstücks- und Bodenordnung",
-        "nl": "5.3 Land- en bodemvoorschriften"
+        "nl": "5.3 Land- en bodemvoorschriften",
+        "da": "5.3 Ejendoms- og grundordning",
+        "sv": "5.3 Tomt- och markordning"
       }
     },
     {
@@ -46,7 +52,9 @@
       "prefLabel": {
         "en": "5.4 Public Construction Infrastructure",
         "de": "5.4 Bauwesen und Infrastruktur",
-        "nl": "5.4 Bouw en infrastructuur"
+        "nl": "5.4 Bouw en infrastructuur",
+        "da": "5.4 Byggevæsen og infrastruktur",
+        "sv": "5.4 Byggenskap och infrastruktur"
       }
     }
   ],
@@ -58,15 +66,22 @@
       "nl": "Politieordonnanties"
     }
   },
-  "inScheme": {
-    "id": "https://w3id.org/rhonda/polmat/scheme",
-    "title": {
-      "en": "RHONDA Categories of Matters regulated by Police Ordinances",
-      "de": "RHONDA Materien der Policeyordnungen",
-      "fr": "RHONDA Categorisation des matières d'ordonnances de police",
-      "nl": "RHONDA Politie Ordinanties"
+  "inScheme": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/scheme",
+      "title": {
+        "en": "RHONDA Categories of Matters regulated by Police Ordinances",
+        "de": "RHONDA Materien der Policeyordnungen",
+        "fr": "RHONDA Categorisation des matières d'ordonnances de police",
+        "nl": "RHONDA Politie Ordinanties"
+      }
     }
-  },
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/rhonda/polmat/scheme"
+    }
+  ],
   "@context": {
     "@version": 1.1,
     "id": "@id",
@@ -74,9 +89,8 @@
     "@vocab": "http://www.w3.org/2004/02/skos/core#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "dct": "http://purl.org/dc/terms/",
-    "schema": "http://schema.org/",
+    "schema": "https://schema.org/",
     "vann": "http://purl.org/vocab/vann/",
-    "as": "https://www.w3.org/ns/activitystreams#",
     "ldp": "http://www.w3.org/ns/ldp#",
     "title": {
       "@id": "dct:title",
@@ -108,6 +122,12 @@
       "@container": "@language"
     },
     "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
       "@container": [
         "@language",
         "@set"
@@ -155,9 +175,13 @@
     "exactMatch": {
       "@container": "@set"
     },
-    "followers": "as:followers",
-    "inbox": "ldp:inbox",
     "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
       "@container": "@set"
     }
   }
